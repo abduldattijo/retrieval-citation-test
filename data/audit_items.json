@@ -1,0 +1,5782 @@
+{
+ "seed": 20261104,
+ "R": [
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1019",
+   "doc_id": "11603066",
+   "claim": "Rapid phosphotransfer rates govern fidelity in two component systems",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1024",
+   "doc_id": "5373138",
+   "claim": "Recurrent mutations occur frequently within CTCF anchor sites adjacent to oncogenes.",
+   "freq": 1.0,
+   "retrieval_rank": 41
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1041",
+   "doc_id": "25254425",
+   "claim": "Replacement of histone H2A with H2A.Z slows gene activation in yeasts by stabilizing +1 nucleosomes.",
+   "freq": 0.6,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1041",
+   "doc_id": "16626264",
+   "claim": "Replacement of histone H2A with H2A.Z slows gene activation in yeasts by stabilizing +1 nucleosomes.",
+   "freq": 0.9,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1062",
+   "doc_id": "20381484",
+   "claim": "S-nitrosylated GAPDH physiologically transnitrosylates histone deacetylases.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1100",
+   "doc_id": "7662206",
+   "claim": "Statins increase blood cholesterol.",
+   "freq": 0.3,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1104",
+   "doc_id": "3898784",
+   "claim": "Stroke patients with prior use of direct oral anticoagulants have a lower risk of in-hospital mortality than stroke patients with prior use of warfarin.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1107",
+   "doc_id": "20532591",
+   "claim": "Subcutaneous fat depots undergo extensive browning processes after cold exposure.",
+   "freq": 1.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1110",
+   "doc_id": "13770184",
+   "claim": "Suboptimal nutrition is not predictive of chronic disease",
+   "freq": 1.0,
+   "retrieval_rank": 69
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "113",
+   "doc_id": "6157837",
+   "claim": "Angiotensin converting enzyme inhibitors are associated with increased risk for functional renal insufficiency.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1130",
+   "doc_id": "17997584",
+   "claim": "T regulatory cells (tTregs) lacking \u03b1v\u03b28 are more adept at suppressing pathogenic T-cell responses during active inflammation.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1137",
+   "doc_id": "33370",
+   "claim": "TNFAIP3 is a tumor suppressor in glioblastoma.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1144",
+   "doc_id": "10071552",
+   "claim": "Taxation of sugar-sweetened beverages had no effect on the incidence rate of type II diabetes in India.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1146",
+   "doc_id": "13906581",
+   "claim": "Teaching hospitals do not provide better care than non-teaching hospitals.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1150",
+   "doc_id": "11369420",
+   "claim": "Tetraspanin-3 is a causative factor in the development of acute myelogenous leukemia",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1163",
+   "doc_id": "15305881",
+   "claim": "The DdrB protein from Deinococcus radiodurans is an alternative SSB.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1187",
+   "doc_id": "52873726",
+   "claim": "The YAP1 and TEAD complex tanslocates into the nucleus where it interacts with transcription factors and DNA-binding proteins that modulate target gene transcription.",
+   "freq": 0.9,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1191",
+   "doc_id": "30655442",
+   "claim": "The amount of publicly available DNA data doubles every 10 years.",
+   "freq": 1.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1200",
+   "doc_id": "3441524",
+   "claim": "The binding orientation of the ML-SA1 activator at hTRPML2 is different from the binding orientation of the ML-SA1 activator at hTRPML1.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1202",
+   "doc_id": "3475317",
+   "claim": "The center of the granuloma in an immune cell induces a pro-inflammatory immune response.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1216",
+   "doc_id": "24142891",
+   "claim": "The extracellular domain of TMEM27 is cleaved in human beta cells.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1221",
+   "doc_id": "19736671",
+   "claim": "The genomic aberrations found in matasteses are very similar to those found in the primary tumor.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1241",
+   "doc_id": "4427392",
+   "claim": "The myocardial lineage develops from cardiac progenitors of mesodermal origin.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1259",
+   "doc_id": "24341590",
+   "claim": "The relationship between a breast cancer patient's capacity to metabolize tamoxifen and treatment outcome is dependent on the patient's genetic make-up.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1266",
+   "doc_id": "37480103",
+   "claim": "The risk of breast cancer among parous women increases with placental weight of pregnancies, and this association is strongest for premenopausal breast cancer.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "127",
+   "doc_id": "21598000",
+   "claim": "Arginine 90 in p150n is important for interaction with EB1.",
+   "freq": 0.9,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1270",
+   "doc_id": "13900610",
+   "claim": "The risk of male prisoners harming themselves is ten times that of female prisoners.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "128",
+   "doc_id": "8290953",
+   "claim": "Arterioles have a larger lumen diameter than venules.",
+   "freq": 0.8,
+   "retrieval_rank": 559
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1292",
+   "doc_id": "56893404",
+   "claim": "There is no association between HNF4A mutations and diabetes risks.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1303",
+   "doc_id": "12631697",
+   "claim": "Tirasemtiv has no effect on fast-twitch muscle.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1352",
+   "doc_id": "12885341",
+   "claim": "Upregulation of mosGCTL-1 is induced upon infection with West Nile virus.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1379",
+   "doc_id": "16322674",
+   "claim": "Women with a higher birth weight are more likely to develop breast cancer later in life.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1379",
+   "doc_id": "27123743",
+   "claim": "Women with a higher birth weight are more likely to develop breast cancer later in life.",
+   "freq": 0.7,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1379",
+   "doc_id": "23557241",
+   "claim": "Women with a higher birth weight are more likely to develop breast cancer later in life.",
+   "freq": 0.9,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "1379",
+   "doc_id": "17450673",
+   "claim": "Women with a higher birth weight are more likely to develop breast cancer later in life.",
+   "freq": 1.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "146",
+   "doc_id": "10582939",
+   "claim": "Autologous transplantation of mesenchymal stem cells has lower rates of rejection than induction therapy with anti-interleukin-2 receptor antibodies.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "148",
+   "doc_id": "1084345",
+   "claim": "Autophagy declines in aged organisms.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "163",
+   "doc_id": "18872233",
+   "claim": "Bariatric surgery has a positive impact on mental health.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "179",
+   "doc_id": "16322674",
+   "claim": "Birth-weight is positively associated with breast cancer.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "179",
+   "doc_id": "27123743",
+   "claim": "Birth-weight is positively associated with breast cancer.",
+   "freq": 0.7,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "179",
+   "doc_id": "23557241",
+   "claim": "Birth-weight is positively associated with breast cancer.",
+   "freq": 1.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "179",
+   "doc_id": "17450673",
+   "claim": "Birth-weight is positively associated with breast cancer.",
+   "freq": 1.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "198",
+   "doc_id": "2177022",
+   "claim": "CCL19 is absent within dLNs.",
+   "freq": 1.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "218",
+   "doc_id": "21366394",
+   "claim": "CX3CR1 on the Th2 cells promotes airway inflammation.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "219",
+   "doc_id": "21366394",
+   "claim": "CX3CR1 on the Th2 cells suppresses airway inflammation.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "230",
+   "doc_id": "3067015",
+   "claim": "Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "233",
+   "doc_id": "4388470",
+   "claim": "Cell autonomous sex determination in somatic cells does not occur in Galliformes.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "237",
+   "doc_id": "4942718",
+   "claim": "Cells lacking clpC have a defect in sporulation efficiency in Bacillus subtilis.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "238",
+   "doc_id": "2251426",
+   "claim": "Cells undergoing methionine restriction may activate miRNAs.",
+   "freq": 0.8,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "261",
+   "doc_id": "1122279",
+   "claim": "Chronic aerobic exercise alters endothelial function, improving vasodilating mechanisms mediated by NO.",
+   "freq": 1.0,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "261",
+   "doc_id": "10697096",
+   "claim": "Chronic aerobic exercise alters endothelial function, improving vasodilating mechanisms mediated by NO.",
+   "freq": 1.0,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "268",
+   "doc_id": "970012",
+   "claim": "Cold exposure increases BAT recruitment.",
+   "freq": 0.3,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "274",
+   "doc_id": "11614737",
+   "claim": "Combination nicotine replacement therapies with varenicline or bupropion lead to significantly higher long-term abstinence rates at 52 weeks than varenicline monotherapy.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "312",
+   "doc_id": "6173523",
+   "claim": "De novo assembly of sequence data has more specific contigs than unassembled sequence data.",
+   "freq": 0.1,
+   "retrieval_rank": 33
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "324",
+   "doc_id": "2014909",
+   "claim": "Deleting Raptor reduces G-CSF levels.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "327",
+   "doc_id": "17997584",
+   "claim": "Deletion of \u03b1v\u03b28 does not result in a spontaneous inflammatory phenotype.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "354",
+   "doc_id": "8774475",
+   "claim": "Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "36",
+   "doc_id": "5152028",
+   "claim": "A deficiency of vitamin B12 increases blood levels of homocysteine.",
+   "freq": 0.0,
+   "retrieval_rank": 12
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "36",
+   "doc_id": "11705328",
+   "claim": "A deficiency of vitamin B12 increases blood levels of homocysteine.",
+   "freq": 0.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "362",
+   "doc_id": "38587347",
+   "claim": "During the primary early antibody response activated B cells migrate toward the inner-and outer paracortical areas where oxysterol accumulation is generated by stromal cells.",
+   "freq": 0.8,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "411",
+   "doc_id": "14924526",
+   "claim": "Febrile seizures reduce the threshold for development of epilepsy.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "415",
+   "doc_id": "6309659",
+   "claim": "Female carriers of the Apolipoprotein E4 (APOE4) allele have increased risk for dementia.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "421",
+   "doc_id": "11172205",
+   "claim": "Flexible molecules experience greater steric hindrance in the tumor microenviroment than rigid molecules.",
+   "freq": 0.0,
+   "retrieval_rank": 40
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "431",
+   "doc_id": "28937856",
+   "claim": "FoxO3a activation in neuronal death is mediated by reactive oxygen species (ROS).",
+   "freq": 0.4,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "439",
+   "doc_id": "4423559",
+   "claim": "Fz/PCP-dependent Pk localizes to the anterior membrane of neuroectoderm cells during zebrafish neuralation",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "440",
+   "doc_id": "4423559",
+   "claim": "Fz/PCP-dependent Pk localizes to the anterior membrane of notochord cells during zebrafish neuralation.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "443",
+   "doc_id": "10165258",
+   "claim": "GATA-3 is important for hematopoietic stem cell (HSC) function.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "452",
+   "doc_id": "12804937",
+   "claim": "Gene expression does not vary appreciably across genetically identical cells.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "452",
+   "doc_id": "464511",
+   "claim": "Gene expression does not vary appreciably across genetically identical cells.",
+   "freq": 0.8,
+   "retrieval_rank": 67
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "475",
+   "doc_id": "18678095",
+   "claim": "Glycolysis is one of the primary glycometabolic pathways in cells.",
+   "freq": 0.6,
+   "retrieval_rank": 11
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "478",
+   "doc_id": "14767844",
+   "claim": "Golli-deficient T-cells prefer to differentiate into an anergic phenotype in the adaptive immune response when there are increased levels of Ca2+ in the cytosol.",
+   "freq": 0.8888888888888888,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "5",
+   "doc_id": "13734012",
+   "claim": "1/2000 in UK have abnormal PrP positivity.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "50",
+   "doc_id": "12580014",
+   "claim": "AIRE is expressed in some skin tumors.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "501",
+   "doc_id": "17930286",
+   "claim": "Headaches are not correlated with cognitive impairment.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "51",
+   "doc_id": "45638119",
+   "claim": "ALDH1 expression is associated with better breast cancer outcomes.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "513",
+   "doc_id": "13230773",
+   "claim": "High cardiopulmonary fitness causes increased mortality rate.",
+   "freq": 0.4,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "514",
+   "doc_id": "16256507",
+   "claim": "High dietary calcium intakes are unnecessary for prevention of secondary hyperparathyroidism in subjects with 25(OH)D levels above 75 nmol/liter.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "517",
+   "doc_id": "15663829",
+   "claim": "High levels of copeptin decrease risk of diabetes.",
+   "freq": 0.7,
+   "retrieval_rank": 37
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "521",
+   "doc_id": "34873974",
+   "claim": "High-sensitivity cardiac troponin T (HSCT-T) dosage may not be diagnostic if the onset of symptoms occurs less than 3 hours before acute myocardial injury (AMI).",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "528",
+   "doc_id": "5476778",
+   "claim": "Human T-lymphotropic virus type-I-associated myelopathy / tropical spastic paraparesis (HAM/TSP) patients produce Immunoglobulin G (IgG) antibodies which cross-react with an immunodominant epitope in Tax.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "53",
+   "doc_id": "45638119",
+   "claim": "ALDH1 expression is associated with poorer prognosis in breast cancer.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "532",
+   "doc_id": "12991445",
+   "claim": "Hyperfibrinogenemia decreases rates of femoropopliteal bypass thrombosis.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "533",
+   "doc_id": "12991445",
+   "claim": "Hyperfibrinogenemia increases rates of femoropopliteal bypass thrombosis.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "54",
+   "doc_id": "49556906",
+   "claim": "AMP-activated protein kinase (AMPK) activation increases inflammation-related fibrosis in the lungs.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "549",
+   "doc_id": "9433958",
+   "claim": "IRG1 has antiviral effects against neurotropic viruses.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "56",
+   "doc_id": "4709641",
+   "claim": "APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation causing GABA neuron degeneration.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "569",
+   "doc_id": "23460562",
+   "claim": "In adult tissue, most T cells are memory T cells.",
+   "freq": 1.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "57",
+   "doc_id": "4709641",
+   "claim": "APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation, delaying GABA neuron degeneration.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "575",
+   "doc_id": "10300888",
+   "claim": "In domesticated populations of Saccharomyces cerevisiae, whole chromosome aneuploidy is very uncommon.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "577",
+   "doc_id": "5289038",
+   "claim": "In mice, P. chabaudi parasites are able to proliferate faster early in infection when inoculated at lower numbers than when inoculated at high numbers.",
+   "freq": 1.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "628",
+   "doc_id": "24512064",
+   "claim": "Infection of human T-cell lymphotropic virus type 1 is most frequent in individuals of African origin.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "636",
+   "doc_id": "24294572",
+   "claim": "Inositol lipid 3-phosphatase PTEN converts Ptdlns(3,4)P 2 into phosphatidylinositol 4-phosphate.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "637",
+   "doc_id": "25649714",
+   "claim": "Input from  mental and physical health care professionals is effective at decreasing homelessness.",
+   "freq": 0.7,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "641",
+   "doc_id": "5912283",
+   "claim": "Insomnia can be effectively treated with cognitive behavioral therapy.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "641",
+   "doc_id": "31554917",
+   "claim": "Insomnia can be effectively treated with cognitive behavioral therapy.",
+   "freq": 0.1,
+   "retrieval_rank": 12
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "644",
+   "doc_id": "13619127",
+   "claim": "Insulin increases risk of severe kidney failure.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "659",
+   "doc_id": "1215116",
+   "claim": "Ivermectin is used to treat lymphatic filariasis.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "660",
+   "doc_id": "1215116",
+   "claim": "Ivermectin is used to treat onchocerciasis.",
+   "freq": 1.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "674",
+   "doc_id": "2095573",
+   "claim": "LDL cholesterol has no involvement in the development of cardiovascular disease.",
+   "freq": 1.0,
+   "retrieval_rank": 16
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "684",
+   "doc_id": "4942718",
+   "claim": "Lack of clpC does not affect sporulation efficiency in Bacillus subtilis cells.",
+   "freq": 0.7,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "690",
+   "doc_id": "18750453",
+   "claim": "Less than 10% of the gabonese children with Schimmelpenning-Feuerstein-Mims syndrome (SFM) had a plasma lactate of more than 5mmol/L.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "700",
+   "doc_id": "4350400",
+   "claim": "Localization of PIN1 in the Arabidopsis embryo does not require VPS9a",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "715",
+   "doc_id": "18421962",
+   "claim": "Low expression of miR7a does represses target genes and exerts a biological function in ovaries.",
+   "freq": 0.0,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "72",
+   "doc_id": "6076903",
+   "claim": "Activator-inhibitor pairs are provided dorsally by Admpchordin.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "723",
+   "doc_id": "5531479",
+   "claim": "Ly49Q directs the organization of neutrophil migration to inflammation sites by regulating membrane raft functions.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "728",
+   "doc_id": "7521113",
+   "claim": "Ly6C hi monocytes have a lower inflammatory capacity than Ly6C lo monocytes.",
+   "freq": 0.2,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "728",
+   "doc_id": "36444198",
+   "claim": "Ly6C hi monocytes have a lower inflammatory capacity than Ly6C lo monocytes.",
+   "freq": 0.8,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "729",
+   "doc_id": "26851674",
+   "claim": "Lymphadenopathy is observed in knockin mouse lacking the SHP-2 MAPK pathway.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "75",
+   "doc_id": "4387784",
+   "claim": "Active H. pylori urease has a polymeric structure that compromises two subunits, UreA and UreB.",
+   "freq": 0.1,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "759",
+   "doc_id": "1805641",
+   "claim": "Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have a dramatic impact in reducing malaria transmission.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "768",
+   "doc_id": "6421792",
+   "claim": "Mercaptopurine is anabolized into the inactive methylmercaptopurine by thiopurine methyltrasnferase (TPMT).",
+   "freq": 0.1,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "770",
+   "doc_id": "15476777",
+   "claim": "Metastatic colorectal cancer treated with a single agent fluoropyrimidines resulted in reduced efficacy and lower quality of life when compared with oxaliplatin-based chemotherapy in elderly patients.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "784",
+   "doc_id": "2356950",
+   "claim": "MicroRNA is involved in the regulation of Neural Stem Cell (NSC) differentiation and proliferation dynamic homeostasis",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "793",
+   "doc_id": "8551160",
+   "claim": "Mitochondria are uninvolved in apoptosis.",
+   "freq": 0.3,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "800",
+   "doc_id": "22543403",
+   "claim": "Modifying the epigenome in the brain affects the normal human aging process by affecting certain genes related to neurogenesis.",
+   "freq": 0.1,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "805",
+   "doc_id": "22180793",
+   "claim": "Monoclonal antibody targeting of N-cadherin inhibits metastasis.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "821",
+   "doc_id": "8646760",
+   "claim": "N-terminal cleavage reduces success identifying transcription start sites.",
+   "freq": 0.8,
+   "retrieval_rank": 12
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "830",
+   "doc_id": "1897324",
+   "claim": "NF2 (Merlin) causes phosphorylation and subsequent cytoplasmic sequestration of YAP in Drosophila by activating LATS1/2 kinases.",
+   "freq": 0.7,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "834",
+   "doc_id": "5483793",
+   "claim": "NOX2-independent pathways can generate peroxynitrite by reacting with nitrogen intermediates.",
+   "freq": 0.3,
+   "retrieval_rank": 154
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "837",
+   "doc_id": "15928989",
+   "claim": "NR5A2 is important in development of endometrial tissues.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "852",
+   "doc_id": "13843341",
+   "claim": "Non-invasive ventilation use should be decreased if there is inadequate response to conventional treatment.",
+   "freq": 0.3,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "859",
+   "doc_id": "1982286",
+   "claim": "Normal expression of RUNX1 has tumor-promoting effects.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "870",
+   "doc_id": "195689316",
+   "claim": "Obesity decreases life quality.",
+   "freq": 0.8,
+   "retrieval_rank": 18
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "903",
+   "doc_id": "10648422",
+   "claim": "PD-1 triggering on monocytes reduces IL-10 production by monocytes.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "911",
+   "doc_id": "11254556",
+   "claim": "PKG-la plays an essential role in expression of pain hypersensitivity in PGK-la knockout mice.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "921",
+   "doc_id": "1642727",
+   "claim": "Participating in six months of physical activity improves cognitive functioning.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "956",
+   "doc_id": "12956194",
+   "claim": "Pleiotropic coupling of GLP-1R to intracellular effectors promotes distinct profiles of cellular signaling.",
+   "freq": 0.8,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "975",
+   "doc_id": "5304891",
+   "claim": "Primary pro-inflammatory cytokines induce secondary pro- and anti-inflammatory mediators.",
+   "freq": 0.2,
+   "retrieval_rank": 79
+  },
+  {
+   "kind": "R",
+   "group": "relevant",
+   "claim_id": "982",
+   "doc_id": "2988714",
+   "claim": "Proteins synthesized at the growth cone are ubiquitinated at a higher rate than proteins from the cell body.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1019",
+   "doc_id": "1225513",
+   "claim": "Rapid phosphotransfer rates govern fidelity in two component systems",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1041",
+   "doc_id": "15778034",
+   "claim": "Replacement of histone H2A with H2A.Z slows gene activation in yeasts by stabilizing +1 nucleosomes.",
+   "freq": 0.5,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1041",
+   "doc_id": "18694784",
+   "claim": "Replacement of histone H2A with H2A.Z slows gene activation in yeasts by stabilizing +1 nucleosomes.",
+   "freq": 0.8,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1062",
+   "doc_id": "25748308",
+   "claim": "S-nitrosylated GAPDH physiologically transnitrosylates histone deacetylases.",
+   "freq": 0.5,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1100",
+   "doc_id": "21557614",
+   "claim": "Statins increase blood cholesterol.",
+   "freq": 0.8,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1100",
+   "doc_id": "43629704",
+   "claim": "Statins increase blood cholesterol.",
+   "freq": 1.0,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1107",
+   "doc_id": "29381091",
+   "claim": "Subcutaneous fat depots undergo extensive browning processes after cold exposure.",
+   "freq": 0.9,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1107",
+   "doc_id": "14865329",
+   "claim": "Subcutaneous fat depots undergo extensive browning processes after cold exposure.",
+   "freq": 0.8,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1107",
+   "doc_id": "32955023",
+   "claim": "Subcutaneous fat depots undergo extensive browning processes after cold exposure.",
+   "freq": 0.6,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1110",
+   "doc_id": "8529693",
+   "claim": "Suboptimal nutrition is not predictive of chronic disease",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1110",
+   "doc_id": "24273592",
+   "claim": "Suboptimal nutrition is not predictive of chronic disease",
+   "freq": 0.6,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "113",
+   "doc_id": "25816994",
+   "claim": "Angiotensin converting enzyme inhibitors are associated with increased risk for functional renal insufficiency.",
+   "freq": 0.5,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1137",
+   "doc_id": "38355793",
+   "claim": "TNFAIP3 is a tumor suppressor in glioblastoma.",
+   "freq": 1.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1144",
+   "doc_id": "9822397",
+   "claim": "Taxation of sugar-sweetened beverages had no effect on the incidence rate of type II diabetes in India.",
+   "freq": 0.6,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1144",
+   "doc_id": "6207111",
+   "claim": "Taxation of sugar-sweetened beverages had no effect on the incidence rate of type II diabetes in India.",
+   "freq": 0.5,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1163",
+   "doc_id": "799586",
+   "claim": "The DdrB protein from Deinococcus radiodurans is an alternative SSB.",
+   "freq": 0.8,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1187",
+   "doc_id": "12737132",
+   "claim": "The YAP1 and TEAD complex tanslocates into the nucleus where it interacts with transcription factors and DNA-binding proteins that modulate target gene transcription.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1187",
+   "doc_id": "11535539",
+   "claim": "The YAP1 and TEAD complex tanslocates into the nucleus where it interacts with transcription factors and DNA-binding proteins that modulate target gene transcription.",
+   "freq": 0.8,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1200",
+   "doc_id": "21114100",
+   "claim": "The binding orientation of the ML-SA1 activator at hTRPML2 is different from the binding orientation of the ML-SA1 activator at hTRPML1.",
+   "freq": 0.8,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1202",
+   "doc_id": "34615397",
+   "claim": "The center of the granuloma in an immune cell induces a pro-inflammatory immune response.",
+   "freq": 0.5,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1241",
+   "doc_id": "25858295",
+   "claim": "The myocardial lineage develops from cardiac progenitors of mesodermal origin.",
+   "freq": 0.6,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "1259",
+   "doc_id": "13069283",
+   "claim": "The relationship between a breast cancer patient's capacity to metabolize tamoxifen and treatment outcome is dependent on the patient's genetic make-up.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "127",
+   "doc_id": "35231675",
+   "claim": "Arginine 90 in p150n is important for interaction with EB1.",
+   "freq": 0.7,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "128",
+   "doc_id": "23513718",
+   "claim": "Arterioles have a larger lumen diameter than venules.",
+   "freq": 0.6,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "146",
+   "doc_id": "40164383",
+   "claim": "Autologous transplantation of mesenchymal stem cells has lower rates of rejection than induction therapy with anti-interleukin-2 receptor antibodies.",
+   "freq": 0.5,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "148",
+   "doc_id": "10012166",
+   "claim": "Autophagy declines in aged organisms.",
+   "freq": 0.6,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "148",
+   "doc_id": "56528795",
+   "claim": "Autophagy declines in aged organisms.",
+   "freq": 1.0,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "163",
+   "doc_id": "43220289",
+   "claim": "Bariatric surgery has a positive impact on mental health.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "163",
+   "doc_id": "20130904",
+   "claim": "Bariatric surgery has a positive impact on mental health.",
+   "freq": 0.6,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "198",
+   "doc_id": "13778710",
+   "claim": "CCL19 is absent within dLNs.",
+   "freq": 0.8,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "233",
+   "doc_id": "41380943",
+   "claim": "Cell autonomous sex determination in somatic cells does not occur in Galliformes.",
+   "freq": 0.9,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "237",
+   "doc_id": "12881593",
+   "claim": "Cells lacking clpC have a defect in sporulation efficiency in Bacillus subtilis.",
+   "freq": 0.7,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "237",
+   "doc_id": "34386619",
+   "claim": "Cells lacking clpC have a defect in sporulation efficiency in Bacillus subtilis.",
+   "freq": 1.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "238",
+   "doc_id": "4463811",
+   "claim": "Cells undergoing methionine restriction may activate miRNAs.",
+   "freq": 0.8,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "238",
+   "doc_id": "23017040",
+   "claim": "Cells undergoing methionine restriction may activate miRNAs.",
+   "freq": 0.9,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "261",
+   "doc_id": "32322418",
+   "claim": "Chronic aerobic exercise alters endothelial function, improving vasodilating mechanisms mediated by NO.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "261",
+   "doc_id": "25822299",
+   "claim": "Chronic aerobic exercise alters endothelial function, improving vasodilating mechanisms mediated by NO.",
+   "freq": 0.9,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "261",
+   "doc_id": "46743299",
+   "claim": "Chronic aerobic exercise alters endothelial function, improving vasodilating mechanisms mediated by NO.",
+   "freq": 0.6,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "268",
+   "doc_id": "4319174",
+   "claim": "Cold exposure increases BAT recruitment.",
+   "freq": 1.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "268",
+   "doc_id": "29381091",
+   "claim": "Cold exposure increases BAT recruitment.",
+   "freq": 1.0,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "274",
+   "doc_id": "5114940",
+   "claim": "Combination nicotine replacement therapies with varenicline or bupropion lead to significantly higher long-term abstinence rates at 52 weeks than varenicline monotherapy.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "312",
+   "doc_id": "14464451",
+   "claim": "De novo assembly of sequence data has more specific contigs than unassembled sequence data.",
+   "freq": 0.9,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "312",
+   "doc_id": "32770503",
+   "claim": "De novo assembly of sequence data has more specific contigs than unassembled sequence data.",
+   "freq": 1.0,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "324",
+   "doc_id": "22174015",
+   "claim": "Deleting Raptor reduces G-CSF levels.",
+   "freq": 1.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "354",
+   "doc_id": "1241113",
+   "claim": "Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis.",
+   "freq": 0.6,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "36",
+   "doc_id": "33409100",
+   "claim": "A deficiency of vitamin B12 increases blood levels of homocysteine.",
+   "freq": 0.6,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "362",
+   "doc_id": "15058155",
+   "claim": "During the primary early antibody response activated B cells migrate toward the inner-and outer paracortical areas where oxysterol accumulation is generated by stromal cells.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "362",
+   "doc_id": "15488881",
+   "claim": "During the primary early antibody response activated B cells migrate toward the inner-and outer paracortical areas where oxysterol accumulation is generated by stromal cells.",
+   "freq": 1.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "415",
+   "doc_id": "51386222",
+   "claim": "Female carriers of the Apolipoprotein E4 (APOE4) allele have increased risk for dementia.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "421",
+   "doc_id": "12866641",
+   "claim": "Flexible molecules experience greater steric hindrance in the tumor microenviroment than rigid molecules.",
+   "freq": 0.9,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "421",
+   "doc_id": "4346436",
+   "claim": "Flexible molecules experience greater steric hindrance in the tumor microenviroment than rigid molecules.",
+   "freq": 0.9,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "431",
+   "doc_id": "14496749",
+   "claim": "FoxO3a activation in neuronal death is mediated by reactive oxygen species (ROS).",
+   "freq": 0.9,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "431",
+   "doc_id": "29429111",
+   "claim": "FoxO3a activation in neuronal death is mediated by reactive oxygen species (ROS).",
+   "freq": 0.6,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "452",
+   "doc_id": "9154703",
+   "claim": "Gene expression does not vary appreciably across genetically identical cells.",
+   "freq": 1.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "475",
+   "doc_id": "195689757",
+   "claim": "Glycolysis is one of the primary glycometabolic pathways in cells.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "475",
+   "doc_id": "21626639",
+   "claim": "Glycolysis is one of the primary glycometabolic pathways in cells.",
+   "freq": 1.0,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "475",
+   "doc_id": "8477699",
+   "claim": "Glycolysis is one of the primary glycometabolic pathways in cells.",
+   "freq": 0.7,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "478",
+   "doc_id": "34854444",
+   "claim": "Golli-deficient T-cells prefer to differentiate into an anergic phenotype in the adaptive immune response when there are increased levels of Ca2+ in the cytosol.",
+   "freq": 0.7777777777777778,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "50",
+   "doc_id": "18488986",
+   "claim": "AIRE is expressed in some skin tumors.",
+   "freq": 0.5,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "513",
+   "doc_id": "12770738",
+   "claim": "High cardiopulmonary fitness causes increased mortality rate.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "513",
+   "doc_id": "6647414",
+   "claim": "High cardiopulmonary fitness causes increased mortality rate.",
+   "freq": 1.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "514",
+   "doc_id": "3034412",
+   "claim": "High dietary calcium intakes are unnecessary for prevention of secondary hyperparathyroidism in subjects with 25(OH)D levels above 75 nmol/liter.",
+   "freq": 0.6,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "514",
+   "doc_id": "4462079",
+   "claim": "High dietary calcium intakes are unnecessary for prevention of secondary hyperparathyroidism in subjects with 25(OH)D levels above 75 nmol/liter.",
+   "freq": 0.6,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "517",
+   "doc_id": "19658917",
+   "claim": "High levels of copeptin decrease risk of diabetes.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "54",
+   "doc_id": "3973445",
+   "claim": "AMP-activated protein kinase (AMPK) activation increases inflammation-related fibrosis in the lungs.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "54",
+   "doc_id": "26025820",
+   "claim": "AMP-activated protein kinase (AMPK) activation increases inflammation-related fibrosis in the lungs.",
+   "freq": 0.7,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "549",
+   "doc_id": "2274272",
+   "claim": "IRG1 has antiviral effects against neurotropic viruses.",
+   "freq": 0.5,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "569",
+   "doc_id": "37311371",
+   "claim": "In adult tissue, most T cells are memory T cells.",
+   "freq": 0.5,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "569",
+   "doc_id": "3155731",
+   "claim": "In adult tissue, most T cells are memory T cells.",
+   "freq": 0.5,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "575",
+   "doc_id": "4421746",
+   "claim": "In domesticated populations of Saccharomyces cerevisiae, whole chromosome aneuploidy is very uncommon.",
+   "freq": 0.9,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "577",
+   "doc_id": "8133050",
+   "claim": "In mice, P. chabaudi parasites are able to proliferate faster early in infection when inoculated at lower numbers than when inoculated at high numbers.",
+   "freq": 0.5,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "628",
+   "doc_id": "28738741",
+   "claim": "Infection of human T-cell lymphotropic virus type 1 is most frequent in individuals of African origin.",
+   "freq": 1.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "637",
+   "doc_id": "6129301",
+   "claim": "Input from  mental and physical health care professionals is effective at decreasing homelessness.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "637",
+   "doc_id": "154243324",
+   "claim": "Input from  mental and physical health care professionals is effective at decreasing homelessness.",
+   "freq": 0.5,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "641",
+   "doc_id": "17973630",
+   "claim": "Insomnia can be effectively treated with cognitive behavioral therapy.",
+   "freq": 0.5,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "674",
+   "doc_id": "43629704",
+   "claim": "LDL cholesterol has no involvement in the development of cardiovascular disease.",
+   "freq": 0.8,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "674",
+   "doc_id": "7662206",
+   "claim": "LDL cholesterol has no involvement in the development of cardiovascular disease.",
+   "freq": 1.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "684",
+   "doc_id": "12881593",
+   "claim": "Lack of clpC does not affect sporulation efficiency in Bacillus subtilis cells.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "684",
+   "doc_id": "34386619",
+   "claim": "Lack of clpC does not affect sporulation efficiency in Bacillus subtilis cells.",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "700",
+   "doc_id": "16557565",
+   "claim": "Localization of PIN1 in the Arabidopsis embryo does not require VPS9a",
+   "freq": 0.7,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "715",
+   "doc_id": "13290521",
+   "claim": "Low expression of miR7a does represses target genes and exerts a biological function in ovaries.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "715",
+   "doc_id": "17544977",
+   "claim": "Low expression of miR7a does represses target genes and exerts a biological function in ovaries.",
+   "freq": 1.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "72",
+   "doc_id": "1031534",
+   "claim": "Activator-inhibitor pairs are provided dorsally by Admpchordin.",
+   "freq": 0.8,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "728",
+   "doc_id": "14492339",
+   "claim": "Ly6C hi monocytes have a lower inflammatory capacity than Ly6C lo monocytes.",
+   "freq": 0.9,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "75",
+   "doc_id": "13965483",
+   "claim": "Active H. pylori urease has a polymeric structure that compromises two subunits, UreA and UreB.",
+   "freq": 1.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "759",
+   "doc_id": "12409683",
+   "claim": "Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have a dramatic impact in reducing malaria transmission.",
+   "freq": 0.8,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "759",
+   "doc_id": "10617916",
+   "claim": "Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have a dramatic impact in reducing malaria transmission.",
+   "freq": 0.7,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "759",
+   "doc_id": "3929361",
+   "claim": "Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have a dramatic impact in reducing malaria transmission.",
+   "freq": 0.7,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "768",
+   "doc_id": "19497526",
+   "claim": "Mercaptopurine is anabolized into the inactive methylmercaptopurine by thiopurine methyltrasnferase (TPMT).",
+   "freq": 0.9,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "768",
+   "doc_id": "1373287",
+   "claim": "Mercaptopurine is anabolized into the inactive methylmercaptopurine by thiopurine methyltrasnferase (TPMT).",
+   "freq": 1.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "784",
+   "doc_id": "6285534",
+   "claim": "MicroRNA is involved in the regulation of Neural Stem Cell (NSC) differentiation and proliferation dynamic homeostasis",
+   "freq": 0.6,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "784",
+   "doc_id": "16627684",
+   "claim": "MicroRNA is involved in the regulation of Neural Stem Cell (NSC) differentiation and proliferation dynamic homeostasis",
+   "freq": 1.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "793",
+   "doc_id": "28249680",
+   "claim": "Mitochondria are uninvolved in apoptosis.",
+   "freq": 0.7,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "793",
+   "doc_id": "8654183",
+   "claim": "Mitochondria are uninvolved in apoptosis.",
+   "freq": 1.0,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "793",
+   "doc_id": "39381118",
+   "claim": "Mitochondria are uninvolved in apoptosis.",
+   "freq": 1.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "793",
+   "doc_id": "17231273",
+   "claim": "Mitochondria are uninvolved in apoptosis.",
+   "freq": 0.5,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "800",
+   "doc_id": "4679264",
+   "claim": "Modifying the epigenome in the brain affects the normal human aging process by affecting certain genes related to neurogenesis.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "800",
+   "doc_id": "4434951",
+   "claim": "Modifying the epigenome in the brain affects the normal human aging process by affecting certain genes related to neurogenesis.",
+   "freq": 0.8,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "821",
+   "doc_id": "36540079",
+   "claim": "N-terminal cleavage reduces success identifying transcription start sites.",
+   "freq": 0.6,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "821",
+   "doc_id": "25799020",
+   "claim": "N-terminal cleavage reduces success identifying transcription start sites.",
+   "freq": 1.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "830",
+   "doc_id": "52873726",
+   "claim": "NF2 (Merlin) causes phosphorylation and subsequent cytoplasmic sequestration of YAP in Drosophila by activating LATS1/2 kinases.",
+   "freq": 0.9,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "830",
+   "doc_id": "12737132",
+   "claim": "NF2 (Merlin) causes phosphorylation and subsequent cytoplasmic sequestration of YAP in Drosophila by activating LATS1/2 kinases.",
+   "freq": 0.7,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "834",
+   "doc_id": "23100962",
+   "claim": "NOX2-independent pathways can generate peroxynitrite by reacting with nitrogen intermediates.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "834",
+   "doc_id": "23122306",
+   "claim": "NOX2-independent pathways can generate peroxynitrite by reacting with nitrogen intermediates.",
+   "freq": 0.8,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "834",
+   "doc_id": "1800734",
+   "claim": "NOX2-independent pathways can generate peroxynitrite by reacting with nitrogen intermediates.",
+   "freq": 0.7,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "852",
+   "doc_id": "8190282",
+   "claim": "Non-invasive ventilation use should be decreased if there is inadequate response to conventional treatment.",
+   "freq": 0.6,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "852",
+   "doc_id": "40867854",
+   "claim": "Non-invasive ventilation use should be decreased if there is inadequate response to conventional treatment.",
+   "freq": 0.9,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "852",
+   "doc_id": "38735355",
+   "claim": "Non-invasive ventilation use should be decreased if there is inadequate response to conventional treatment.",
+   "freq": 0.7,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "859",
+   "doc_id": "8385277",
+   "claim": "Normal expression of RUNX1 has tumor-promoting effects.",
+   "freq": 0.7,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "859",
+   "doc_id": "22049489",
+   "claim": "Normal expression of RUNX1 has tumor-promoting effects.",
+   "freq": 1.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "870",
+   "doc_id": "43220289",
+   "claim": "Obesity decreases life quality.",
+   "freq": 1.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "870",
+   "doc_id": "18872233",
+   "claim": "Obesity decreases life quality.",
+   "freq": 0.6,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "870",
+   "doc_id": "4345757",
+   "claim": "Obesity decreases life quality.",
+   "freq": 0.7,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "956",
+   "doc_id": "3127341",
+   "claim": "Pleiotropic coupling of GLP-1R to intracellular effectors promotes distinct profiles of cellular signaling.",
+   "freq": 0.8,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "956",
+   "doc_id": "21754541",
+   "claim": "Pleiotropic coupling of GLP-1R to intracellular effectors promotes distinct profiles of cellular signaling.",
+   "freq": 1.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "956",
+   "doc_id": "3610282",
+   "claim": "Pleiotropic coupling of GLP-1R to intracellular effectors promotes distinct profiles of cellular signaling.",
+   "freq": 0.9,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_high",
+   "claim_id": "975",
+   "doc_id": "9159125",
+   "claim": "Primary pro-inflammatory cytokines induce secondary pro- and anti-inflammatory mediators.",
+   "freq": 0.6,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "324",
+   "doc_id": "44562221",
+   "claim": "Deleting Raptor reduces G-CSF levels.",
+   "freq": 0.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1019",
+   "doc_id": "13072112",
+   "claim": "Rapid phosphotransfer rates govern fidelity in two component systems",
+   "freq": 0.0,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "517",
+   "doc_id": "27166444",
+   "claim": "High levels of copeptin decrease risk of diabetes.",
+   "freq": 0.2,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "36",
+   "doc_id": "13801259",
+   "claim": "A deficiency of vitamin B12 increases blood levels of homocysteine.",
+   "freq": 0.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "770",
+   "doc_id": "15648443",
+   "claim": "Metastatic colorectal cancer treated with a single agent fluoropyrimidines resulted in reduced efficacy and lower quality of life when compared with oxaliplatin-based chemotherapy in elderly patients.",
+   "freq": 0.0,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "439",
+   "doc_id": "18575183",
+   "claim": "Fz/PCP-dependent Pk localizes to the anterior membrane of neuroectoderm cells during zebrafish neuralation",
+   "freq": 0.2,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1379",
+   "doc_id": "13831842",
+   "claim": "Women with a higher birth weight are more likely to develop breast cancer later in life.",
+   "freq": 0.0,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "237",
+   "doc_id": "36345185",
+   "claim": "Cells lacking clpC have a defect in sporulation efficiency in Bacillus subtilis.",
+   "freq": 0.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1150",
+   "doc_id": "25832301",
+   "claim": "Tetraspanin-3 is a causative factor in the development of acute myelogenous leukemia",
+   "freq": 0.1,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "148",
+   "doc_id": "3202143",
+   "claim": "Autophagy declines in aged organisms.",
+   "freq": 0.0,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1144",
+   "doc_id": "1974176",
+   "claim": "Taxation of sugar-sweetened beverages had no effect on the incidence rate of type II diabetes in India.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "533",
+   "doc_id": "79231308",
+   "claim": "Hyperfibrinogenemia increases rates of femoropopliteal bypass thrombosis.",
+   "freq": 0.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "684",
+   "doc_id": "31844040",
+   "claim": "Lack of clpC does not affect sporulation efficiency in Bacillus subtilis cells.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "443",
+   "doc_id": "23727313",
+   "claim": "GATA-3 is important for hematopoietic stem cell (HSC) function.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1100",
+   "doc_id": "1287809",
+   "claim": "Statins increase blood cholesterol.",
+   "freq": 0.1,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "723",
+   "doc_id": "5484763",
+   "claim": "Ly49Q directs the organization of neutrophil migration to inflammation sites by regulating membrane raft functions.",
+   "freq": 0.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "575",
+   "doc_id": "7211056",
+   "claim": "In domesticated populations of Saccharomyces cerevisiae, whole chromosome aneuploidy is very uncommon.",
+   "freq": 0.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1100",
+   "doc_id": "22420524",
+   "claim": "Statins increase blood cholesterol.",
+   "freq": 0.3,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1303",
+   "doc_id": "6212802",
+   "claim": "Tirasemtiv has no effect on fast-twitch muscle.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "75",
+   "doc_id": "25657127",
+   "claim": "Active H. pylori urease has a polymeric structure that compromises two subunits, UreA and UreB.",
+   "freq": 0.3,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "233",
+   "doc_id": "12232678",
+   "claim": "Cell autonomous sex determination in somatic cells does not occur in Galliformes.",
+   "freq": 0.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "443",
+   "doc_id": "5415832",
+   "claim": "GATA-3 is important for hematopoietic stem cell (HSC) function.",
+   "freq": 0.0,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1146",
+   "doc_id": "40905302",
+   "claim": "Teaching hospitals do not provide better care than non-teaching hospitals.",
+   "freq": 0.1,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "660",
+   "doc_id": "13624704",
+   "claim": "Ivermectin is used to treat onchocerciasis.",
+   "freq": 0.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "415",
+   "doc_id": "27076725",
+   "claim": "Female carriers of the Apolipoprotein E4 (APOE4) allele have increased risk for dementia.",
+   "freq": 0.0,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "312",
+   "doc_id": "11728637",
+   "claim": "De novo assembly of sequence data has more specific contigs than unassembled sequence data.",
+   "freq": 0.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1202",
+   "doc_id": "24707550",
+   "claim": "The center of the granuloma in an immune cell induces a pro-inflammatory immune response.",
+   "freq": 0.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "759",
+   "doc_id": "5289038",
+   "claim": "Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have a dramatic impact in reducing malaria transmission.",
+   "freq": 0.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "415",
+   "doc_id": "4505748",
+   "claim": "Female carriers of the Apolipoprotein E4 (APOE4) allele have increased risk for dementia.",
+   "freq": 0.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "723",
+   "doc_id": "9225850",
+   "claim": "Ly49Q directs the organization of neutrophil migration to inflammation sites by regulating membrane raft functions.",
+   "freq": 0.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "113",
+   "doc_id": "26199970",
+   "claim": "Angiotensin converting enzyme inhibitors are associated with increased risk for functional renal insufficiency.",
+   "freq": 0.0,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "659",
+   "doc_id": "10617916",
+   "claim": "Ivermectin is used to treat lymphatic filariasis.",
+   "freq": 0.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "198",
+   "doc_id": "24384587",
+   "claim": "CCL19 is absent within dLNs.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "715",
+   "doc_id": "9159495",
+   "claim": "Low expression of miR7a does represses target genes and exerts a biological function in ovaries.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "800",
+   "doc_id": "14475235",
+   "claim": "Modifying the epigenome in the brain affects the normal human aging process by affecting certain genes related to neurogenesis.",
+   "freq": 0.2,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "237",
+   "doc_id": "30468386",
+   "claim": "Cells lacking clpC have a defect in sporulation efficiency in Bacillus subtilis.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1270",
+   "doc_id": "980196",
+   "claim": "The risk of male prisoners harming themselves is ten times that of female prisoners.",
+   "freq": 0.0,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "821",
+   "doc_id": "17539488",
+   "claim": "N-terminal cleavage reduces success identifying transcription start sites.",
+   "freq": 0.0,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "148",
+   "doc_id": "24347647",
+   "claim": "Autophagy declines in aged organisms.",
+   "freq": 0.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "903",
+   "doc_id": "1454773",
+   "claim": "PD-1 triggering on monocytes reduces IL-10 production by monocytes.",
+   "freq": 0.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "759",
+   "doc_id": "6503185",
+   "claim": "Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have a dramatic impact in reducing malaria transmission.",
+   "freq": 0.0,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "821",
+   "doc_id": "4162857",
+   "claim": "N-terminal cleavage reduces success identifying transcription start sites.",
+   "freq": 0.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "57",
+   "doc_id": "30351165",
+   "claim": "APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation, delaying GABA neuron degeneration.",
+   "freq": 0.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "411",
+   "doc_id": "23670644",
+   "claim": "Febrile seizures reduce the threshold for development of epilepsy.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "982",
+   "doc_id": "7042304",
+   "claim": "Proteins synthesized at the growth cone are ubiquitinated at a higher rate than proteins from the cell body.",
+   "freq": 0.0,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "690",
+   "doc_id": "34733465",
+   "claim": "Less than 10% of the gabonese children with Schimmelpenning-Feuerstein-Mims syndrome (SFM) had a plasma lactate of more than 5mmol/L.",
+   "freq": 0.2,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "982",
+   "doc_id": "8460275",
+   "claim": "Proteins synthesized at the growth cone are ubiquitinated at a higher rate than proteins from the cell body.",
+   "freq": 0.0,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "723",
+   "doc_id": "3495456",
+   "claim": "Ly49Q directs the organization of neutrophil migration to inflammation sites by regulating membrane raft functions.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "517",
+   "doc_id": "29387024",
+   "claim": "High levels of copeptin decrease risk of diabetes.",
+   "freq": 0.0,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "870",
+   "doc_id": "10463997",
+   "claim": "Obesity decreases life quality.",
+   "freq": 0.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1221",
+   "doc_id": "11271123",
+   "claim": "The genomic aberrations found in matasteses are very similar to those found in the primary tumor.",
+   "freq": 0.3,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "452",
+   "doc_id": "12014458",
+   "claim": "Gene expression does not vary appreciably across genetically identical cells.",
+   "freq": 0.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1100",
+   "doc_id": "24005548",
+   "claim": "Statins increase blood cholesterol.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "834",
+   "doc_id": "32322418",
+   "claim": "NOX2-independent pathways can generate peroxynitrite by reacting with nitrogen intermediates.",
+   "freq": 0.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "128",
+   "doc_id": "33569870",
+   "claim": "Arterioles have a larger lumen diameter than venules.",
+   "freq": 0.0,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1266",
+   "doc_id": "16098747",
+   "claim": "The risk of breast cancer among parous women increases with placental weight of pregnancies, and this association is strongest for premenopausal breast cancer.",
+   "freq": 0.0,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "517",
+   "doc_id": "24704139",
+   "claim": "High levels of copeptin decrease risk of diabetes.",
+   "freq": 0.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1379",
+   "doc_id": "16098747",
+   "claim": "Women with a higher birth weight are more likely to develop breast cancer later in life.",
+   "freq": 0.0,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "312",
+   "doc_id": "5650232",
+   "claim": "De novo assembly of sequence data has more specific contigs than unassembled sequence data.",
+   "freq": 0.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1352",
+   "doc_id": "26068103",
+   "claim": "Upregulation of mosGCTL-1 is induced upon infection with West Nile virus.",
+   "freq": 0.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "514",
+   "doc_id": "9555784",
+   "claim": "High dietary calcium intakes are unnecessary for prevention of secondary hyperparathyroidism in subjects with 25(OH)D levels above 75 nmol/liter.",
+   "freq": 0.1,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "628",
+   "doc_id": "29134911",
+   "claim": "Infection of human T-cell lymphotropic virus type 1 is most frequent in individuals of African origin.",
+   "freq": 0.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1130",
+   "doc_id": "18488986",
+   "claim": "T regulatory cells (tTregs) lacking \u03b1v\u03b28 are more adept at suppressing pathogenic T-cell responses during active inflammation.",
+   "freq": 0.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "805",
+   "doc_id": "2593298",
+   "claim": "Monoclonal antibody targeting of N-cadherin inhibits metastasis.",
+   "freq": 0.1,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "569",
+   "doc_id": "17463549",
+   "claim": "In adult tissue, most T cells are memory T cells.",
+   "freq": 0.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1216",
+   "doc_id": "17695748",
+   "claim": "The extracellular domain of TMEM27 is cleaved in human beta cells.",
+   "freq": 0.1,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "513",
+   "doc_id": "2032877",
+   "claim": "High cardiopulmonary fitness causes increased mortality rate.",
+   "freq": 0.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "659",
+   "doc_id": "12409683",
+   "claim": "Ivermectin is used to treat lymphatic filariasis.",
+   "freq": 0.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "528",
+   "doc_id": "20754359",
+   "claim": "Human T-lymphotropic virus type-I-associated myelopathy / tropical spastic paraparesis (HAM/TSP) patients produce Immunoglobulin G (IgG) antibodies which cross-react with an immunodominant epitope in Tax.",
+   "freq": 0.2,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "198",
+   "doc_id": "21366394",
+   "claim": "CCL19 is absent within dLNs.",
+   "freq": 0.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1100",
+   "doc_id": "7454794",
+   "claim": "Statins increase blood cholesterol.",
+   "freq": 0.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1144",
+   "doc_id": "3770750",
+   "claim": "Taxation of sugar-sweetened beverages had no effect on the incidence rate of type II diabetes in India.",
+   "freq": 0.1,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "628",
+   "doc_id": "21274496",
+   "claim": "Infection of human T-cell lymphotropic virus type 1 is most frequent in individuals of African origin.",
+   "freq": 0.0,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "54",
+   "doc_id": "3419709",
+   "claim": "AMP-activated protein kinase (AMPK) activation increases inflammation-related fibrosis in the lungs.",
+   "freq": 0.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "569",
+   "doc_id": "3835423",
+   "claim": "In adult tissue, most T cells are memory T cells.",
+   "freq": 0.0,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "821",
+   "doc_id": "778436",
+   "claim": "N-terminal cleavage reduces success identifying transcription start sites.",
+   "freq": 0.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1187",
+   "doc_id": "36310858",
+   "claim": "The YAP1 and TEAD complex tanslocates into the nucleus where it interacts with transcription factors and DNA-binding proteins that modulate target gene transcription.",
+   "freq": 0.1,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "659",
+   "doc_id": "21258863",
+   "claim": "Ivermectin is used to treat lymphatic filariasis.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "577",
+   "doc_id": "42065070",
+   "claim": "In mice, P. chabaudi parasites are able to proliferate faster early in infection when inoculated at lower numbers than when inoculated at high numbers.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "628",
+   "doc_id": "20754359",
+   "claim": "Infection of human T-cell lymphotropic virus type 1 is most frequent in individuals of African origin.",
+   "freq": 0.0,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "729",
+   "doc_id": "22972632",
+   "claim": "Lymphadenopathy is observed in knockin mouse lacking the SHP-2 MAPK pathway.",
+   "freq": 0.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "219",
+   "doc_id": "7281161",
+   "claim": "CX3CR1 on the Th2 cells suppresses airway inflammation.",
+   "freq": 0.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1041",
+   "doc_id": "18038955",
+   "claim": "Replacement of histone H2A with H2A.Z slows gene activation in yeasts by stabilizing +1 nucleosomes.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "443",
+   "doc_id": "24612804",
+   "claim": "GATA-3 is important for hematopoietic stem cell (HSC) function.",
+   "freq": 0.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "5",
+   "doc_id": "11349166",
+   "claim": "1/2000 in UK have abnormal PrP positivity.",
+   "freq": 0.0,
+   "retrieval_rank": 6
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "475",
+   "doc_id": "6061927",
+   "claim": "Glycolysis is one of the primary glycometabolic pathways in cells.",
+   "freq": 0.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1259",
+   "doc_id": "34066665",
+   "claim": "The relationship between a breast cancer patient's capacity to metabolize tamoxifen and treatment outcome is dependent on the patient's genetic make-up.",
+   "freq": 0.0,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "837",
+   "doc_id": "9239963",
+   "claim": "NR5A2 is important in development of endometrial tissues.",
+   "freq": 0.3,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1191",
+   "doc_id": "26672703",
+   "claim": "The amount of publicly available DNA data doubles every 10 years.",
+   "freq": 0.3,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "569",
+   "doc_id": "21320417",
+   "claim": "In adult tissue, most T cells are memory T cells.",
+   "freq": 0.1,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1130",
+   "doc_id": "266641",
+   "claim": "T regulatory cells (tTregs) lacking \u03b1v\u03b28 are more adept at suppressing pathogenic T-cell responses during active inflammation.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "768",
+   "doc_id": "30543439",
+   "claim": "Mercaptopurine is anabolized into the inactive methylmercaptopurine by thiopurine methyltrasnferase (TPMT).",
+   "freq": 0.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "421",
+   "doc_id": "6944800",
+   "claim": "Flexible molecules experience greater steric hindrance in the tumor microenviroment than rigid molecules.",
+   "freq": 0.0,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "443",
+   "doc_id": "30933307",
+   "claim": "GATA-3 is important for hematopoietic stem cell (HSC) function.",
+   "freq": 0.2,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "759",
+   "doc_id": "18074797",
+   "claim": "Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have a dramatic impact in reducing malaria transmission.",
+   "freq": 0.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "821",
+   "doc_id": "35448676",
+   "claim": "N-terminal cleavage reduces success identifying transcription start sites.",
+   "freq": 0.0,
+   "retrieval_rank": 1
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "219",
+   "doc_id": "883747",
+   "claim": "CX3CR1 on the Th2 cells suppresses airway inflammation.",
+   "freq": 0.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "72",
+   "doc_id": "18895793",
+   "claim": "Activator-inhibitor pairs are provided dorsally by Admpchordin.",
+   "freq": 0.0,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1110",
+   "doc_id": "3828508",
+   "claim": "Suboptimal nutrition is not predictive of chronic disease",
+   "freq": 0.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "521",
+   "doc_id": "13625993",
+   "claim": "High-sensitivity cardiac troponin T (HSCT-T) dosage may not be diagnostic if the onset of symptoms occurs less than 3 hours before acute myocardial injury (AMI).",
+   "freq": 0.2,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "36",
+   "doc_id": "18557974",
+   "claim": "A deficiency of vitamin B12 increases blood levels of homocysteine.",
+   "freq": 0.4,
+   "retrieval_rank": 2
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1221",
+   "doc_id": "4457160",
+   "claim": "The genomic aberrations found in matasteses are very similar to those found in the primary tumor.",
+   "freq": 0.3,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "57",
+   "doc_id": "1964163",
+   "claim": "APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation, delaying GABA neuron degeneration.",
+   "freq": 0.0,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1041",
+   "doc_id": "11844791",
+   "claim": "Replacement of histone H2A with H2A.Z slows gene activation in yeasts by stabilizing +1 nucleosomes.",
+   "freq": 0.0,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "127",
+   "doc_id": "23305884",
+   "claim": "Arginine 90 in p150n is important for interaction with EB1.",
+   "freq": 0.0,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "903",
+   "doc_id": "7343711",
+   "claim": "PD-1 triggering on monocytes reduces IL-10 production by monocytes.",
+   "freq": 0.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "700",
+   "doc_id": "1669173",
+   "claim": "Localization of PIN1 in the Arabidopsis embryo does not require VPS9a",
+   "freq": 0.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "327",
+   "doc_id": "5484763",
+   "claim": "Deletion of \u03b1v\u03b28 does not result in a spontaneous inflammatory phenotype.",
+   "freq": 0.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "113",
+   "doc_id": "140098548",
+   "claim": "Angiotensin converting enzyme inhibitors are associated with increased risk for functional renal insufficiency.",
+   "freq": 0.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "723",
+   "doc_id": "33920995",
+   "claim": "Ly49Q directs the organization of neutrophil migration to inflammation sites by regulating membrane raft functions.",
+   "freq": 0.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "478",
+   "doc_id": "18488986",
+   "claim": "Golli-deficient T-cells prefer to differentiate into an anergic phenotype in the adaptive immune response when there are increased levels of Ca2+ in the cytosol.",
+   "freq": 0.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "53",
+   "doc_id": "17648235",
+   "claim": "ALDH1 expression is associated with poorer prognosis in breast cancer.",
+   "freq": 0.1,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1241",
+   "doc_id": "20186814",
+   "claim": "The myocardial lineage develops from cardiac progenitors of mesodermal origin.",
+   "freq": 0.0,
+   "retrieval_rank": 9
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "690",
+   "doc_id": "7227763",
+   "claim": "Less than 10% of the gabonese children with Schimmelpenning-Feuerstein-Mims syndrome (SFM) had a plasma lactate of more than 5mmol/L.",
+   "freq": 0.3,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "628",
+   "doc_id": "5735492",
+   "claim": "Infection of human T-cell lymphotropic virus type 1 is most frequent in individuals of African origin.",
+   "freq": 0.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "533",
+   "doc_id": "21301090",
+   "claim": "Hyperfibrinogenemia increases rates of femoropopliteal bypass thrombosis.",
+   "freq": 0.0,
+   "retrieval_rank": 10
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "770",
+   "doc_id": "195680777",
+   "claim": "Metastatic colorectal cancer treated with a single agent fluoropyrimidines resulted in reduced efficacy and lower quality of life when compared with oxaliplatin-based chemotherapy in elderly patients.",
+   "freq": 0.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1107",
+   "doc_id": "970012",
+   "claim": "Subcutaneous fat depots undergo extensive browning processes after cold exposure.",
+   "freq": 0.0,
+   "retrieval_rank": 4
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1216",
+   "doc_id": "14706752",
+   "claim": "The extracellular domain of TMEM27 is cleaved in human beta cells.",
+   "freq": 0.1,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "521",
+   "doc_id": "24155601",
+   "claim": "High-sensitivity cardiac troponin T (HSCT-T) dosage may not be diagnostic if the onset of symptoms occurs less than 3 hours before acute myocardial injury (AMI).",
+   "freq": 0.2,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "532",
+   "doc_id": "11718220",
+   "claim": "Hyperfibrinogenemia decreases rates of femoropopliteal bypass thrombosis.",
+   "freq": 0.0,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "268",
+   "doc_id": "4810810",
+   "claim": "Cold exposure increases BAT recruitment.",
+   "freq": 0.0,
+   "retrieval_rank": 5
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "501",
+   "doc_id": "42095718",
+   "claim": "Headaches are not correlated with cognitive impairment.",
+   "freq": 0.1,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "852",
+   "doc_id": "474325",
+   "claim": "Non-invasive ventilation use should be decreased if there is inadequate response to conventional treatment.",
+   "freq": 0.0,
+   "retrieval_rank": 3
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1221",
+   "doc_id": "7211056",
+   "claim": "The genomic aberrations found in matasteses are very similar to those found in the primary tumor.",
+   "freq": 0.3,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "36",
+   "doc_id": "9813098",
+   "claim": "A deficiency of vitamin B12 increases blood levels of homocysteine.",
+   "freq": 0.0,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "800",
+   "doc_id": "26230669",
+   "claim": "Modifying the epigenome in the brain affects the normal human aging process by affecting certain genes related to neurogenesis.",
+   "freq": 0.0,
+   "retrieval_rank": 8
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "1292",
+   "doc_id": "17324544",
+   "claim": "There is no association between HNF4A mutations and diabetes risks.",
+   "freq": 0.1,
+   "retrieval_rank": 7
+  },
+  {
+   "kind": "R",
+   "group": "unlabeled_low_sample",
+   "claim_id": "431",
+   "doc_id": "19922508",
+   "claim": "FoxO3a activation in neuronal death is mediated by reactive oxygen species (ROS).",
+   "freq": 0.0,
+   "retrieval_rank": 7
+  }
+ ],
+ "C": [
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "859",
+   "doc_id": "1982286",
+   "order_index": 8,
+   "sentence": "The passages do not test whether normal RUNX1 expression promotes tumors; they show RUNX1 acting as a tumor suppressor in T-ALL [8] and in myelodysplasia/leukemia of Fanconi anemia, where RUNX1 lesions occur [5]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "674",
+   "doc_id": "2095573",
+   "order_index": 7,
+   "sentence": "LDL cholesterol is described as causally involved in cardiovascular disease, as stated directly in passage 9 (\"LDL cholesterol has a causal role in the development of cardiovascular disease\") [9]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "179",
+   "doc_id": "23557241",
+   "order_index": 1,
+   "sentence": "A meta-analysis of perinatal factors reported higher odds of breast cancer for birth weight of 4,000 g or more (OR 1.24) and a pooled relative risk of 1.15 per category increase [4][9]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "163",
+   "doc_id": "18872233",
+   "order_index": 7,
+   "sentence": "Some mental health gains tracked with weight loss, though the evidence on whether preoperative conditions predict weight outcomes is inconsistent [8][10]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1104",
+   "doc_id": "3898784",
+   "order_index": 2,
+   "sentence": "The study population was patients with intracerebral hemorrhage, a form of stroke, so the finding applies to that stroke subtype only [1]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1202",
+   "doc_id": "3475317",
+   "order_index": 6,
+   "sentence": "Passage [7] states that the centers of human tuberculosis granulomas have a pro-inflammatory environment characterized by antimicrobial peptides, reactive oxygen species, and pro-inflammatory eicosanoids [7]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "859",
+   "doc_id": "1982286",
+   "order_index": 9,
+   "sentence": "The passages do not directly test whether normal RUNX1 expression promotes tumors; most describe RUNX1 as a tumor suppressor or describe RUNX1 loss or mutation in disease [6][9][5]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "837",
+   "doc_id": "15928989",
+   "order_index": 7,
+   "sentence": "Passage [7] shows that Lrh-1, the protein encoded by NR5A2, is expressed in the mouse and human endometrium and that reducing NR5A2 transcript abundance in human endometrial stromal cells abrogated decidualization, a key endometrial developmental process."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "528",
+   "doc_id": "5476778",
+   "order_index": 3,
+   "sentence": "This establishes that HAM/TSP patients' IgG cross-reacts with Tax through hnRNP-A1 mimicry [4]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "54",
+   "doc_id": "49556906",
+   "order_index": 7,
+   "sentence": "The only lung-fibrosis passage reports the opposite direction: AMPK activity is lower in fibrotic lung regions, and metformin, an AMPK activator, reverses established fibrosis in an AMPK-dependent manner [8]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "233",
+   "doc_id": "4388470",
+   "order_index": 8,
+   "sentence": "The claim that cell-autonomous sex determination does not occur in Galliformes is contradicted by the chicken gynandromorph and chimera study, which shows that avian somatic cells carry an inherent sex identity and that sexual differentiation is substantially cell autonomous [6]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "439",
+   "doc_id": "4423559",
+   "order_index": 9,
+   "sentence": "The passages describe PCP signalling polarizing neural progenitors and Vangl2 (trilobite) being required for neural keel polarization during zebrafish neurulation [10], and Wnt5a regulating subcellular distribution of Vangl2 in mice [6]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1024",
+   "doc_id": "5373138",
+   "order_index": 3,
+   "sentence": "Passage [3] states that CTCF anchor regions are a frequent site of mutations in cancer cells, but it does not mention recurrent mutations or oncogenes adjacent to these sites [3]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1379",
+   "doc_id": "23557241",
+   "order_index": 8,
+   "sentence": "A meta-analysis of 57 studies also reported a higher relative risk of breast cancer with increased birthweight [8], and a review of 26 studies found a positive link, mainly for premenopausal breast cancer [7]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "5",
+   "doc_id": "13734012",
+   "order_index": 1,
+   "sentence": "The closest data come from the appendix survey, which found 16 positives among 32,441 samples, an overall prevalence of 493 per million, or about 1 in 2,000 [9]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "50",
+   "doc_id": "12580014",
+   "order_index": 3,
+   "sentence": "Passage [5] also notes that K17 is upregulated in many tumors originating in stratified epithelia, which is consistent with this finding [5]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "452",
+   "doc_id": "12804937",
+   "order_index": 3,
+   "sentence": "Stochastic transcription and translation produce cell-to-cell variation in mRNA and protein levels [3]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "179",
+   "doc_id": "16322674",
+   "order_index": 3,
+   "sentence": "Multiple meta-analyses and pooled analyses report that higher birth weight is associated with increased breast cancer risk, with odds or relative risks above 1 for heavier birth weight categories [1][3][4][5]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "921",
+   "doc_id": "1642727",
+   "order_index": 3,
+   "sentence": "The same trial reports that a six-month program of physical activity provided a modest improvement in cognition over an 18-month follow-up [10]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1144",
+   "doc_id": "10071552",
+   "order_index": 5,
+   "sentence": "The claim is contradicted by the modeling study of India, which projected that a 20% sugar-sweetened beverage excise tax would avert about 2.5% of incident type 2 diabetes from 2014-2023 under accelerated consumption trends and 1.6% under secular trends [2]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1303",
+   "doc_id": "12631697",
+   "order_index": 8,
+   "sentence": "None of the other passages address tirasemtiv, so the claim is directly contradicted by [9] rather than being unresolved."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1041",
+   "doc_id": "16626264",
+   "order_index": 1,
+   "sentence": "None of the passages, however, report that H2A.Z replacement slows gene activation or that it works by stabilizing +1 nucleosomes; instead, one passage suggests H2A.Z-containing nucleosomes are more easily lost, which runs counter to stabilization [2][10]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "723",
+   "doc_id": "5531479",
+   "order_index": 5,
+   "sentence": "It further proposes that Ly49Q is pivotal in switching neutrophils to polarized morphology and rapid migration upon inflammation through spatiotemporal regulation of membrane rafts and raft-associated signaling molecules [5]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1221",
+   "doc_id": "19736671",
+   "order_index": 3,
+   "sentence": "It also reports that most metastases disseminate synchronously from the primary tumor, but it does not quantify how similar the aberrations are overall [6]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "859",
+   "doc_id": "1982286",
+   "order_index": 0,
+   "sentence": "Passage [3] identifies RUNX1 as a tumor suppressor in T-ALL [3], and passage [8] reports RUNX1 as a tumor suppressor that is inversely related to H19/miR-675 in gastric cancer [8]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "218",
+   "doc_id": "21366394",
+   "order_index": 1,
+   "sentence": "Passage [5] reports that CX3CR1 is required for airway inflammation by promoting T helper 2 (TH2) cell survival in the inflamed lung, and that WT CD4+ T cells transferred into CX3CR1-deficient mice restored asthma features [5]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "859",
+   "doc_id": "1982286",
+   "order_index": 9,
+   "sentence": "Passage [9] reports an inverse relationship between RUNX1 and gastric cancer progression, and passage [6] proposes a tumor-suppressor role for RUNX1 in T-ALL, which argues against the claim."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "549",
+   "doc_id": "9433958",
+   "order_index": 3,
+   "sentence": "Passage [4] reports that cerebellar granule cell neurons and cortical neurons differ in innate immune programs and susceptibility to positive-stranded RNA viruses [4]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "56",
+   "doc_id": "4709641",
+   "order_index": 2,
+   "sentence": "It also states that ApoE4 increased A\u03b2 production in human neurons [8]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "54",
+   "doc_id": "49556906",
+   "order_index": 5,
+   "sentence": "The only passage that directly examines AMPK in lung fibrosis reports the opposite: AMPK activity is lower in fibrotic regions of human idiopathic pulmonary fibrosis and in a mouse model, and pharmacological AMPK activation reverses established fibrosis [2]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1146",
+   "doc_id": "13906581",
+   "order_index": 2,
+   "sentence": "Some diagnosis-specific differences were found, but these were small in magnitude [7]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "528",
+   "doc_id": "5476778",
+   "order_index": 9,
+   "sentence": "Passage 6 also states that immunoglobulin G isolated from these patients was the basis of the identification [6]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "690",
+   "doc_id": "18750453",
+   "order_index": 1,
+   "sentence": "Passage [4] studies Gabonese children with severe or moderate malaria and reports that volume compartments were not related to hyperlactataemia, but it does not mention SFM or give a percentage of children with lactate above 5 mmol/L [4]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "821",
+   "doc_id": "8646760",
+   "order_index": 6,
+   "sentence": "Passages [7] and [8] discuss N-terminal protein modifications, which are unrelated to transcription start site identification."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "528",
+   "doc_id": "5476778",
+   "order_index": 1,
+   "sentence": "Passage [2] reports that HAM/TSP patients develop antibodies to neurons and that immunoglobulin G isolated from these patients identified hnRNP-A1 as the autoantigen."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "759",
+   "doc_id": "1805641",
+   "order_index": 2,
+   "sentence": "Mathematical modelling of ACT versus nongametocytocidal drugs finds that ACT can substantially reduce transmission, with a 53% reduction in infection prevalence in the lowest-transmission setting when all treatment is switched to ACT [3]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1163",
+   "doc_id": "15305881",
+   "order_index": 6,
+   "sentence": "that is crucial for recovery after DNA damage and forms a pentameric ring with a fold distinct from other SSB proteins [3]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "324",
+   "doc_id": "2014909",
+   "order_index": 9,
+   "sentence": "Passage [5] links mTOR signalling in cancer cells to G-CSF regulation, but it does not involve deleting Raptor specifically or report the direction of any change caused by Raptor deletion."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "56",
+   "doc_id": "4709641",
+   "order_index": 8,
+   "sentence": "The passages cited do support the claim's components, though [1] describes tau phosphorylation as unrelated to A\u03b2, so the claim's causal link through A\u03b2 production is not what the study found."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1187",
+   "doc_id": "52873726",
+   "order_index": 5,
+   "sentence": "Passage 6 describes YAP/TAZ as transcription coactivators that interact with TEAD and notes that YAP/TAZ nuclear translocation activates them, but it concerns TEAD cytoplasmic translocation rather than a joint complex entering the nucleus [6]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1137",
+   "doc_id": "33370",
+   "order_index": 4,
+   "sentence": "The passages show TNFAIP3 (A20) is overexpressed in glioblastoma stem cells and glioma tissue, and its knockdown reduces glioma growth and survival, which points to an oncogenic or \"tumor enhancer\" role rather than tumor suppression [5][10]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "637",
+   "doc_id": "25649714",
+   "order_index": 1,
+   "sentence": "Passage [5] finds that homeless families have complex health needs that conventional services do not meet, but it does not test whether professional input reduces homelessness [5]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "56",
+   "doc_id": "4709641",
+   "order_index": 0,
+   "sentence": "The claim's causal wording (\"causing\" degeneration via A\u03b2 and tau) goes beyond the passage, which describes the tau and A\u03b2 changes as separate, so the mechanistic link is only partially supported [1]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "163",
+   "doc_id": "18872233",
+   "order_index": 8,
+   "sentence": "Bariatric surgery is consistently associated with reduced depressive symptoms and lower depression prevalence after surgery [10]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "723",
+   "doc_id": "5531479",
+   "order_index": 1,
+   "sentence": "Passage [8] states that Ly49Q is crucial for neutrophil polarization and migration toward inflammation, and that these functions are affected by Ly49Q's regulation of membrane raft functions."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "261",
+   "doc_id": "10697096",
+   "order_index": 7,
+   "sentence": "Several passages show that chronic aerobic exercise enhances NO-mediated vasodilation: training enhanced bradykinin-induced, endothelium-dependent relaxation via NO synthase in porcine coronary arteries [1], and raised plasma NOx (a marker of NO) while lowering ET-1 in humans [2]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1379",
+   "doc_id": "16322674",
+   "order_index": 2,
+   "sentence": "Multiple pooled analyses find that higher birth weight is associated with increased breast cancer risk in adulthood, with a pooled relative risk of 1.06 per 0.5 kg in birth record data and a 1.15 relative risk in a meta-analysis [2][4]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "921",
+   "doc_id": "1642727",
+   "order_index": 1,
+   "sentence": "This is the only passage that directly tests whether physical activity improves cognition over a sustained period, and it supports the claim, though the effect was modest and the study population was limited to older adults with memory complaints [5]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "770",
+   "doc_id": "15476777",
+   "order_index": 0,
+   "sentence": "The claim is supported by the FOCUS2 trial, which studied frail and elderly patients with metastatic colorectal cancer and concluded that a combination including oxaliplatin was preferable to single-agent fluoropyrimidines, though the primary endpoint of progression-free survival was not met [5]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "51",
+   "doc_id": "45638119",
+   "order_index": 5,
+   "sentence": "This directly contradicts the claim that ALDH1 expression is associated with better breast cancer outcomes [10]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1137",
+   "doc_id": "33370",
+   "order_index": 1,
+   "sentence": "Passage [8] reports that A20 (TNFAIP3) is overexpressed in glioma stem cells and that its knockdown reduces tumorigenic potential, which argues that A20 acts as a tumor enhancer rather than a tumor suppressor in glioblastoma [8]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "53",
+   "doc_id": "45638119",
+   "order_index": 0,
+   "sentence": "High ALDH activity also marks the tumorigenic cell fraction of breast carcinomas, which supports its relevance to aggressive disease [6]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1221",
+   "doc_id": "19736671",
+   "order_index": 7,
+   "sentence": "However, the same passage reports that non-shared mutations are primarily G-to-T, so the match is substantial but not complete [7]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "354",
+   "doc_id": "8774475",
+   "order_index": 5,
+   "sentence": "Passage [2] reports that depletion of Scribble in mammary epithelia disrupts polarity, blocks morphogenesis, inhibits apoptosis, and induces dysplasia that progresses to tumors, so Scribble loss promotes rather than prevents tumorigenesis [2]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "859",
+   "doc_id": "1982286",
+   "order_index": 7,
+   "sentence": "Passage [9] likewise identifies RUNX1 as a tumor suppressor in T-ALL, with recurrent somatic loss-of-function mutations in human T-ALL [9]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "440",
+   "doc_id": "4423559",
+   "order_index": 6,
+   "sentence": "Passage [8] describes PCP signalling polarizing neural progenitors along the anteroposterior axis during zebrafish neurulation, but it does not address Pk or notochord cells."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "700",
+   "doc_id": "4350400",
+   "order_index": 7,
+   "sentence": "Passage [2] establishes that PIN polarity is generated by endocytic recycling and that interfering with endocytosis via the Rab5 pathway prevents PIN polarization [2]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "659",
+   "doc_id": "1215116",
+   "order_index": 0,
+   "sentence": "Passage [2] names lymphatic filariasis as a neglected tropical disease targeted by control programmes, but it does not identify the drugs used."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "723",
+   "doc_id": "5531479",
+   "order_index": 5,
+   "sentence": "Passage [5] states that the Ly49Q receptor plays a crucial role in neutrophil polarization and migration by regulating raft trafficking, and that Ly49Q was crucial for rapid neutrophil polarization and tissue infiltration during inflammation [5]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1379",
+   "doc_id": "23557241",
+   "order_index": 5,
+   "sentence": "Multiple pooled analyses link higher birth weight to increased adult breast cancer risk, with a meta-analysis reporting a relative risk of 1.15 for higher birthweight [1]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "660",
+   "doc_id": "1215116",
+   "order_index": 1,
+   "sentence": "Passage [5] names onchocerciasis as one of the neglected tropical diseases targeted by control efforts, but it does not state which drug is used to treat it."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "452",
+   "doc_id": "12804937",
+   "order_index": 1,
+   "sentence": "Passage [3] states that gene expression is a fundamentally stochastic process, with randomness in transcription and translation leading to cell-to-cell variations in mRNA and protein levels, and that this variation appears across organisms from microbes to metazoans [3]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1107",
+   "doc_id": "20532591",
+   "order_index": 0,
+   "sentence": "The passages establish that cold exposure can induce browning of white adipose tissue, and passage [7] reports that during cold-induced browning of subcutaneous fat most beige adipocytes arise from de novo-differentiated adipocytes [7]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "501",
+   "doc_id": "17930286",
+   "order_index": 5,
+   "sentence": "Because the passages show structural brain associations but no demonstrated cognitive impairment, the claim as stated (no correlation with cognitive impairment) is not supported, and the evidence is best read as cognitively unresolved rather than a clear refutation [5]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "113",
+   "doc_id": "6157837",
+   "order_index": 8,
+   "sentence": "Passage [7], a statement from the American Heart Association, explicitly says that ACE inhibitor use \"can also be associated with a syndrome of 'functional renal insufficiency' and/or hyperkalemia,\" most often soon after starting therapy [7]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1104",
+   "doc_id": "3898784",
+   "order_index": 1,
+   "sentence": "Among stroke patients, prior use of NOACs (direct oral anticoagulants) was associated with a lower in-hospital mortality risk than prior use of warfarin, with an adjusted odds ratio of 0.75 [7]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "644",
+   "doc_id": "13619127",
+   "order_index": 3,
+   "sentence": "Passage [2] reports increased severe kidney failure risk with gliptins or glitazones relative to metformin, but insulin is only one of the exposure categories and no insulin-specific kidney failure estimate is given."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "770",
+   "doc_id": "15476777",
+   "order_index": 3,
+   "sentence": "The claim's specific assertion that single-agent fluoropyrimidines produced reduced efficacy and lower quality of life relative to oxaliplatin-based therapy is therefore only partly supported, since the efficacy difference was not statistically significant and the quality-of-life comparison was not made between those treatment classes [5]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "440",
+   "doc_id": "4423559",
+   "order_index": 8,
+   "sentence": "Passage [1] establishes that non-canonical Wnt/PCP signalling polarizes neural progenitors in zebrafish neurulation and involves Vangl2, but it does not mention Pk or notochord localization."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1270",
+   "doc_id": "13900610",
+   "order_index": 5,
+   "sentence": "Verdict: REFUTED\n\nPassage 7 states that \"Self-harm rates were more than ten times higher in female prisoners than in male inmates\" [7]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "51",
+   "doc_id": "45638119",
+   "order_index": 3,
+   "sentence": "[4]\n\nVerdict: REFUTED\n\nPassage [4] reports that ALDH1 expression detected by immunostaining in 577 breast carcinomas correlated with poor prognosis."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "641",
+   "doc_id": "5912283",
+   "order_index": 9,
+   "sentence": "The trial concluded that CBT-based interventions were superior to zopiclone for managing insomnia in older adults [1]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "179",
+   "doc_id": "17450673",
+   "order_index": 1,
+   "sentence": "A meta-analysis of perinatal factors reported higher odds of breast cancer for birth weight of 4,000 g or more (OR 1.24) and a pooled relative risk of 1.15 per category increase [4][9]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "501",
+   "doc_id": "17930286",
+   "order_index": 1,
+   "sentence": "Passage [9] found that any history of severe headache was associated with increased white matter hyperintensity volume, and migraine with aura was associated with brain infarcts and deep white matter lesions [9]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "198",
+   "doc_id": "2177022",
+   "order_index": 6,
+   "sentence": "The passages state that CCL19 is a soluble CCR7 ligand that forms soluble gradients and triggers chemotactic movement [1]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1130",
+   "doc_id": "17997584",
+   "order_index": 4,
+   "sentence": "The passage attributes suppression during inflammation to effector Treg cells' activation of latent TGF-\u03b2 via \u03b1v\u03b28 [4]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "238",
+   "doc_id": "2251426",
+   "order_index": 5,
+   "sentence": "Passage [9] states that miRNAs can become activators of expression during stress, but it does not link this to methionine restriction, and passage [2] connects methionine to misacylation under oxidative stress rather than to miRNA activation."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "528",
+   "doc_id": "5476778",
+   "order_index": 6,
+   "sentence": "Passage [8] states that immunoglobulin G isolated from HAM/TSP patients identified hnRNP-A1 as an autoantigen, and that antibodies to hnRNP-A1 cross-reacted with HTLV-1 Tax, the immune response to which is associated with HAM/TSP [8]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1107",
+   "doc_id": "20532591",
+   "order_index": 7,
+   "sentence": "Cold exposure induces browning of subcutaneous white fat, with most beige adipocytes arising from de novo-differentiated cells [8]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "440",
+   "doc_id": "4423559",
+   "order_index": 3,
+   "sentence": "The passages on PCP signalling in neurulation [8] describe polarization of neural progenitors in the neural keel and Vangl2 function in zebrafish, but do not address Pk or notochord localization."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1216",
+   "doc_id": "24142891",
+   "order_index": 5,
+   "sentence": "These statements directly support the claim that the extracellular domain of TMEM27 is cleaved in human beta cells, though [8] describes the work in mouse-based experiments rather than specifically in human cells."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1104",
+   "doc_id": "3898784",
+   "order_index": 0,
+   "sentence": "This lower risk held in both the unadjusted rates (26.5% vs 32.6%) and the adjusted risk difference of -5.7% [8]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "533",
+   "doc_id": "12991445",
+   "order_index": 9,
+   "sentence": "Passage 5 reports that higher plasma fibrinogen was the most important predictor of occlusion in saphenous vein femoropopliteal bypass grafts (90% vs 57% patency, below vs above median), which is directly relevant but is an association from a single observational study. [5]"
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1146",
+   "doc_id": "13906581",
+   "order_index": 1,
+   "sentence": "Passage 5 also notes that some diagnoses showed significantly better survival in teaching hospitals (breast cancer and cerebrovascular accidents), though these differences were small [5]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "72",
+   "doc_id": "6076903",
+   "order_index": 9,
+   "sentence": "Passage [10] reports that ADMP (Admp) is expressed in the Spemann organizer, which is dorsal, and that ADMP signals via ALK-2 but is unable to signal dorsally because it is inhibited by Chordin, while BMP2/4/7 act ventrally, establishing opposing BMP-signaling poles [10]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "146",
+   "doc_id": "10582939",
+   "order_index": 3,
+   "sentence": "The authors concluded that autologous MSCs compared with anti-IL-2 receptor antibody induction resulted in lower incidence of acute rejection at 1 year [2]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1266",
+   "doc_id": "37480103",
+   "order_index": 1,
+   "sentence": "Passage 3 reports that placental weight is positively associated with maternal breast cancer risk, with an adjusted hazard ratio of about 2.05 when both placentas weighed at least 700 g [3]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "57",
+   "doc_id": "4709641",
+   "order_index": 9,
+   "sentence": "Taken together, these findings match each element of the claim, though the claim's causal wording (\"delaying\" degeneration) is not stated directly in [2], which describes degeneration as a detrimental effect rather than as a delayed one."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "51",
+   "doc_id": "45638119",
+   "order_index": 4,
+   "sentence": "This directly contradicts the claim that ALDH1 expression is associated with better outcomes [2]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "146",
+   "doc_id": "10582939",
+   "order_index": 1,
+   "sentence": "Passage [2] reports that acute rejection was lower in the autologous MSC groups (7.5% and 7.7%) than in the anti-IL-2 receptor antibody control group (21.6%) at 6 months [2]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "784",
+   "doc_id": "2356950",
+   "order_index": 4,
+   "sentence": "Passage [4] further shows that miR-302 suppresses neural progenitor expansion and precocious neuronal differentiation during neurulation, and passage [6] shows let-7b, a microRNA, modulates Hmga2 and thereby NSC self-renewal. [10][4][6]"
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "53",
+   "doc_id": "45638119",
+   "order_index": 6,
+   "sentence": "It also states that high ALDH activity identifies the tumorigenic cell fraction in breast carcinomas, linking ALDH1 to aggressive disease [3]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1379",
+   "doc_id": "16322674",
+   "order_index": 3,
+   "sentence": "Multiple meta-analyses and pooled analyses report that higher birth weight is associated with increased breast cancer risk in adulthood, with odds or relative risks around 1.1 to 1.25 for the heaviest categories [1][2][4][5]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "644",
+   "doc_id": "13619127",
+   "order_index": 1,
+   "sentence": "Passage [6] also lists insulin as an exposure group without reporting a kidney failure result for it, so the claim cannot be confirmed or refuted from these passages."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1024",
+   "doc_id": "5373138",
+   "order_index": 4,
+   "sentence": "The passages establish that CTCF anchor regions are frequent sites of mutations in cancer cells and that they organize topological domains [5], but none of the passages report recurrent mutations specifically within CTCF anchor sites adjacent to oncogenes."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "56",
+   "doc_id": "4709641",
+   "order_index": 3,
+   "sentence": "It also reports that increased A\u03b2 production occurred in human but not mouse neurons, and that converting ApoE4 to ApoE3 rescued these phenotypes [9]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "1202",
+   "doc_id": "3475317",
+   "order_index": 1,
+   "sentence": "It further states that the tissue surrounding the caseum has a comparatively anti-inflammatory signature, so these signals are physically segregated within each granuloma [3]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "870",
+   "doc_id": "195689316",
+   "order_index": 4,
+   "sentence": "Excess body mass is associated with higher mortality, with each 5 kg/m\u00b2 increase in BMI linked to about 30% higher overall mortality, and with reduced survival at higher obesity levels [3]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "921",
+   "doc_id": "1642727",
+   "order_index": 2,
+   "sentence": "The randomized trial in older adults at risk for Alzheimer disease found that a 24-week physical activity program yielded a modest cognitive improvement relative to usual care over the follow-up period [1]."
+  },
+  {
+   "kind": "C",
+   "group": "relevant",
+   "claim_id": "324",
+   "doc_id": "2014909",
+   "order_index": 7,
+   "sentence": "Passage [8] shows that mTOR signalling in cancer cells regulates G-CSF, and that inhibiting this pathway impairs tumour progression and MDSC recruitment."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "793",
+   "doc_id": "17231273",
+   "order_index": 2,
+   "sentence": "Cytochrome c release and caspase activation also occur in ouabain-induced neuronal apoptosis [10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "233",
+   "doc_id": "41380943",
+   "order_index": 4,
+   "sentence": "Passage [4] concerns Japanese quail brain chimeras showing genetically determined, brain-intrinsic sexual organization, which is consistent with this conclusion [4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "268",
+   "doc_id": "4319174",
+   "order_index": 9,
+   "sentence": "Cold exposure triggers sympathetic discharge that acts on brown and white adipose tissue to induce thermogenic gene expression [5]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "759",
+   "doc_id": "12409683",
+   "order_index": 8,
+   "sentence": "Other passages describe the effect of ACT on transmission as moderate, based on trial data rather than model predictions [1][6]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "36",
+   "doc_id": "33409100",
+   "order_index": 2,
+   "sentence": "The passages address folic acid, folate intake, and combined B-vitamin supplementation, and passage [5] shows a B12-containing supplement lowering homocysteine only alongside high-dose folic acid and B6 [5]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "261",
+   "doc_id": "32322418",
+   "order_index": 5,
+   "sentence": "Exercise training also increased ecNOS mRNA and bradykinin-mediated relaxation in collateral-dependent arterioles [2], and raised plasma NOx and cGMP in older women with mild aerobic training [3]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "569",
+   "doc_id": "37311371",
+   "order_index": 6,
+   "sentence": "Other passages, such as [4] on tissue-resident memory T cells and [3] on the accumulation of memory T cells over a lifetime, are consistent with this but do not independently establish the proportion [3][4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "852",
+   "doc_id": "40867854",
+   "order_index": 8,
+   "sentence": "In severe community-acquired pneumonia with acute respiratory failure, NPPV added to standard treatment reduced endotracheal intubation and ICU stay [1]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1110",
+   "doc_id": "8529693",
+   "order_index": 2,
+   "sentence": "The Maternal and child undernutrition study reports that lower birthweight and childhood undernutrition were risk factors for high glucose, high blood pressure, and harmful lipid profiles after adjusting for adult BMI and height [1]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "475",
+   "doc_id": "21626639",
+   "order_index": 1,
+   "sentence": "Passage [9] explicitly characterizes activated macrophages as essentially glycolytic cells, and passage [5] describes aerobic glycolysis as a key metabolic adaptation in tumor cells."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "800",
+   "doc_id": "4679264",
+   "order_index": 3,
+   "sentence": "However, none of the passages directly tests whether these brain epigenetic changes causally affect normal human aging through neurogenesis-related genes; the cortex study is correlational and its loci are described as CNS growth and development genes rather than specifically neurogenesis genes [1]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1187",
+   "doc_id": "12737132",
+   "order_index": 9,
+   "sentence": "Passage [4] states that TEAD family transcription factors are essential in mediating YAP-dependent gene expression, and that YAP is a transcription coactivator that acts through TEAD [4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "870",
+   "doc_id": "4345757",
+   "order_index": 4,
+   "sentence": "Obesity is linked to a range of serious health problems, including diabetes, coronary heart disease, certain cancers, and sleep-breathing disorders [9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "793",
+   "doc_id": "8654183",
+   "order_index": 7,
+   "sentence": "pylori-induced apoptosis [5], and cytochrome c release in ouabain-induced cell death [4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "198",
+   "doc_id": "13778710",
+   "order_index": 3,
+   "sentence": "Passage 2 states that CCL19 binds CCRL2, a receptor that constitutively recycles CCL19 and may reduce its local concentration [2]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "163",
+   "doc_id": "43220289",
+   "order_index": 1,
+   "sentence": "Although weight regain was accompanied by a slow, non-significant decline in these psychological gains, the overall direction of effect is positive [9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "431",
+   "doc_id": "29429111",
+   "order_index": 2,
+   "sentence": "Passage [5] documents FKHR (a FOXO family member) activation in neuronal death after ischemia without linking it to ROS, and passage [1] links ROS to a different cell-death pathway involving catalase degradation rather than FoxO3a."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1041",
+   "doc_id": "18694784",
+   "order_index": 1,
+   "sentence": "The passages establish that Htz1 (H2A.Z) is enriched at repressed/basal yeast promoters and that its presence promotes full activation of some genes, with nucleosomes containing it being susceptible to loss that exposes promoter DNA [2][3]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "54",
+   "doc_id": "3973445",
+   "order_index": 2,
+   "sentence": "AMPK activation also inhibits JAK-STAT inflammatory signaling [2] and ameliorates kidney fibrosis when induced in a CKD model [6]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "354",
+   "doc_id": "1241113",
+   "order_index": 4,
+   "sentence": "Passage [4] supports the mechanistic link by showing that Scrib knockdown disrupts E-cadherin-mediated adhesion, consistent with Scrib acting as a tumor suppressor in mammary epithelium [4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "684",
+   "doc_id": "12881593",
+   "order_index": 5,
+   "sentence": "Passages [9] and [10] characterize clpC regulation and Clp protein levels under heat stress, which concerns stress response rather than sporulation outcome [9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "674",
+   "doc_id": "7662206",
+   "order_index": 0,
+   "sentence": "LDL cholesterol is described as having a causal role in cardiovascular disease, and mutations affecting LDL receptors show that raising LDL causes heart attacks while lowering it reduces them [3][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1187",
+   "doc_id": "12737132",
+   "order_index": 2,
+   "sentence": "TEAD is shown to be essential for YAP-dependent gene induction and growth control, with CTGF identified as a direct YAP target gene [10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "728",
+   "doc_id": "14492339",
+   "order_index": 1,
+   "sentence": "The passages describe Ly6C^hi (CX3CR1^lo, CCR2+) monocytes as short-lived, actively recruited to inflamed tissues, and as the precursors that become Ly6C^lo cells [2][1]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1163",
+   "doc_id": "799586",
+   "order_index": 2,
+   "sentence": "The passages describe SsbB as an alternative SSB in Streptococcus pneumoniae and Bacillus subtilis, which is the sense of \"alternative SSB\" used in the claim [3]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "715",
+   "doc_id": "13290521",
+   "order_index": 3,
+   "sentence": "Passage [4] and [7] describe miR-7 in cancer and development generally, including roles in organ development, but do not address ovarian function or low expression of miR-7a specifically [4][7]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "475",
+   "doc_id": "8477699",
+   "order_index": 6,
+   "sentence": "Passage [9] states that activated macrophages are essentially glycolytic cells, and [5] notes that M1 macrophages obtain energy through glycolysis."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "36",
+   "doc_id": "33409100",
+   "order_index": 3,
+   "sentence": "Passage [2] concerns high-dose B12 given together with folic acid and B6, and passage [1] reports that serum B12 stayed unchanged during a folate-focused diet."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1107",
+   "doc_id": "32955023",
+   "order_index": 0,
+   "sentence": "However, passage [2] indicates that Pdgfr\u03b2+ mural cells contribute to beige adipogenesis only after prolonged cold exposure and not to the initial recruitment [2]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "517",
+   "doc_id": "19658917",
+   "order_index": 9,
+   "sentence": "Passage [6] establishes only that copeptin rises with water deprivation and hypertonic saline and falls with hypotonic saline, serving as a marker of vasopressin secretion [6]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "793",
+   "doc_id": "28249680",
+   "order_index": 3,
+   "sentence": "pylori [6], and BH3-only proteins proceed through the intrinsic mitochondrial apoptosis pathway after proteasome inhibition [1]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "859",
+   "doc_id": "22049489",
+   "order_index": 7,
+   "sentence": "Passage [1] identifies RUNX1 as a tumor suppressor, with miR-675 targeting it to promote gastric cancer cell growth, and reports an inverse relationship between RUNX1 and H19/miR-675 expression [1]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "513",
+   "doc_id": "12770738",
+   "order_index": 2,
+   "sentence": "Passage 9 further reports that low fitness, not high fitness, was associated with increased cardiovascular mortality across weight categories [9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "513",
+   "doc_id": "12770738",
+   "order_index": 3,
+   "sentence": "Passage [4] similarly finds that low cardiorespiratory fitness, not high fitness, was associated with increased cardiovascular mortality among men with diabetes [4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "628",
+   "doc_id": "28738741",
+   "order_index": 9,
+   "sentence": "The passages describe ATLL cases in Afro-Caribbean patients in London [10], but case clustering in one population does not establish which group has the highest infection frequency."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "452",
+   "doc_id": "9154703",
+   "order_index": 0,
+   "sentence": "Single-cell analysis shows abundant, random monoallelic expression that varies considerably among closely related cells [3], and stochastic gene expression produces cell-to-cell variation in mRNA and protein levels across organisms [7]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "768",
+   "doc_id": "19497526",
+   "order_index": 0,
+   "sentence": "Passage [5] mentions TPMT only as a measured phenotype associated with thiopurine outcomes, and passage [3] links TPMT variants to thiopurine-induced leukopenia without describing the methylation pathway."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1137",
+   "doc_id": "38355793",
+   "order_index": 1,
+   "sentence": "Other passages show A20 overexpression in glioma tissue and that A20 siRNA slows glioma growth in vitro and in mice [6]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "268",
+   "doc_id": "4319174",
+   "order_index": 2,
+   "sentence": "Cold exposure triggers sympathetic discharge that activates brown adipose tissue thermogenesis, and this response is linked to alternatively activated macrophages that secrete catecholamines [4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "830",
+   "doc_id": "12737132",
+   "order_index": 0,
+   "sentence": "Passage [9] establishes that YAP is phosphorylated and inhibited by the Hippo tumor suppressor pathway, and [6] describes Lats1/2 as upstream Hippo kinases whose inactivation leads to YAP nuclear translocation [6]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1107",
+   "doc_id": "32955023",
+   "order_index": 7,
+   "sentence": "Cold triggers a \"brite\" transcription signature and UCP1-associated browning in white depots, and prolonged cold exposure drives Pdgfr\u03b2+ mural cells to become beige adipocytes [2][9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "549",
+   "doc_id": "2274272",
+   "order_index": 2,
+   "sentence": "The other passages concern neuregulin/ErbB4 signaling, DISC1, HCV and PKR, or IRGM, and do not address IRG1 antiviral activity in neurons [1][2][3][4][5][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "362",
+   "doc_id": "15058155",
+   "order_index": 8,
+   "sentence": "They also identify 7\u03b1,25-OHC as the likely EBI2 ligand that creates a gradient guiding these cells [7]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "163",
+   "doc_id": "43220289",
+   "order_index": 7,
+   "sentence": "Some mental health gains tracked with weight loss, though the evidence on whether preoperative conditions predict weight outcomes is inconsistent [8][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "637",
+   "doc_id": "6129301",
+   "order_index": 0,
+   "sentence": "Passage [4] shows a mental health outreach service for homeless families improved children's mental health scores but had no significant impact on parental mental health, and it does not measure housing status [4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "261",
+   "doc_id": "25822299",
+   "order_index": 1,
+   "sentence": "Human studies also report increased NO production markers, such as plasma nitrite/nitrate, after chronic aerobic training [2][6], and rat studies show increased endothelial eNOS and iNOS expression with chronic running [3]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "728",
+   "doc_id": "14492339",
+   "order_index": 8,
+   "sentence": "Passage 8 describes the CX3CR1^lo CCR2+ Gr1+ subset (equivalent to Ly6C^hi) as actively recruited to inflamed tissues, supporting the same point [8]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "452",
+   "doc_id": "9154703",
+   "order_index": 9,
+   "sentence": "Passage [9] shows dynamic, random monoallelic expression with considerable variation among closely related embryonic cells [9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "75",
+   "doc_id": "13965483",
+   "order_index": 4,
+   "sentence": "Passage 3 mentions the UreA subunit only as the source of an epitope and passage 8 notes the urease structural genes without describing their assembly, so the claim cannot be confirmed or refuted from the given text [3][8]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1107",
+   "doc_id": "29381091",
+   "order_index": 7,
+   "sentence": "Cold triggers a \"brite\" transcription signature and UCP1-associated browning in white depots, and prolonged cold exposure drives Pdgfr\u03b2+ mural cells to become beige adipocytes [2][9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "324",
+   "doc_id": "22174015",
+   "order_index": 7,
+   "sentence": "Passage [1] shows raptor deletion impairs PI3K-Akt-mTORC1 signalling, but it does not directly measure G-CSF levels, so the link rests on the mTOR-G-CSF relationship in [8]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "784",
+   "doc_id": "16627684",
+   "order_index": 3,
+   "sentence": "Let-7b, a microRNA, reduces Hmga2 expression and so contributes to the decline in neural stem cell self-renewal with age [3]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "821",
+   "doc_id": "25799020",
+   "order_index": 1,
+   "sentence": "Passage [5] describes a method for isolating promoters via pre-initiation complex components, but it does not examine N-terminal cleavage, so the claim can be neither confirmed nor refuted from the given text."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1200",
+   "doc_id": "21114100",
+   "order_index": 2,
+   "sentence": "Passage [6] mentions small-molecule activators of TRPML1 and passage [8] describes an agonist-binding site in TRPML1, but neither identifies ML-SA1 or gives any information about TRPML2 binding."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "431",
+   "doc_id": "29429111",
+   "order_index": 5,
+   "sentence": "Passage [9] shows FKHR (a FOXO family member) activation and nuclear translocation in neuronal death after ischemia, but it does not link this to ROS [9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "715",
+   "doc_id": "17544977",
+   "order_index": 2,
+   "sentence": "Passage [7] notes that miR-7 is inhibited by the circular RNA ciRS-7, which bears on miR-7 activity but not on low expression in ovaries [7]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "759",
+   "doc_id": "12409683",
+   "order_index": 3,
+   "sentence": "A pooled analysis of trials found ACT reduced the probability of gametocytaemia and mosquito infection by patients compared with non-artemisinin drugs, though this was an empirical analysis rather than a modelling study [9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "674",
+   "doc_id": "7662206",
+   "order_index": 7,
+   "sentence": "Passage 4 further identifies cholesterol-carrying LDL as the essential causative agent of coronary heart disease, and notes that mutations raising LDL cause heart attacks while lowering it reduces them [4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "821",
+   "doc_id": "25799020",
+   "order_index": 7,
+   "sentence": "Passage [1] describes mapping promoters via PIC-component tags and tiling microarrays, but says nothing about N-terminal cleavage or its effect on success."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "514",
+   "doc_id": "4462079",
+   "order_index": 7,
+   "sentence": "Passage [6] identifies 75 nmol/L as the beginning of the most advantageous serum 25(OH)D range, but it does not address calcium intake or secondary hyperparathyroidism directly [6]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "956",
+   "doc_id": "21754541",
+   "order_index": 0,
+   "sentence": "Passage [8] reports that conserved polar residues at the transmembrane helical boundaries of the GLP-1 receptor control signalling specificity and biased agonism, with distinct residues stabilising the inactive receptor, directing signalling specificity, or being crucial for activation and downstream signalling [8]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "956",
+   "doc_id": "3127341",
+   "order_index": 8,
+   "sentence": "Passage [4] shows ligand- and pathway-specific effects across cAMP, ERK1/2 phosphorylation, and Ca\u00b2\u207a mobilisation for multiple receptor variants [4], and passage [5] describes a biased agonist-bound GLP-1R\u2013Gs structure with differences in G protein engagement [5]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "514",
+   "doc_id": "3034412",
+   "order_index": 0,
+   "sentence": "Other passages address vitamin D and PTH or calcium absorption without testing calcium intake as a determinant of secondary hyperparathyroidism [4][8]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "475",
+   "doc_id": "195689757",
+   "order_index": 1,
+   "sentence": "Passage [9] explicitly characterizes activated macrophages as essentially glycolytic cells, and passage [5] describes aerobic glycolysis as a key metabolic adaptation in tumor cells."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "233",
+   "doc_id": "41380943",
+   "order_index": 0,
+   "sentence": "Passage 3 supports this for Japanese quail, showing that genetically female forebrain tissue in otherwise male chimeras produced female-typical outcomes, indicating a brain-intrinsic genetic component. [8][3]"
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1144",
+   "doc_id": "6207111",
+   "order_index": 4,
+   "sentence": "The other passages address SSB consumption and diabetes risk generally but do not evaluate taxation in India [3][4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "577",
+   "doc_id": "8133050",
+   "order_index": 5,
+   "sentence": "Passage [4] concerns transmission investment in P."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "238",
+   "doc_id": "23017040",
+   "order_index": 9,
+   "sentence": "Passage [4] and [8] describe methionine restriction's effects on lifespan and visceral fat, and passage [9] links Met misacylation to oxidative stress, but none links methionine restriction to miRNA activation."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1137",
+   "doc_id": "38355793",
+   "order_index": 8,
+   "sentence": "Passage [5] likewise shows A20 overexpression in glioma tissue and cell lines, with siRNA knockdown slowing tumor growth in mice [5]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "859",
+   "doc_id": "8385277",
+   "order_index": 5,
+   "sentence": "Passage [8] reports RUNX1 lesions in Fanconi anemia leukemia without addressing a tumor-promoting role for normal expression [8]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1107",
+   "doc_id": "29381091",
+   "order_index": 4,
+   "sentence": "Cold exposure also drives browning of white adipose tissue, with the \"brite\" signature defined in white fat depots [3][5]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "128",
+   "doc_id": "23513718",
+   "order_index": 2,
+   "sentence": "Passage [7] gives a baseline cerebral arteriole diameter of 94 micrometers but offers no venular comparison [7]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "975",
+   "doc_id": "9159125",
+   "order_index": 6,
+   "sentence": "Passage [1] shows that cytokine responses to pathogens are organized around physiological responses rather than single pathways, and [8] shows LPS induces PGE2 synthase via TLR4/MyD88/NF-IL6 signaling, but neither establishes the specific induction claim."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1019",
+   "doc_id": "1225513",
+   "order_index": 8,
+   "sentence": "Passage [9] reports that binding affinity, not phosphotransfer rate, dictates signaling fidelity [9], while passage [6] attributes specificity to structural determinants that enable rapid phosphotransfer between cognate pairs [6]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "517",
+   "doc_id": "19658917",
+   "order_index": 7,
+   "sentence": "Passage [4] shows only that copeptin rises and falls with plasma osmolality and water balance, which is a different question."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1137",
+   "doc_id": "38355793",
+   "order_index": 0,
+   "sentence": "The passages describe A20 (TNFAIP3) as overexpressed in glioma tissue and glioma stem cells, with its knockdown reducing tumor growth and increasing survival in mice [1][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "362",
+   "doc_id": "15058155",
+   "order_index": 9,
+   "sentence": "The passages establish that EBI2 guides activated B cells toward extrafollicular/outer follicular sites early in the response, and that EBI2 ligand 7\u03b1,25-OHC forms a gradient that directs this migration [10][1][6]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "793",
+   "doc_id": "8654183",
+   "order_index": 0,
+   "sentence": "pylori-induced apoptosis [3]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "956",
+   "doc_id": "3610282",
+   "order_index": 6,
+   "sentence": "Passage 9 identifies intracellular polar residues that control signalling specificity and biased agonism of the GLP-1 receptor [9], and passage 10 attributes biased agonism to differences in G\u03b1s engagement between structures [10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "674",
+   "doc_id": "7662206",
+   "order_index": 1,
+   "sentence": "Passage [6] states that LDL is the essential causative agent of coronary heart disease and that mutations affecting LDL levels alter heart attack risk."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1241",
+   "doc_id": "25858295",
+   "order_index": 7,
+   "sentence": "Passage [10] adds that Nkx2-5, expressed in precardiac mesoderm, is required for myogenic specialization of the heart [10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1041",
+   "doc_id": "18694784",
+   "order_index": 8,
+   "sentence": "The passages establish that H2A.Z is enriched at promoters of inactive yeast genes, including the +1 region flanking the nucleosome-free region [2][3], and that Htz1 promotes full activation of some genes [1][9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "549",
+   "doc_id": "2274272",
+   "order_index": 9,
+   "sentence": "The other passages address schizophrenia-related genes, HCV interferon antagonism, or IRGM's role in mycobacteria, and do not bear on this claim [3][8]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "415",
+   "doc_id": "51386222",
+   "order_index": 5,
+   "sentence": "Passage [6] reports that the APOE \u03b54 allele is a major risk factor for Alzheimer disease across ethnic groups, both sexes, and ages 40 to 90, with an odds ratio of 14.9 for \u03b54/\u03b54 homozygotes."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1187",
+   "doc_id": "11535539",
+   "order_index": 8,
+   "sentence": "Nuclear accumulation of YAP and TAZ under stiff matrix conditions is shown in fibroblasts [2], and YAP/TAZ operate as coactivators of target gene expression through TEAD, with YAP/TEAD inhibition by verteporfin eliminating modulus-dependent effects [1]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "452",
+   "doc_id": "9154703",
+   "order_index": 3,
+   "sentence": "In single-cell analyses, closely related embryonic cells showed considerable variation in monoallelic expression that appeared random and dynamic [4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "517",
+   "doc_id": "19658917",
+   "order_index": 3,
+   "sentence": "The only copeptin study [7] shows how copeptin changes with water deprivation and osmolality shifts in healthy adults, but it does not examine diabetes outcomes."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1100",
+   "doc_id": "21557614",
+   "order_index": 5,
+   "sentence": "The claim that statins increase blood cholesterol is contrary to the evidence presented, which describes them as potent inhibitors of cholesterol biosynthesis [10] and as reducing hepatic cholesterol production [1]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "784",
+   "doc_id": "6285534",
+   "order_index": 5,
+   "sentence": "Passage [3] further shows that miR-302 suppresses neural progenitor expansion and precocious neuronal differentiation during neurulation [3], and passage [6] shows that let-7b, a microRNA, contributes to declining neural stem cell self-renewal by repressing Hmga2 [6]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1200",
+   "doc_id": "21114100",
+   "order_index": 0,
+   "sentence": "Passage [6] discusses small-molecule activators of TRPML1 mutants but gives no binding pose, and no passage addresses hTRPML2 binding."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "148",
+   "doc_id": "56528795",
+   "order_index": 3,
+   "sentence": "Passage [4] reports that autophagy-related proteins (LC3II/I, Beclin-1 and LAMP2) decrease significantly in rat liver as age increases."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "312",
+   "doc_id": "14464451",
+   "order_index": 8,
+   "sentence": "Passage [7] shows de novo transcriptome assembly can reconstruct full-length transcripts without a reference genome, and passage [5] notes that GC bias fragments assemblies, but neither quantifies contig specificity against unassembled data."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "956",
+   "doc_id": "3610282",
+   "order_index": 8,
+   "sentence": "Passage [4] shows ligand- and pathway-specific effects across cAMP, ERK1/2 phosphorylation, and Ca\u00b2\u207a mobilisation for multiple receptor variants [4], and passage [5] describes a biased agonist-bound GLP-1R\u2013Gs structure with differences in G protein engagement [5]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "1144",
+   "doc_id": "9822397",
+   "order_index": 5,
+   "sentence": "The broader evidence linking sugar-sweetened beverage consumption to diabetes, including in low- and middle-income countries, further undercuts the claim [1][4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "759",
+   "doc_id": "10617916",
+   "order_index": 9,
+   "sentence": "Clinical pooled data support the mechanism, showing ACT markedly reduces gametocytaemia and mosquito infection compared with non-artemisinin drugs [4], though a separate trial reported only a moderate effect [10], so the dramatic character of the predicted impact is qualified in some settings."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "870",
+   "doc_id": "43220289",
+   "order_index": 6,
+   "sentence": "Obesity is associated with severe psychiatric and somatic comorbidity and impairment of psychosocial functioning, which reduces well-being [4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "830",
+   "doc_id": "52873726",
+   "order_index": 3,
+   "sentence": "Passage [6] describes Lats1/2 as core Hippo kinases whose inactivation leads to YAP dephosphorylation and nuclear translocation, which is consistent with the mechanism in the claim but does not mention NF2 or Drosophila."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "793",
+   "doc_id": "8654183",
+   "order_index": 6,
+   "sentence": "Further passages report mitochondrial fragmentation, depolarisation, and BAX/BAK-independent mitochondrial death during apoptosis [5][10], so the claim that mitochondria are uninvolved is contradicted."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "821",
+   "doc_id": "25799020",
+   "order_index": 4,
+   "sentence": "Passage [8] describes a method for mapping promoters in the human genome using pre-initiation complex components, but it does not address N-terminal cleavage or its effect on that method."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_high",
+   "claim_id": "575",
+   "doc_id": "4421746",
+   "order_index": 3,
+   "sentence": "Passage [8] describes industrial yeast genomes and phenotypes but does not address aneuploidy frequency, and the remaining passages concern other organisms, cancer cells, or polyploidy in general [6][8]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "421",
+   "doc_id": "25435456",
+   "order_index": 4,
+   "sentence": "Passage [9] and [10] discuss extracellular matrix barriers to therapeutic delivery, but do not compare molecular flexibility as a factor."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "805",
+   "doc_id": "19485649",
+   "order_index": 9,
+   "sentence": "The claim is about metastasis specifically, and the evidence for that comes from the prostate cancer study [2], whereas the other passages either concern a different antibody target (anti-\u03b1v integrin) [1] or do not test antibodies against N-cadherin at all [3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1062",
+   "doc_id": "14171859",
+   "order_index": 2,
+   "sentence": "Passage [2] and [9] are consistent with physiological S-nitrosylation as a signaling mechanism but do not address GAPDH-mediated transnitrosylation of HDACs."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "975",
+   "doc_id": "25315295",
+   "order_index": 2,
+   "sentence": "Passage [1] notes that inflammatory cytokines act on neurotransmitter and growth factor systems but does not describe induction of secondary mediators [1]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "75",
+   "doc_id": "29214508",
+   "order_index": 3,
+   "sentence": "pylori urease structure [6]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "975",
+   "doc_id": "34469966",
+   "order_index": 8,
+   "sentence": "Passage [8] describes IL-1\u03b2 secretion via inflammasome signaling but does not address secondary mediators, so the claim cannot be confirmed or refuted from these passages."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "128",
+   "doc_id": "79447",
+   "order_index": 4,
+   "sentence": "Passage [8] measures arteriole diameters only in adipose tissue (75-250 \u03bcm) and passage [5] gives a baseline cerebral arteriole diameter (94 \u00b1 5 \u03bcm), but neither reports venule diameters for comparison."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "439",
+   "doc_id": "30675656",
+   "order_index": 5,
+   "sentence": "Passage [2] and [5] describe PCP and Frizzled/Dishevelled signalling in mouse cochlea and Drosophila respectively, without addressing Prickle localization in zebrafish neuroectoderm."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "238",
+   "doc_id": "1748921",
+   "order_index": 5,
+   "sentence": "Passage [9] states that miRNAs can become activators of expression during stress, but it does not link this to methionine restriction, and passage [2] connects methionine to misacylation under oxidative stress rather than to miRNA activation."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "501",
+   "doc_id": "27076725",
+   "order_index": 6,
+   "sentence": "However, passage 2 links head injury (a different exposure than headache) to dementia risk [2], and passage 10 finds headache associated with white matter hyperintensities and migraine with aura with infarcts [10], so the broader claim cannot be settled from these passages alone."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1292",
+   "doc_id": "13282296",
+   "order_index": 3,
+   "sentence": "The remaining passages address other biomarkers, genes, or populations, so they cannot confirm or refute an association between HNF4A mutations and diabetes [1][2][3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "690",
+   "doc_id": "2605032",
+   "order_index": 0,
+   "sentence": "The remaining passages concern unrelated topics, so they cannot confirm or refute the claim [1][2][3][4][5][6][7][8][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1221",
+   "doc_id": "4325398",
+   "order_index": 3,
+   "sentence": "The remaining passages concern other tumor types or pluripotent stem cells and do not address metastatic versus primary comparisons [1][2][3][4][5][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "528",
+   "doc_id": "28738741",
+   "order_index": 5,
+   "sentence": "The remaining passages do not address this specific question [1][2][3][4][5][6][7][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "690",
+   "doc_id": "34733465",
+   "order_index": 4,
+   "sentence": "None of the other passages mention Schimmelpenning-Feuerstein-Mims syndrome or the lactate threshold in question [1][2][3][4][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "800",
+   "doc_id": "14475235",
+   "order_index": 4,
+   "sentence": "However, none of the passages directly demonstrates that modifying brain epigenetics alters the normal human aging process through genes related to neurogenesis; the evidence is correlational and some passages note that a causal link is still unclear [1][4][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1191",
+   "doc_id": "32177659",
+   "order_index": 6,
+   "sentence": "The remaining passages concern assay performance, cancer genomics, DNA methylation, and citation rates, and none addresses database growth [2][3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "452",
+   "doc_id": "21855837",
+   "order_index": 1,
+   "sentence": "Passage [9] notes that genetically identical cells sharing an environment can display markedly different phenotypes [9], and passage [7] describes variable imprinted gene expression among cloned mice derived from the same ES cell subclone [7]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "521",
+   "doc_id": "29526125",
+   "order_index": 6,
+   "sentence": "The remaining passages cover unrelated topics such as fluid resuscitation, statins, and tirofiban [1][3][4][6][7][8][9][10], so they cannot confirm or refute the claim."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1104",
+   "doc_id": "16760369",
+   "order_index": 8,
+   "sentence": "The other passages do not address in-hospital mortality by anticoagulant type, so they do not bear on this claim [1][2][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1200",
+   "doc_id": "19708993",
+   "order_index": 7,
+   "sentence": "Passage [10] addresses TRPML2 only in terms of subcellular localization and multimerization, which is not relevant to ligand binding orientation."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "36",
+   "doc_id": "18557974",
+   "order_index": 0,
+   "sentence": "Passage [2] reports that serum vitamin B12 stayed unchanged during a folate-diet intervention, and passage [10] notes that cyanocobalamin supplements may be needed in some patients with hyperhomocysteinemia, but neither tests a B12 deficiency state."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1150",
+   "doc_id": "10795340",
+   "order_index": 8,
+   "sentence": "The other passages do not address Tspan3 directly [1][2][3][4][5][6][7][8][9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1146",
+   "doc_id": "26611094",
+   "order_index": 6,
+   "sentence": "Other passages address hospital volume, staffing, and social variation but do not compare teaching and nonteaching hospitals, so they do not bear on the claim [3][9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "674",
+   "doc_id": "5698494",
+   "order_index": 5,
+   "sentence": "Trials showing that lowering LDL reduces cardiovascular events further refute the claim [7][8]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "50",
+   "doc_id": "4561402",
+   "order_index": 8,
+   "sentence": "The other passages concern thymic expression, melanoma immunity, or keratin expression and do not address AIRE expression in skin tumors [1][2][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "521",
+   "doc_id": "13625993",
+   "order_index": 0,
+   "sentence": "The remaining passages concern other topics such as preclinical diastolic dysfunction, statins, hydroxyethyl starch, and troponin-guided risk stratification, and do not address early-presentation diagnostic performance [2][3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "921",
+   "doc_id": "50670403",
+   "order_index": 4,
+   "sentence": "A meta-analysis reported that athletes performed better on measures of processing speed and certain attentional tasks, consistent with a link between physical training and cognition [6]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1191",
+   "doc_id": "6561200",
+   "order_index": 6,
+   "sentence": "The remaining passages concern assay performance, cancer genomics, DNA methylation, and citation rates, and none addresses database growth [2][3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "113",
+   "doc_id": "1759213",
+   "order_index": 1,
+   "sentence": "Passage [8] adds that combining aliskiren with ACE inhibitors or ARBs increases hyperkalemia risk, though it does not address functional renal insufficiency directly [8]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "728",
+   "doc_id": "22406695",
+   "order_index": 2,
+   "sentence": "Passage [1] notes that Ly6c(hi) monocytes patrol the extravascular space and Ly6c(lo) nonclassical monocytes patrol the vasculature, but it does not compare inflammatory capacity."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1191",
+   "doc_id": "27768226",
+   "order_index": 4,
+   "sentence": "The remaining passages address repeat instability, cervical screening, rDNA copy number, DNA methylation, and citation rates, none of which measure data growth [1][2][3][4][5][6][7][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "50",
+   "doc_id": "39559521",
+   "order_index": 0,
+   "sentence": "Other passages discuss Aire in the thymus and peripheral lymphoid organs, which does not bear on skin tumors [3][6]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "75",
+   "doc_id": "25657127",
+   "order_index": 8,
+   "sentence": "Passage [1] and [5] concern Klebsiella aerogenes urease accessory-protein complexes, [6] discusses a vaccine epitope from the UreA subunit without describing the active enzyme's structure, and [10] reports the jack bean urease structure rather than H."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "51",
+   "doc_id": "43385013",
+   "order_index": 8,
+   "sentence": "Passages [1], [2], [3], [4], [5], [6], [8], [9], and [10] do not address ALDH1 and breast cancer outcomes and were not relied on."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "113",
+   "doc_id": "40790033",
+   "order_index": 5,
+   "sentence": "Passage [2] and passage [10] do not directly address functional renal insufficiency risk, so they are not relied on here."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "528",
+   "doc_id": "29134911",
+   "order_index": 5,
+   "sentence": "The remaining passages do not address this specific question [1][2][3][4][5][6][7][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "528",
+   "doc_id": "39443128",
+   "order_index": 0,
+   "sentence": "The remaining passages concern other topics such as ATLL treatment, EBV, and simian retroviruses and do not bear on this claim [1][2][3][4][5][6][7][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "128",
+   "doc_id": "79447",
+   "order_index": 0,
+   "sentence": "Passage [4] mentions arteriolar diameters only within visceral and subcutaneous fat depots, not relative to venules."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "521",
+   "doc_id": "7602348",
+   "order_index": 0,
+   "sentence": "The remaining passages concern other topics such as preclinical diastolic dysfunction, statins, hydroxyethyl starch, and troponin-guided risk stratification, and do not address early-presentation diagnostic performance [2][3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1191",
+   "doc_id": "14019636",
+   "order_index": 4,
+   "sentence": "The remaining passages address repeat instability, cervical screening, rDNA copy number, DNA methylation, and citation rates, none of which measure data growth [1][2][3][4][5][6][7][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "521",
+   "doc_id": "40156901",
+   "order_index": 0,
+   "sentence": "The remaining passages concern other topics such as preclinical diastolic dysfunction, statins, hydroxyethyl starch, and troponin-guided risk stratification, and do not address early-presentation diagnostic performance [2][3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1104",
+   "doc_id": "16180601",
+   "order_index": 8,
+   "sentence": "The other passages do not address in-hospital mortality by anticoagulant type, so they do not bear on this claim [1][2][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1221",
+   "doc_id": "3572885",
+   "order_index": 5,
+   "sentence": "The remaining passages address primary tumors or other cancer types without comparing them to metastatic lesions [1][3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "528",
+   "doc_id": "19327364",
+   "order_index": 0,
+   "sentence": "The remaining passages concern other topics such as ATLL treatment, EBV, and simian retroviruses and do not bear on this claim [1][2][3][4][5][6][7][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "440",
+   "doc_id": "5944514",
+   "order_index": 7,
+   "sentence": "The passages address PCP signaling in mice, zebrafish neurulation, and Drosophila Dishevelled in general terms [1][4][9][10], so the specific claim cannot be confirmed or refuted from them."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1191",
+   "doc_id": "9291668",
+   "order_index": 4,
+   "sentence": "The remaining passages address repeat instability, cervical screening, rDNA copy number, DNA methylation, and citation rates, none of which measure data growth [1][2][3][4][5][6][7][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "36",
+   "doc_id": "18557974",
+   "order_index": 5,
+   "sentence": "Because the passages do not test the claimed relationship, the claim can be neither confirmed nor refuted from them [2]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1024",
+   "doc_id": "8494570",
+   "order_index": 3,
+   "sentence": "Passage [4] describes constitutive CTCF binding sites and their role in topological domains, without addressing cancer mutations or oncogene proximity [4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "641",
+   "doc_id": "6191684",
+   "order_index": 3,
+   "sentence": "Passage 8 is the closest, showing CBT outperformed zopiclone in older adults with chronic primary insomnia [8], but the passages otherwise address benzodiazepines for chronic severe insomnia [1], CBT for headaches and somnambulism [2][3][7], and sleep-related interventions outside CBT for insomnia [4][5]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "521",
+   "doc_id": "24155601",
+   "order_index": 6,
+   "sentence": "The remaining passages cover unrelated topics such as fluid resuscitation, statins, and tirofiban [1][3][4][6][7][8][9][10], so they cannot confirm or refute the claim."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "837",
+   "doc_id": "9239963",
+   "order_index": 9,
+   "sentence": "Passage [3] adds that NR5A2 (LRH1) is expressed in endometrial cancer cells and regulates steroidogenic gene transcription, though this concerns cancer cells rather than normal endometrial development [3]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "800",
+   "doc_id": "9291668",
+   "order_index": 6,
+   "sentence": "The passages establish that epigenetic changes, especially DNA methylation, accumulate with age and that some longevity interventions suppress age-associated methylation changes in mouse liver [2][8]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1041",
+   "doc_id": "2817000",
+   "order_index": 7,
+   "sentence": "The passages establish that H2A.Z is enriched at promoter nucleosomes of both active and inactive yeast genes and can poise repressed/basal promoters for activation, with Htz1 promoting full activation [1][2][6][8]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1191",
+   "doc_id": "32177659",
+   "order_index": 1,
+   "sentence": "The other passages concern repeat instability, cervical screening, genome doubling, DNA methylation, and rDNA copy number, and none of them address database growth [2][3][4][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "830",
+   "doc_id": "36310858",
+   "order_index": 8,
+   "sentence": "The passages cover NRP/NEMO signaling [1], myosin light chain phosphorylation in oogenesis [2], and mammalian YAP/TAZ and TEAD biology [3][4][5][7][8][9][10], none of which tests the specific NF2-to-LATS1/2-to-YAP mechanism in Drosophila."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "805",
+   "doc_id": "7986878",
+   "order_index": 9,
+   "sentence": "The claim is about metastasis specifically, and the evidence for that comes from the prostate cancer study [2], whereas the other passages either concern a different antibody target (anti-\u03b1v integrin) [1] or do not test antibodies against N-cadherin at all [3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "521",
+   "doc_id": "9846940",
+   "order_index": 0,
+   "sentence": "The remaining passages concern other topics such as preclinical diastolic dysfunction, statins, hydroxyethyl starch, and troponin-guided risk stratification, and do not address early-presentation diagnostic performance [2][3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "521",
+   "doc_id": "25028913",
+   "order_index": 0,
+   "sentence": "The remaining passages concern other topics such as preclinical diastolic dysfunction, statins, hydroxyethyl starch, and troponin-guided risk stratification, and do not address early-presentation diagnostic performance [2][3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1379",
+   "doc_id": "5487448",
+   "order_index": 4,
+   "sentence": "A Swedish cohort and a mammographic density study also support an intrauterine link, though the cohort's birth weight association did not hold after adjusting for placental weight [3][7]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "50",
+   "doc_id": "4561402",
+   "order_index": 0,
+   "sentence": "Other passages discuss Aire in the thymus and peripheral lymphoid organs, which does not bear on skin tumors [3][6]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1100",
+   "doc_id": "22420524",
+   "order_index": 8,
+   "sentence": "The mechanism is described as statins inhibiting cholesterol biosynthesis [6], and the gallstone study notes statins decrease hepatic cholesterol biosynthesis [3]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "51",
+   "doc_id": "1866911",
+   "order_index": 8,
+   "sentence": "Passages [1], [2], [3], [4], [5], [6], [8], [9], and [10] do not address ALDH1 and breast cancer outcomes and were not relied on."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "478",
+   "doc_id": "7386360",
+   "order_index": 4,
+   "sentence": "The anergy-related passages concern unrelated systems, such as Schistosoma-induced anergy via PD-L1 [7] and rat Golli expression in lymphoid organs linked to an anergic response in meningitis [2], which do not establish the claimed Golli-deficiency-dependent differentiation."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1270",
+   "doc_id": "1102268",
+   "order_index": 7,
+   "sentence": "The other passages do not address prisoner self-harm by sex and so do not bear on the claim [1][3][9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "975",
+   "doc_id": "25315295",
+   "order_index": 7,
+   "sentence": "Passage [8] notes that acute inflammatory cytokine administration produces adaptive behavioral responses and that cytokines alter downstream neurotransmitter systems, but it does not describe induction of secondary mediators in the sense the claim requires [8]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1221",
+   "doc_id": "42836872",
+   "order_index": 3,
+   "sentence": "The remaining passages concern other tumor types or pluripotent stem cells and do not address metastatic versus primary comparisons [1][2][3][4][5][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1221",
+   "doc_id": "21479575",
+   "order_index": 0,
+   "sentence": "The remaining passages concern primary tumors or cell lines only and do not address metastases [1][2][3][4][5][6][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1221",
+   "doc_id": "4457160",
+   "order_index": 5,
+   "sentence": "The remaining passages address primary tumors or other cancer types without comparing them to metastatic lesions [1][3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "521",
+   "doc_id": "195317463",
+   "order_index": 0,
+   "sentence": "The remaining passages concern other topics such as preclinical diastolic dysfunction, statins, hydroxyethyl starch, and troponin-guided risk stratification, and do not address early-presentation diagnostic performance [2][3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "431",
+   "doc_id": "23887844",
+   "order_index": 9,
+   "sentence": "The remaining passages address ROS in neurons or other cells without linking them to FoxO3a activation [5][7]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "440",
+   "doc_id": "30675656",
+   "order_index": 7,
+   "sentence": "The passages address PCP signaling in mice, zebrafish neurulation, and Drosophila Dishevelled in general terms [1][4][9][10], so the specific claim cannot be confirmed or refuted from them."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "690",
+   "doc_id": "4791384",
+   "order_index": 0,
+   "sentence": "The remaining passages concern unrelated topics, so they cannot confirm or refute the claim [1][2][3][4][5][6][7][8][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "975",
+   "doc_id": "44935041",
+   "order_index": 7,
+   "sentence": "Passage [10] shows IL-1\u03b1 activating NF-\u03baB and AP-1 and inducing IL-8 and IL-6, which is consistent with the claim but covers only one cytokine's transcriptional effects [10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "51",
+   "doc_id": "24349992",
+   "order_index": 8,
+   "sentence": "Passages [1], [2], [3], [4], [5], [6], [8], [9], and [10] do not address ALDH1 and breast cancer outcomes and were not relied on."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "800",
+   "doc_id": "6040392",
+   "order_index": 1,
+   "sentence": "However, none of the passages directly shows that modifying the brain epigenome alters the normal human aging process through neurogenesis-related genes; the causal link is only suggested, not demonstrated [3][9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1100",
+   "doc_id": "22420524",
+   "order_index": 9,
+   "sentence": "Statins are described as potent inhibitors of cholesterol biosynthesis [9], and the cited evidence consistently frames them as lipid-lowering agents [1][2][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "870",
+   "doc_id": "40666943",
+   "order_index": 3,
+   "sentence": "Passage [8] reports impaired health-related quality of life in binge eating disorder, which is a related but distinct condition from obesity."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "521",
+   "doc_id": "7602348",
+   "order_index": 6,
+   "sentence": "The remaining passages cover unrelated topics such as fluid resuscitation, statins, and tirofiban [1][3][4][6][7][8][9][10], so they cannot confirm or refute the claim."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1104",
+   "doc_id": "16180601",
+   "order_index": 2,
+   "sentence": "No other passage addresses this comparison [2][3][4][5][6][7][8][9][10] (not used)."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "528",
+   "doc_id": "20754359",
+   "order_index": 0,
+   "sentence": "The remaining passages concern other topics such as ATLL treatment, EBV, and simian retroviruses and do not bear on this claim [1][2][3][4][5][6][7][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "475",
+   "doc_id": "8724666",
+   "order_index": 3,
+   "sentence": "Passages 3 and 4 further tie glycolytic flux to cell-state and phenotype regulation, reinforcing its prominence [3][4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1221",
+   "doc_id": "4325398",
+   "order_index": 0,
+   "sentence": "The remaining passages concern primary tumors or cell lines only and do not address metastases [1][2][3][4][5][6][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1146",
+   "doc_id": "21323587",
+   "order_index": 9,
+   "sentence": "Passage [9] reports a single teaching hospital ICU whose organisational change improved mortality, which concerns organisation rather than teaching status and does not contradict the pooled evidence [9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1110",
+   "doc_id": "28806780",
+   "order_index": 4,
+   "sentence": "Among people with HIV, hunger and poverty were independent predictors of death in multivariable analysis [10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "805",
+   "doc_id": "3727986",
+   "order_index": 9,
+   "sentence": "The claim is about metastasis specifically, and the evidence for that comes from the prostate cancer study [2], whereas the other passages either concern a different antibody target (anti-\u03b1v integrin) [1] or do not test antibodies against N-cadherin at all [3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1379",
+   "doc_id": "5487448",
+   "order_index": 9,
+   "sentence": "A Swedish study also linked higher birth weight to adult mammographic density, a marker of breast cancer risk [1]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1191",
+   "doc_id": "26672703",
+   "order_index": 1,
+   "sentence": "The other passages concern repeat instability, cervical screening, genome doubling, DNA methylation, and rDNA copy number, and none of them address database growth [2][3][4][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "148",
+   "doc_id": "52887689",
+   "order_index": 6,
+   "sentence": "Together these show age-associated reductions in autophagy in multiple organisms and tissues, which supports the claim, though passage [4] cautions that autophagosome counts alone do not measure autophagic flux [4]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "51",
+   "doc_id": "1554348",
+   "order_index": 8,
+   "sentence": "Passages [1], [2], [3], [4], [5], [6], [8], [9], and [10] do not address ALDH1 and breast cancer outcomes and were not relied on."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "440",
+   "doc_id": "18575183",
+   "order_index": 4,
+   "sentence": "Passage [1] concerns the unrelated kinase PKG-I in mouse nociceptors, and passage [3] addresses Wnt5a and Vangl2 in mouse cochlea, so neither bears on the claim [1][3]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1270",
+   "doc_id": "9976969",
+   "order_index": 4,
+   "sentence": "Passage 9 is about psychotropic drug self-poisoning and suicide rather than prisoners overall, so it does not bear on the ratio [9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "921",
+   "doc_id": "17691617",
+   "order_index": 3,
+   "sentence": "Passage [5] and [7] also report cognitive-adjacent benefits, but they concern balance and daily function rather than cognition, so the claim rests on [10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "805",
+   "doc_id": "3825472",
+   "order_index": 9,
+   "sentence": "The claim is about metastasis specifically, and the evidence for that comes from the prostate cancer study [2], whereas the other passages either concern a different antibody target (anti-\u03b1v integrin) [1] or do not test antibodies against N-cadherin at all [3][4][5][6][7][8][9][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1062",
+   "doc_id": "32985041",
+   "order_index": 2,
+   "sentence": "Passage [2] and [9] are consistent with physiological S-nitrosylation as a signaling mechanism but do not address GAPDH-mediated transnitrosylation of HDACs."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1024",
+   "doc_id": "17911973",
+   "order_index": 2,
+   "sentence": "Passage 9 reports somatic L1 insertions in lung cancer genomes but does not concern CTCF anchor sites, so it cannot settle the claim [9]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1266",
+   "doc_id": "16322674",
+   "order_index": 4,
+   "sentence": "The other passages cover birth size, maternal age, obesity, and breast density, and none of them examines placental weight [1][3][5][8]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "415",
+   "doc_id": "20937018",
+   "order_index": 0,
+   "sentence": "The passages establish that the APOE4 allele is a major risk factor for Alzheimer disease across ethnic groups, sexes, and ages [7][10]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "921",
+   "doc_id": "2424794",
+   "order_index": 4,
+   "sentence": "Another study found that higher aerobic fitness in children was associated with greater hippocampal volume and better relational memory, though this is correlational evidence [2]."
+  },
+  {
+   "kind": "C",
+   "group": "unlabeled_low",
+   "claim_id": "1150",
+   "doc_id": "9478135",
+   "order_index": 8,
+   "sentence": "The other passages do not address Tspan3 directly [1][2][3][4][5][6][7][8][9]."
+  }
+ ]
+}

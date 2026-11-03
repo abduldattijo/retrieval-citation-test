@@ -1,0 +1,77 @@
+{
+ "haiku_subset": {
+  "model": "haiku-5.5 (same 40 claims, orders 0 to 3)",
+  "claims": 40,
+  "answers": 160,
+  "never_share": 0.1,
+  "never_ci": [
+   0.025,
+   0.2
+  ],
+  "cite_relevant": 0.81875,
+  "cite_unlabeled": 0.13272569444444443,
+  "spearman": 0.6353475113181017,
+  "position_spread_pts": 9.999999999999998,
+  "position_pct": [
+   15.6,
+   22.5,
+   25.6,
+   20.6,
+   20.6,
+   18.1,
+   17.5,
+   22.5,
+   19.4,
+   21.2
+  ],
+  "verdicts": {
+   "SUPPORTED": 55,
+   "REFUTED": 10,
+   "NOT SETTLED": 95
+  },
+  "cited_per_answer": 2.0375,
+  "usd": 0.1053637,
+  "never_claims": [
+   "312",
+   "421",
+   "75",
+   "800"
+  ]
+ },
+ "sonnet": {
+  "model": "sonnet-5.5",
+  "claims": 40,
+  "answers": 160,
+  "never_share": 0.025,
+  "never_ci": [
+   0.0,
+   0.075
+  ],
+  "cite_relevant": 0.9375,
+  "cite_unlabeled": 0.17708333333333334,
+  "spearman": 0.6421726324223014,
+  "position_spread_pts": 6.874999999999998,
+  "position_pct": [
+   24.4,
+   23.8,
+   28.7,
+   24.4,
+   27.5,
+   21.9,
+   25.6,
+   28.7,
+   26.2,
+   24.4
+  ],
+  "verdicts": {
+   "SUPPORTED": 64,
+   "REFUTED": 30,
+   "NOT SETTLED": 66
+  },
+  "cited_per_answer": 2.55625,
+  "usd": 2.110654,
+  "never_claims": [
+   "830"
+  ]
+ }
+}

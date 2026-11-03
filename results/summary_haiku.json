@@ -1,0 +1,56 @@
+{
+ "calls": 1200,
+ "usd": 0.8288,
+ "refused": 30,
+ "truncated": 1,
+ "claims_total": 120,
+ "claims_analyzed": 117,
+ "excluded": [
+  "1021",
+  "380",
+  "823"
+ ],
+ "answers_analyzed": 1168,
+ "share_claims_relevant_never_cited": 0.02564102564102564,
+ "ci95_never": [
+  0.0,
+  0.05982905982905983
+ ],
+ "rule_relevance_reliable": true,
+ "mean_cite_freq_relevant": 0.8573836657169991,
+ "mean_cite_freq_unlabeled": 0.1397554605887939,
+ "relevant_cited_in_fewer_than_half": 18,
+ "n_relevant": 129,
+ "unlabeled_cited_in_at_least_half": 117,
+ "n_unlabeled": 1041,
+ "position_rate_pct": [
+  24.1,
+  22.6,
+  22.9,
+  20.7,
+  22.0,
+  19.9,
+  18.5,
+  21.8,
+  21.4,
+  23.7
+ ],
+ "position_spread_points": 5.6506849315068495,
+ "ci95_spread": [
+  4.0308747855917675,
+  9.409751924721984
+ ],
+ "rule_position_material": false,
+ "spearman_relevance_mean": 0.6066314336196877,
+ "ci95_spearman_relevance": [
+  0.5519852605636618,
+  0.658539857754027
+ ],
+ "spearman_retrieval_rank_mean": 0.4538869212871272,
+ "verdicts": {
+  "SUPPORTED": 499,
+  "REFUTED": 181,
+  "NOT SETTLED": 488
+ },
+ "passages_cited_per_answer": 2.1780821917808217
+}

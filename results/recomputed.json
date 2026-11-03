@@ -1,0 +1,227 @@
+{
+ "calls": 1200,
+ "refused": 30,
+ "truncated": 1,
+ "cost_haiku": 0.829,
+ "pilot_cost": 0.067,
+ "excluded": [
+  "1021",
+  "380",
+  "823"
+ ],
+ "main": {
+  "claims": 117,
+  "answers": 1168,
+  "never_n": 3,
+  "never_share": 0.02564102564102564,
+  "never_ci": [
+   0.0,
+   0.05982905982905983
+  ],
+  "cite_rel": 0.8573836657169991,
+  "cite_unl": 0.1397554605887939,
+  "rel_under_half": 18,
+  "n_rel": 129,
+  "unl_half_or_more": 117,
+  "n_unl": 1041,
+  "pos_rate": [
+   24.1,
+   22.6,
+   22.9,
+   20.7,
+   22.0,
+   19.9,
+   18.5,
+   21.8,
+   21.4,
+   23.7
+  ],
+  "spread": 5.6506849315068495,
+  "spread_ci": [
+   4.0308747855917675,
+   9.409751924721984
+  ],
+  "rho_rel": 0.6066314336196877,
+  "rho_rank": 0.45388692128712727,
+  "rho_rel_ci": [
+   0.5519852605636619,
+   0.658539857754027
+  ],
+  "verdicts": {
+   "SUPPORTED": 499,
+   "REFUTED": 181,
+   "NOT SETTLED": 488
+  },
+  "per_answer": 2.1780821917808217
+ },
+ "audit_calls": 675,
+ "audit_cost": 1.81,
+ "audit": {
+  "C_relevant": {
+   "n": 100,
+   "counts": {
+    "PARTLY": 23,
+    "SUPPORTS": 74,
+    "DOES NOT SUPPORT": 3
+   }
+  },
+  "C_unlabeled_high": {
+   "n": 100,
+   "counts": {
+    "SUPPORTS": 52,
+    "PARTLY": 46,
+    "DOES NOT SUPPORT": 2
+   }
+  },
+  "C_unlabeled_low": {
+   "n": 100,
+   "counts": {
+    "DOES NOT SUPPORT": 28,
+    "PARTLY": 38,
+    "SUPPORTS": 34
+   }
+  },
+  "R_relevant": {
+   "n": 129,
+   "counts": {
+    "CONTRADICTS": 26,
+    "SUPPORTS": 60,
+    "RELATED NOT EVIDENCE": 38,
+    "UNRELATED": 5
+   }
+  },
+  "R_unlabeled_high": {
+   "n": 117,
+   "counts": {
+    "CONTRADICTS": 21,
+    "RELATED NOT EVIDENCE": 62,
+    "SUPPORTS": 24,
+    "UNRELATED": 10
+   }
+  },
+  "R_unlabeled_low_sample": {
+   "n": 129,
+   "counts": {
+    "UNRELATED": 84,
+    "RELATED NOT EVIDENCE": 45
+   }
+  }
+ },
+ "hand": {
+  "R": {
+   "n": 28,
+   "exact": 20,
+   "yesno": 26,
+   "human_yes": 15,
+   "judge_yes": 13,
+   "kappa": 0.6
+  },
+  "C": {
+   "n": 18,
+   "exact": 12,
+   "yesno": 13,
+   "human_yes": 8,
+   "judge_yes": 5,
+   "kappa": 0.34
+  }
+ },
+ "sonnet": {
+  "cost": 2.11,
+  "haiku": {
+   "claims": 40,
+   "answers": 160,
+   "never_n": 4,
+   "never_share": 0.1,
+   "never_ci": [
+    0.025,
+    0.2
+   ],
+   "cite_rel": 0.81875,
+   "cite_unl": 0.13272569444444443,
+   "rel_under_half": 5,
+   "n_rel": 42,
+   "unl_half_or_more": 51,
+   "n_unl": 358,
+   "pos_rate": [
+    15.6,
+    22.5,
+    25.6,
+    20.6,
+    20.6,
+    18.1,
+    17.5,
+    22.5,
+    19.4,
+    21.2
+   ],
+   "spread": 9.999999999999998,
+   "spread_ci": [
+    7.499999999999998,
+    20.0
+   ],
+   "rho_rel": 0.6353475113181017,
+   "rho_rank": 0.39546444941265607,
+   "rho_rel_ci": [
+    0.5165005278661828,
+    0.7443724579931421
+   ],
+   "verdicts": {
+    "SUPPORTED": 55,
+    "REFUTED": 10,
+    "NOT SETTLED": 95
+   },
+   "per_answer": 2.0375
+  },
+  "sonnet": {
+   "claims": 40,
+   "answers": 160,
+   "never_n": 1,
+   "never_share": 0.025,
+   "never_ci": [
+    0.0,
+    0.075
+   ],
+   "cite_rel": 0.9375,
+   "cite_unl": 0.17708333333333334,
+   "rel_under_half": 2,
+   "n_rel": 42,
+   "unl_half_or_more": 62,
+   "n_unl": 358,
+   "pos_rate": [
+    24.4,
+    23.8,
+    28.7,
+    24.4,
+    27.5,
+    21.9,
+    25.6,
+    28.7,
+    26.2,
+    24.4
+   ],
+   "spread": 6.874999999999998,
+   "spread_ci": [
+    6.874999999999998,
+    19.375
+   ],
+   "rho_rel": 0.6421726324223014,
+   "rho_rank": 0.39673705578146556,
+   "rho_rel_ci": [
+    0.5458711397341472,
+    0.7332027201194566
+   ],
+   "verdicts": {
+    "SUPPORTED": 64,
+    "REFUTED": 30,
+    "NOT SETTLED": 66
+   },
+   "per_answer": 2.55625
+  },
+  "paired": {
+   "n": 160,
+   "same_set": 81,
+   "same_verdict": 114
+  }
+ },
+ "total_cost": 4.83
+}

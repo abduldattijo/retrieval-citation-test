@@ -1,0 +1,8717 @@
+{
+ "seed": 20261103,
+ "pool_size": 10,
+ "fill_depth": 30,
+ "claims": [
+  {
+   "claim_id": "985",
+   "claim": "Pseudogene PTENP1 regulates the expression of PTEN by functioning as an miRNA decoy.",
+   "split": "pilot",
+   "pool": [
+    {
+     "doc_id": "6828370",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7996
+    },
+    {
+     "doc_id": "24294572",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6581
+    },
+    {
+     "doc_id": "16364639",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6574
+    },
+    {
+     "doc_id": "2619579",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6523
+    },
+    {
+     "doc_id": "15590539",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6413
+    },
+    {
+     "doc_id": "12014458",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6363
+    },
+    {
+     "doc_id": "32324430",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6347
+    },
+    {
+     "doc_id": "12652963",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6345
+    },
+    {
+     "doc_id": "984825",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6336
+    },
+    {
+     "doc_id": "21601459",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6311
+    }
+   ]
+  },
+  {
+   "claim_id": "1336",
+   "claim": "UCB T cells reduce TCR diversity after transplantation.",
+   "split": "pilot",
+   "pool": [
+    {
+     "doc_id": "27910499",
+     "relevant": true,
+     "retrieval_rank": 2,
+     "cosine": 0.7018
+    },
+    {
+     "doc_id": "27243019",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7264
+    },
+    {
+     "doc_id": "43587663",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6685
+    },
+    {
+     "doc_id": "20220731",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.653
+    },
+    {
+     "doc_id": "17682477",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.63
+    },
+    {
+     "doc_id": "1336292",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6197
+    },
+    {
+     "doc_id": "14834714",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6136
+    },
+    {
+     "doc_id": "24795767",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6118
+    },
+    {
+     "doc_id": "33535222",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6063
+    },
+    {
+     "doc_id": "8354687",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6061
+    }
+   ]
+  },
+  {
+   "claim_id": "49",
+   "claim": "ADAR1 binds to Dicer to cleave pre-miRNA.",
+   "split": "pilot",
+   "pool": [
+    {
+     "doc_id": "5953485",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.808
+    },
+    {
+     "doc_id": "7029990",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.708
+    },
+    {
+     "doc_id": "5702790",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6979
+    },
+    {
+     "doc_id": "23913146",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6665
+    },
+    {
+     "doc_id": "12652963",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6521
+    },
+    {
+     "doc_id": "5409325",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6357
+    },
+    {
+     "doc_id": "8006440",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.625
+    },
+    {
+     "doc_id": "24042363",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6245
+    },
+    {
+     "doc_id": "22362025",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6234
+    },
+    {
+     "doc_id": "950306",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6169
+    }
+   ]
+  },
+  {
+   "claim_id": "527",
+   "claim": "Homozygous deletion of murine Sbds gene from osterix-expressing mesenchymal stem and progenitor cells (MPCs) prevents oxidative stress.",
+   "split": "pilot",
+   "pool": [
+    {
+     "doc_id": "3863543",
+     "relevant": true,
+     "retrieval_rank": 2,
+     "cosine": 0.6536
+    },
+    {
+     "doc_id": "1617327",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.6964
+    },
+    {
+     "doc_id": "3464191",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6514
+    },
+    {
+     "doc_id": "9412420",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6497
+    },
+    {
+     "doc_id": "5765455",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.647
+    },
+    {
+     "doc_id": "25827024",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6464
+    },
+    {
+     "doc_id": "22080671",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6442
+    },
+    {
+     "doc_id": "1941721",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6439
+    },
+    {
+     "doc_id": "7506409",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6426
+    },
+    {
+     "doc_id": "4410181",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.637
+    }
+   ]
+  },
+  {
+   "claim_id": "814",
+   "claim": "Mutations in G-Beta protein GNB2 are present in many cancers, resulting in loss of interaction with G-alpha subunits and concomitant activation of AKT pathway.",
+   "split": "pilot",
+   "pool": [
+    {
+     "doc_id": "33387953",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8421
+    },
+    {
+     "doc_id": "10326242",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6921
+    },
+    {
+     "doc_id": "21164071",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6887
+    },
+    {
+     "doc_id": "23078022",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6793
+    },
+    {
+     "doc_id": "21307488",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6745
+    },
+    {
+     "doc_id": "39758684",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6736
+    },
+    {
+     "doc_id": "13519661",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6697
+    },
+    {
+     "doc_id": "33370",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6663
+    },
+    {
+     "doc_id": "11255504",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6648
+    },
+    {
+     "doc_id": "12685434",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6635
+    }
+   ]
+  },
+  {
+   "claim_id": "560",
+   "claim": "Immune responses result in the development of inflammatory Th17 cells and anti-inflammatory iTregs.",
+   "split": "pilot",
+   "pool": [
+    {
+     "doc_id": "40096222",
+     "relevant": true,
+     "retrieval_rank": 143,
+     "cosine": 0.5905
+    },
+    {
+     "doc_id": "25726838",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.6997
+    },
+    {
+     "doc_id": "11233339",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6959
+    },
+    {
+     "doc_id": "1855679",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6838
+    },
+    {
+     "doc_id": "1022115",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6779
+    },
+    {
+     "doc_id": "19005293",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6775
+    },
+    {
+     "doc_id": "29347970",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.671
+    },
+    {
+     "doc_id": "4380287",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6702
+    },
+    {
+     "doc_id": "13798951",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6674
+    },
+    {
+     "doc_id": "39539647",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6575
+    }
+   ]
+  },
+  {
+   "claim_id": "48",
+   "claim": "A total of 1,000 people in the UK are asymptomatic carriers of vCJD infection.",
+   "split": "pilot",
+   "pool": [
+    {
+     "doc_id": "13734012",
+     "relevant": true,
+     "retrieval_rank": 4,
+     "cosine": 0.6341
+    },
+    {
+     "doc_id": "27063470",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7081
+    },
+    {
+     "doc_id": "11349166",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6986
+    },
+    {
+     "doc_id": "23203102",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6515
+    },
+    {
+     "doc_id": "18617259",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6315
+    },
+    {
+     "doc_id": "29955650",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6297
+    },
+    {
+     "doc_id": "22194407",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6068
+    },
+    {
+     "doc_id": "5850219",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6059
+    },
+    {
+     "doc_id": "44672703",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6009
+    },
+    {
+     "doc_id": "3413083",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.599
+    }
+   ]
+  },
+  {
+   "claim_id": "1385",
+   "claim": "cSMAC formation enhances weak ligand signalling.",
+   "split": "pilot",
+   "pool": [
+    {
+     "doc_id": "306006",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7202
+    },
+    {
+     "doc_id": "3559136",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6513
+    },
+    {
+     "doc_id": "2014909",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6437
+    },
+    {
+     "doc_id": "9283422",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6371
+    },
+    {
+     "doc_id": "18231807",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6354
+    },
+    {
+     "doc_id": "18237384",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6331
+    },
+    {
+     "doc_id": "15946643",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6285
+    },
+    {
+     "doc_id": "20372201",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6272
+    },
+    {
+     "doc_id": "10607877",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6269
+    },
+    {
+     "doc_id": "13778710",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6269
+    }
+   ]
+  },
+  {
+   "claim_id": "343",
+   "claim": "Diabetic patients with acute coronary syndrome experience increased short-term and long-term risk for bleeding events.",
+   "split": "pilot",
+   "pool": [
+    {
+     "doc_id": "7873737",
+     "relevant": true,
+     "retrieval_rank": 2,
+     "cosine": 0.7578
+    },
+    {
+     "doc_id": "5884524",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7642
+    },
+    {
+     "doc_id": "6158879",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7317
+    },
+    {
+     "doc_id": "38630735",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7237
+    },
+    {
+     "doc_id": "16760369",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.7097
+    },
+    {
+     "doc_id": "23783727",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.7082
+    },
+    {
+     "doc_id": "7640792",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6993
+    },
+    {
+     "doc_id": "44387884",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6982
+    },
+    {
+     "doc_id": "29253460",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6965
+    },
+    {
+     "doc_id": "750781",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6787
+    }
+   ]
+  },
+  {
+   "claim_id": "879",
+   "claim": "Occupancy of ribosomes by IncRNAs do not make functional peptides.",
+   "split": "pilot",
+   "pool": [
+    {
+     "doc_id": "8426046",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.6963
+    },
+    {
+     "doc_id": "40412980",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6049
+    },
+    {
+     "doc_id": "6828370",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.5977
+    },
+    {
+     "doc_id": "18421962",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.5969
+    },
+    {
+     "doc_id": "1748921",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5967
+    },
+    {
+     "doc_id": "13552682",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5953
+    },
+    {
+     "doc_id": "6209599",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5936
+    },
+    {
+     "doc_id": "18987782",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5912
+    },
+    {
+     "doc_id": "18467982",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5907
+    },
+    {
+     "doc_id": "8006440",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5897
+    }
+   ]
+  },
+  {
+   "claim_id": "793",
+   "claim": "Mitochondria are uninvolved in apoptosis.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "8551160",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.6751
+    },
+    {
+     "doc_id": "23403754",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6728
+    },
+    {
+     "doc_id": "23887844",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6687
+    },
+    {
+     "doc_id": "935034",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6507
+    },
+    {
+     "doc_id": "28249680",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6487
+    },
+    {
+     "doc_id": "8654183",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6482
+    },
+    {
+     "doc_id": "2543135",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6382
+    },
+    {
+     "doc_id": "4399311",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6381
+    },
+    {
+     "doc_id": "39381118",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6373
+    },
+    {
+     "doc_id": "17231273",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.635
+    }
+   ]
+  },
+  {
+   "claim_id": "5",
+   "claim": "1/2000 in UK have abnormal PrP positivity.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "13734012",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.646
+    },
+    {
+     "doc_id": "27063470",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6444
+    },
+    {
+     "doc_id": "25261168",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.5933
+    },
+    {
+     "doc_id": "18617259",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.5815
+    },
+    {
+     "doc_id": "23124332",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5759
+    },
+    {
+     "doc_id": "11349166",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5679
+    },
+    {
+     "doc_id": "103007",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5668
+    },
+    {
+     "doc_id": "841371",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.563
+    },
+    {
+     "doc_id": "1583041",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.562
+    },
+    {
+     "doc_id": "7751726",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5615
+    }
+   ]
+  },
+  {
+   "claim_id": "452",
+   "claim": "Gene expression does not vary appreciably across genetically identical cells.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "12804937",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.688
+    },
+    {
+     "doc_id": "464511",
+     "relevant": true,
+     "retrieval_rank": 67,
+     "cosine": 0.5958
+    },
+    {
+     "doc_id": "54561709",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6824
+    },
+    {
+     "doc_id": "21855837",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.676
+    },
+    {
+     "doc_id": "9154703",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6592
+    },
+    {
+     "doc_id": "12232678",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6542
+    },
+    {
+     "doc_id": "9196472",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6529
+    },
+    {
+     "doc_id": "4378885",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6509
+    },
+    {
+     "doc_id": "13592721",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6464
+    },
+    {
+     "doc_id": "12014458",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6432
+    }
+   ]
+  },
+  {
+   "claim_id": "1221",
+   "claim": "The genomic aberrations found in matasteses are very similar to those found in the primary tumor.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "19736671",
+     "relevant": true,
+     "retrieval_rank": 2,
+     "cosine": 0.6293
+    },
+    {
+     "doc_id": "11271123",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.6337
+    },
+    {
+     "doc_id": "4457160",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.611
+    },
+    {
+     "doc_id": "3572885",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6098
+    },
+    {
+     "doc_id": "4325398",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6094
+    },
+    {
+     "doc_id": "21479575",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6092
+    },
+    {
+     "doc_id": "2359152",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6061
+    },
+    {
+     "doc_id": "7211056",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6045
+    },
+    {
+     "doc_id": "42836872",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6034
+    },
+    {
+     "doc_id": "9737083",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6015
+    }
+   ]
+  },
+  {
+   "claim_id": "72",
+   "claim": "Activator-inhibitor pairs are provided dorsally by Admpchordin.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "6076903",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.5984
+    },
+    {
+     "doc_id": "40383969",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.5857
+    },
+    {
+     "doc_id": "14296612",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.583
+    },
+    {
+     "doc_id": "1031534",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.5809
+    },
+    {
+     "doc_id": "9021186",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5772
+    },
+    {
+     "doc_id": "2119889",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5734
+    },
+    {
+     "doc_id": "24335068",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5723
+    },
+    {
+     "doc_id": "15548965",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5723
+    },
+    {
+     "doc_id": "36399109",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5664
+    },
+    {
+     "doc_id": "18895793",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5663
+    }
+   ]
+  },
+  {
+   "claim_id": "1352",
+   "claim": "Upregulation of mosGCTL-1 is induced upon infection with West Nile virus.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "12885341",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7607
+    },
+    {
+     "doc_id": "10559501",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6397
+    },
+    {
+     "doc_id": "7386360",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6288
+    },
+    {
+     "doc_id": "34016987",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6227
+    },
+    {
+     "doc_id": "2603304",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6218
+    },
+    {
+     "doc_id": "34287602",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6127
+    },
+    {
+     "doc_id": "26068103",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6123
+    },
+    {
+     "doc_id": "4387484",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.609
+    },
+    {
+     "doc_id": "14767844",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6054
+    },
+    {
+     "doc_id": "10648422",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.605
+    }
+   ]
+  },
+  {
+   "claim_id": "261",
+   "claim": "Chronic aerobic exercise alters endothelial function, improving vasodilating mechanisms mediated by NO.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "1122279",
+     "relevant": true,
+     "retrieval_rank": 6,
+     "cosine": 0.7479
+    },
+    {
+     "doc_id": "10697096",
+     "relevant": true,
+     "retrieval_rank": 8,
+     "cosine": 0.7258
+    },
+    {
+     "doc_id": "32322418",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.8002
+    },
+    {
+     "doc_id": "25822299",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7916
+    },
+    {
+     "doc_id": "46743299",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7865
+    },
+    {
+     "doc_id": "17097974",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7568
+    },
+    {
+     "doc_id": "35271381",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.7495
+    },
+    {
+     "doc_id": "752423",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.7269
+    },
+    {
+     "doc_id": "52175065",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.7127
+    },
+    {
+     "doc_id": "29148743",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.7127
+    }
+   ]
+  },
+  {
+   "claim_id": "440",
+   "claim": "Fz/PCP-dependent Pk localizes to the anterior membrane of notochord cells during zebrafish neuralation.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "4423559",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.695
+    },
+    {
+     "doc_id": "18575183",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6714
+    },
+    {
+     "doc_id": "4932668",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6678
+    },
+    {
+     "doc_id": "6729465",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6566
+    },
+    {
+     "doc_id": "5944514",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6495
+    },
+    {
+     "doc_id": "17049436",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6419
+    },
+    {
+     "doc_id": "9629682",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6415
+    },
+    {
+     "doc_id": "6076903",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6393
+    },
+    {
+     "doc_id": "30675656",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6359
+    },
+    {
+     "doc_id": "11254556",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6332
+    }
+   ]
+  },
+  {
+   "claim_id": "1163",
+   "claim": "The DdrB protein from Deinococcus radiodurans is an alternative SSB.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "15305881",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.6978
+    },
+    {
+     "doc_id": "799586",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6007
+    },
+    {
+     "doc_id": "7151961",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.5586
+    },
+    {
+     "doc_id": "8721150",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.5569
+    },
+    {
+     "doc_id": "2335873",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5557
+    },
+    {
+     "doc_id": "1914588",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5509
+    },
+    {
+     "doc_id": "7735859",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5489
+    },
+    {
+     "doc_id": "17939443",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.545
+    },
+    {
+     "doc_id": "10874408",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.543
+    },
+    {
+     "doc_id": "18261004",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5429
+    }
+   ]
+  },
+  {
+   "claim_id": "684",
+   "claim": "Lack of clpC does not affect sporulation efficiency in Bacillus subtilis cells.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "4942718",
+     "relevant": true,
+     "retrieval_rank": 3,
+     "cosine": 0.6699
+    },
+    {
+     "doc_id": "12881593",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7164
+    },
+    {
+     "doc_id": "34386619",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6782
+    },
+    {
+     "doc_id": "9604301",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6165
+    },
+    {
+     "doc_id": "31844040",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6106
+    },
+    {
+     "doc_id": "31439189",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6105
+    },
+    {
+     "doc_id": "15282056",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6041
+    },
+    {
+     "doc_id": "17416520",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5956
+    },
+    {
+     "doc_id": "12824568",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5917
+    },
+    {
+     "doc_id": "22191759",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5913
+    }
+   ]
+  },
+  {
+   "claim_id": "362",
+   "claim": "During the primary early antibody response activated B cells migrate toward the inner-and outer paracortical areas where oxysterol accumulation is generated by stromal cells.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "38587347",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7262
+    },
+    {
+     "doc_id": "15058155",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7023
+    },
+    {
+     "doc_id": "15488881",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6976
+    },
+    {
+     "doc_id": "9705208",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6924
+    },
+    {
+     "doc_id": "10354110",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6819
+    },
+    {
+     "doc_id": "11557602",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.68
+    },
+    {
+     "doc_id": "4254064",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6787
+    },
+    {
+     "doc_id": "21626639",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6783
+    },
+    {
+     "doc_id": "15879931",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6726
+    },
+    {
+     "doc_id": "13469921",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6662
+    }
+   ]
+  },
+  {
+   "claim_id": "1379",
+   "claim": "Women with a higher birth weight are more likely to develop breast cancer later in life.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "16322674",
+     "relevant": true,
+     "retrieval_rank": 2,
+     "cosine": 0.7994
+    },
+    {
+     "doc_id": "27123743",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8202
+    },
+    {
+     "doc_id": "23557241",
+     "relevant": true,
+     "retrieval_rank": 4,
+     "cosine": 0.7775
+    },
+    {
+     "doc_id": "17450673",
+     "relevant": true,
+     "retrieval_rank": 3,
+     "cosine": 0.7943
+    },
+    {
+     "doc_id": "5487448",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.7594
+    },
+    {
+     "doc_id": "37480103",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.7565
+    },
+    {
+     "doc_id": "13765757",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.7489
+    },
+    {
+     "doc_id": "13831842",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.7161
+    },
+    {
+     "doc_id": "15512462",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.7134
+    },
+    {
+     "doc_id": "16098747",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.7023
+    }
+   ]
+  },
+  {
+   "claim_id": "852",
+   "claim": "Non-invasive ventilation use should be decreased if there is inadequate response to conventional treatment.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "13843341",
+     "relevant": true,
+     "retrieval_rank": 4,
+     "cosine": 0.6518
+    },
+    {
+     "doc_id": "8190282",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.6906
+    },
+    {
+     "doc_id": "40867854",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6746
+    },
+    {
+     "doc_id": "474325",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6735
+    },
+    {
+     "doc_id": "14361849",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6407
+    },
+    {
+     "doc_id": "34208005",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6309
+    },
+    {
+     "doc_id": "25098790",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6222
+    },
+    {
+     "doc_id": "38735355",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6182
+    },
+    {
+     "doc_id": "24323695",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5999
+    },
+    {
+     "doc_id": "19464037",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.597
+    }
+   ]
+  },
+  {
+   "claim_id": "1292",
+   "claim": "There is no association between HNF4A mutations and diabetes risks.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "56893404",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.634
+    },
+    {
+     "doc_id": "17656445",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6059
+    },
+    {
+     "doc_id": "25571386",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.5967
+    },
+    {
+     "doc_id": "15663829",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.595
+    },
+    {
+     "doc_id": "30983338",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5914
+    },
+    {
+     "doc_id": "16527698",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.591
+    },
+    {
+     "doc_id": "17324544",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5886
+    },
+    {
+     "doc_id": "21641088",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5862
+    },
+    {
+     "doc_id": "13282296",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5824
+    },
+    {
+     "doc_id": "24872571",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5795
+    }
+   ]
+  },
+  {
+   "claim_id": "521",
+   "claim": "High-sensitivity cardiac troponin T (HSCT-T) dosage may not be diagnostic if the onset of symptoms occurs less than 3 hours before acute myocardial injury (AMI).",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "34873974",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7597
+    },
+    {
+     "doc_id": "29526125",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6976
+    },
+    {
+     "doc_id": "25028913",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6915
+    },
+    {
+     "doc_id": "3056682",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6826
+    },
+    {
+     "doc_id": "195317463",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6579
+    },
+    {
+     "doc_id": "9846940",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6539
+    },
+    {
+     "doc_id": "40156901",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6485
+    },
+    {
+     "doc_id": "24155601",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6456
+    },
+    {
+     "doc_id": "13625993",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6427
+    },
+    {
+     "doc_id": "7602348",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6419
+    }
+   ]
+  },
+  {
+   "claim_id": "636",
+   "claim": "Inositol lipid 3-phosphatase PTEN converts Ptdlns(3,4)P 2 into phosphatidylinositol 4-phosphate.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "24294572",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7633
+    },
+    {
+     "doc_id": "42708716",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.761
+    },
+    {
+     "doc_id": "19752008",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7317
+    },
+    {
+     "doc_id": "22025252",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7129
+    },
+    {
+     "doc_id": "3155374",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.7012
+    },
+    {
+     "doc_id": "34071621",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6879
+    },
+    {
+     "doc_id": "6492658",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6811
+    },
+    {
+     "doc_id": "16280642",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6693
+    },
+    {
+     "doc_id": "14328288",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6666
+    },
+    {
+     "doc_id": "1285713",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6613
+    }
+   ]
+  },
+  {
+   "claim_id": "1100",
+   "claim": "Statins increase blood cholesterol.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "7662206",
+     "relevant": true,
+     "retrieval_rank": 10,
+     "cosine": 0.6468
+    },
+    {
+     "doc_id": "5698494",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7194
+    },
+    {
+     "doc_id": "21557614",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6947
+    },
+    {
+     "doc_id": "22420524",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6877
+    },
+    {
+     "doc_id": "4687948",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6856
+    },
+    {
+     "doc_id": "24005548",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6842
+    },
+    {
+     "doc_id": "43629704",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6822
+    },
+    {
+     "doc_id": "7454794",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6642
+    },
+    {
+     "doc_id": "40156901",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6603
+    },
+    {
+     "doc_id": "1287809",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.648
+    }
+   ]
+  },
+  {
+   "claim_id": "690",
+   "claim": "Less than 10% of the gabonese children with Schimmelpenning-Feuerstein-Mims syndrome (SFM) had a plasma lactate of more than 5mmol/L.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "18750453",
+     "relevant": true,
+     "retrieval_rank": 2,
+     "cosine": 0.6619
+    },
+    {
+     "doc_id": "19487477",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.662
+    },
+    {
+     "doc_id": "21472388",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6425
+    },
+    {
+     "doc_id": "4791384",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6375
+    },
+    {
+     "doc_id": "7227763",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6312
+    },
+    {
+     "doc_id": "25182647",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6308
+    },
+    {
+     "doc_id": "13464392",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6217
+    },
+    {
+     "doc_id": "27129115",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6215
+    },
+    {
+     "doc_id": "2605032",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6214
+    },
+    {
+     "doc_id": "34733465",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6212
+    }
+   ]
+  },
+  {
+   "claim_id": "312",
+   "claim": "De novo assembly of sequence data has more specific contigs than unassembled sequence data.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "6173523",
+     "relevant": true,
+     "retrieval_rank": 33,
+     "cosine": 0.5418
+    },
+    {
+     "doc_id": "14464451",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.6646
+    },
+    {
+     "doc_id": "45200347",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.5964
+    },
+    {
+     "doc_id": "1544804",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.5839
+    },
+    {
+     "doc_id": "5650232",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.5835
+    },
+    {
+     "doc_id": "14652521",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5811
+    },
+    {
+     "doc_id": "14915566",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5793
+    },
+    {
+     "doc_id": "11728637",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5773
+    },
+    {
+     "doc_id": "32770503",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5756
+    },
+    {
+     "doc_id": "25536577",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5692
+    }
+   ]
+  },
+  {
+   "claim_id": "233",
+   "claim": "Cell autonomous sex determination in somatic cells does not occur in Galliformes.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "4388470",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7882
+    },
+    {
+     "doc_id": "41380943",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.661
+    },
+    {
+     "doc_id": "28390999",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6343
+    },
+    {
+     "doc_id": "12232678",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6325
+    },
+    {
+     "doc_id": "16963081",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.628
+    },
+    {
+     "doc_id": "28928964",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6039
+    },
+    {
+     "doc_id": "40971746",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6026
+    },
+    {
+     "doc_id": "23581096",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6017
+    },
+    {
+     "doc_id": "3823862",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5995
+    },
+    {
+     "doc_id": "27279525",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5884
+    }
+   ]
+  },
+  {
+   "claim_id": "1259",
+   "claim": "The relationship between a breast cancer patient's capacity to metabolize tamoxifen and treatment outcome is dependent on the patient's genetic make-up.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "24341590",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7435
+    },
+    {
+     "doc_id": "13069283",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7253
+    },
+    {
+     "doc_id": "18340282",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6811
+    },
+    {
+     "doc_id": "20454006",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6777
+    },
+    {
+     "doc_id": "5649538",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6549
+    },
+    {
+     "doc_id": "23284774",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6454
+    },
+    {
+     "doc_id": "12438901",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6451
+    },
+    {
+     "doc_id": "34066665",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6449
+    },
+    {
+     "doc_id": "2015126",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6435
+    },
+    {
+     "doc_id": "31311495",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6403
+    }
+   ]
+  },
+  {
+   "claim_id": "784",
+   "claim": "MicroRNA is involved in the regulation of Neural Stem Cell (NSC) differentiation and proliferation dynamic homeostasis",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "2356950",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7617
+    },
+    {
+     "doc_id": "42662816",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7325
+    },
+    {
+     "doc_id": "23535770",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7304
+    },
+    {
+     "doc_id": "6285534",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7303
+    },
+    {
+     "doc_id": "23727313",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.7251
+    },
+    {
+     "doc_id": "13290521",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.7191
+    },
+    {
+     "doc_id": "16627684",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.7091
+    },
+    {
+     "doc_id": "25050969",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.7052
+    },
+    {
+     "doc_id": "22843616",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.7051
+    },
+    {
+     "doc_id": "16364639",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.7029
+    }
+   ]
+  },
+  {
+   "claim_id": "1021",
+   "claim": "Rapid up-regulation and higher basal expression of interferon-induced genes reduce survival of granule cell neurons that are infected by West Nile virus.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "9433958",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7357
+    },
+    {
+     "doc_id": "10559501",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7322
+    },
+    {
+     "doc_id": "5137019",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6767
+    },
+    {
+     "doc_id": "26731863",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6683
+    },
+    {
+     "doc_id": "72159",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6602
+    },
+    {
+     "doc_id": "6144969",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6567
+    },
+    {
+     "doc_id": "20960682",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6559
+    },
+    {
+     "doc_id": "38376189",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6549
+    },
+    {
+     "doc_id": "2947124",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6536
+    },
+    {
+     "doc_id": "3493623",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.649
+    }
+   ]
+  },
+  {
+   "claim_id": "324",
+   "claim": "Deleting Raptor reduces G-CSF levels.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "2014909",
+     "relevant": true,
+     "retrieval_rank": 2,
+     "cosine": 0.5746
+    },
+    {
+     "doc_id": "44562221",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.5796
+    },
+    {
+     "doc_id": "41380943",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.5735
+    },
+    {
+     "doc_id": "3559136",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.5666
+    },
+    {
+     "doc_id": "30915421",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5538
+    },
+    {
+     "doc_id": "28530299",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5537
+    },
+    {
+     "doc_id": "22174015",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5508
+    },
+    {
+     "doc_id": "26652147",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5461
+    },
+    {
+     "doc_id": "2481032",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5453
+    },
+    {
+     "doc_id": "37205759",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5438
+    }
+   ]
+  },
+  {
+   "claim_id": "903",
+   "claim": "PD-1 triggering on monocytes reduces IL-10 production by monocytes.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "10648422",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7854
+    },
+    {
+     "doc_id": "5752492",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7037
+    },
+    {
+     "doc_id": "7343711",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6737
+    },
+    {
+     "doc_id": "1454773",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6696
+    },
+    {
+     "doc_id": "14938990",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6679
+    },
+    {
+     "doc_id": "8639034",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6598
+    },
+    {
+     "doc_id": "8963413",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6594
+    },
+    {
+     "doc_id": "7386360",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6565
+    },
+    {
+     "doc_id": "43534665",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6527
+    },
+    {
+     "doc_id": "9334631",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6524
+    }
+   ]
+  },
+  {
+   "claim_id": "163",
+   "claim": "Bariatric surgery has a positive impact on mental health.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "18872233",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8122
+    },
+    {
+     "doc_id": "43220289",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7776
+    },
+    {
+     "doc_id": "19071857",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7532
+    },
+    {
+     "doc_id": "29022271",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.732
+    },
+    {
+     "doc_id": "7627167",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.7085
+    },
+    {
+     "doc_id": "40949706",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.7036
+    },
+    {
+     "doc_id": "5824985",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6995
+    },
+    {
+     "doc_id": "20130904",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6625
+    },
+    {
+     "doc_id": "36033696",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6456
+    },
+    {
+     "doc_id": "7098463",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6443
+    }
+   ]
+  },
+  {
+   "claim_id": "514",
+   "claim": "High dietary calcium intakes are unnecessary for prevention of secondary hyperparathyroidism in subjects with 25(OH)D levels above 75 nmol/liter.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "16256507",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7763
+    },
+    {
+     "doc_id": "3034412",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7555
+    },
+    {
+     "doc_id": "4462079",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7503
+    },
+    {
+     "doc_id": "36960449",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7317
+    },
+    {
+     "doc_id": "13312471",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.73
+    },
+    {
+     "doc_id": "44572913",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.7192
+    },
+    {
+     "doc_id": "9555784",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.7178
+    },
+    {
+     "doc_id": "4483571",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.712
+    },
+    {
+     "doc_id": "520579",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.707
+    },
+    {
+     "doc_id": "12074066",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.7025
+    }
+   ]
+  },
+  {
+   "claim_id": "75",
+   "claim": "Active H. pylori urease has a polymeric structure that compromises two subunits, UreA and UreB.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "4387784",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7731
+    },
+    {
+     "doc_id": "25657127",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7268
+    },
+    {
+     "doc_id": "37768883",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.717
+    },
+    {
+     "doc_id": "36233757",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7091
+    },
+    {
+     "doc_id": "29214508",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6996
+    },
+    {
+     "doc_id": "38805486",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.683
+    },
+    {
+     "doc_id": "13965483",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6771
+    },
+    {
+     "doc_id": "26488879",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6663
+    },
+    {
+     "doc_id": "1744752",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6603
+    },
+    {
+     "doc_id": "12691537",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6591
+    }
+   ]
+  },
+  {
+   "claim_id": "127",
+   "claim": "Arginine 90 in p150n is important for interaction with EB1.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "21598000",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.6179
+    },
+    {
+     "doc_id": "11181416",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6138
+    },
+    {
+     "doc_id": "35231675",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6111
+    },
+    {
+     "doc_id": "22937651",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6073
+    },
+    {
+     "doc_id": "20054396",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6002
+    },
+    {
+     "doc_id": "23100962",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.599
+    },
+    {
+     "doc_id": "38623601",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5965
+    },
+    {
+     "doc_id": "10423989",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.592
+    },
+    {
+     "doc_id": "26495128",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5902
+    },
+    {
+     "doc_id": "23305884",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5884
+    }
+   ]
+  },
+  {
+   "claim_id": "830",
+   "claim": "NF2 (Merlin) causes phosphorylation and subsequent cytoplasmic sequestration of YAP in Drosophila by activating LATS1/2 kinases.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "1897324",
+     "relevant": true,
+     "retrieval_rank": 3,
+     "cosine": 0.6921
+    },
+    {
+     "doc_id": "33796570",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7208
+    },
+    {
+     "doc_id": "11535539",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.696
+    },
+    {
+     "doc_id": "52873726",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6909
+    },
+    {
+     "doc_id": "34445160",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6881
+    },
+    {
+     "doc_id": "27403802",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6843
+    },
+    {
+     "doc_id": "36310858",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6807
+    },
+    {
+     "doc_id": "1387654",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6773
+    },
+    {
+     "doc_id": "735130",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6767
+    },
+    {
+     "doc_id": "12737132",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6715
+    }
+   ]
+  },
+  {
+   "claim_id": "146",
+   "claim": "Autologous transplantation of mesenchymal stem cells has lower rates of rejection than induction therapy with anti-interleukin-2 receptor antibodies.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "10582939",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7998
+    },
+    {
+     "doc_id": "40164383",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7262
+    },
+    {
+     "doc_id": "24101431",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6853
+    },
+    {
+     "doc_id": "5597586",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6672
+    },
+    {
+     "doc_id": "51728753",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6632
+    },
+    {
+     "doc_id": "4416964",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6611
+    },
+    {
+     "doc_id": "27615329",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6565
+    },
+    {
+     "doc_id": "42601237",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6511
+    },
+    {
+     "doc_id": "17682477",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6465
+    },
+    {
+     "doc_id": "6280907",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6455
+    }
+   ]
+  },
+  {
+   "claim_id": "274",
+   "claim": "Combination nicotine replacement therapies with varenicline or bupropion lead to significantly higher long-term abstinence rates at 52 weeks than varenicline monotherapy.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "11614737",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8745
+    },
+    {
+     "doc_id": "5114940",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7898
+    },
+    {
+     "doc_id": "34369306",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7129
+    },
+    {
+     "doc_id": "24019260",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6987
+    },
+    {
+     "doc_id": "8570690",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6925
+    },
+    {
+     "doc_id": "5551138",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6763
+    },
+    {
+     "doc_id": "5912283",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6536
+    },
+    {
+     "doc_id": "24865781",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6345
+    },
+    {
+     "doc_id": "32777637",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6205
+    },
+    {
+     "doc_id": "7639744",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6191
+    }
+   ]
+  },
+  {
+   "claim_id": "1187",
+   "claim": "The YAP1 and TEAD complex tanslocates into the nucleus where it interacts with transcription factors and DNA-binding proteins that modulate target gene transcription.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "52873726",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7819
+    },
+    {
+     "doc_id": "12737132",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7567
+    },
+    {
+     "doc_id": "11535539",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7144
+    },
+    {
+     "doc_id": "36310858",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6883
+    },
+    {
+     "doc_id": "13481880",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6693
+    },
+    {
+     "doc_id": "13639330",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6672
+    },
+    {
+     "doc_id": "1684489",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6654
+    },
+    {
+     "doc_id": "43711341",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6648
+    },
+    {
+     "doc_id": "1065627",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6597
+    },
+    {
+     "doc_id": "1897324",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6565
+    }
+   ]
+  },
+  {
+   "claim_id": "411",
+   "claim": "Febrile seizures reduce the threshold for development of epilepsy.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "14924526",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7413
+    },
+    {
+     "doc_id": "15889329",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6633
+    },
+    {
+     "doc_id": "1410197",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6388
+    },
+    {
+     "doc_id": "37592824",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.626
+    },
+    {
+     "doc_id": "23670644",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6206
+    },
+    {
+     "doc_id": "42373943",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.597
+    },
+    {
+     "doc_id": "30534237",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5957
+    },
+    {
+     "doc_id": "27866735",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5878
+    },
+    {
+     "doc_id": "21472388",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5878
+    },
+    {
+     "doc_id": "116792",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.587
+    }
+   ]
+  },
+  {
+   "claim_id": "415",
+   "claim": "Female carriers of the Apolipoprotein E4 (APOE4) allele have increased risk for dementia.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "6309659",
+     "relevant": true,
+     "retrieval_rank": 2,
+     "cosine": 0.7145
+    },
+    {
+     "doc_id": "51386222",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7331
+    },
+    {
+     "doc_id": "4505748",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7125
+    },
+    {
+     "doc_id": "12443371",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7095
+    },
+    {
+     "doc_id": "20937018",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.7041
+    },
+    {
+     "doc_id": "27076725",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6915
+    },
+    {
+     "doc_id": "24530130",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.684
+    },
+    {
+     "doc_id": "4709641",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6836
+    },
+    {
+     "doc_id": "41264017",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6785
+    },
+    {
+     "doc_id": "30351165",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6698
+    }
+   ]
+  },
+  {
+   "claim_id": "1303",
+   "claim": "Tirasemtiv has no effect on fast-twitch muscle.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "12631697",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.5937
+    },
+    {
+     "doc_id": "21323758",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.5483
+    },
+    {
+     "doc_id": "20696397",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.5304
+    },
+    {
+     "doc_id": "52175065",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.5284
+    },
+    {
+     "doc_id": "6212802",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.524
+    },
+    {
+     "doc_id": "6397191",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5149
+    },
+    {
+     "doc_id": "37037012",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5142
+    },
+    {
+     "doc_id": "43566999",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5138
+    },
+    {
+     "doc_id": "8246922",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5126
+    },
+    {
+     "doc_id": "29526125",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5113
+    }
+   ]
+  },
+  {
+   "claim_id": "431",
+   "claim": "FoxO3a activation in neuronal death is mediated by reactive oxygen species (ROS).",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "28937856",
+     "relevant": true,
+     "retrieval_rank": 4,
+     "cosine": 0.6765
+    },
+    {
+     "doc_id": "14496749",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7401
+    },
+    {
+     "doc_id": "29429111",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7383
+    },
+    {
+     "doc_id": "16728949",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.681
+    },
+    {
+     "doc_id": "2543135",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6706
+    },
+    {
+     "doc_id": "23887844",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6686
+    },
+    {
+     "doc_id": "19922508",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6653
+    },
+    {
+     "doc_id": "4418070",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6547
+    },
+    {
+     "doc_id": "24185667",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6535
+    },
+    {
+     "doc_id": "7875158",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6483
+    }
+   ]
+  },
+  {
+   "claim_id": "1146",
+   "claim": "Teaching hospitals do not provide better care than non-teaching hospitals.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "13906581",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7055
+    },
+    {
+     "doc_id": "21323587",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.5364
+    },
+    {
+     "doc_id": "40905302",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.5273
+    },
+    {
+     "doc_id": "43855756",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.5251
+    },
+    {
+     "doc_id": "25886725",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5228
+    },
+    {
+     "doc_id": "24077493",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.519
+    },
+    {
+     "doc_id": "21377587",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5185
+    },
+    {
+     "doc_id": "16390264",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5179
+    },
+    {
+     "doc_id": "26611094",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5166
+    },
+    {
+     "doc_id": "39593548",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5159
+    }
+   ]
+  },
+  {
+   "claim_id": "1266",
+   "claim": "The risk of breast cancer among parous women increases with placental weight of pregnancies, and this association is strongest for premenopausal breast cancer.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "37480103",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7966
+    },
+    {
+     "doc_id": "17450673",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7879
+    },
+    {
+     "doc_id": "23557241",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7683
+    },
+    {
+     "doc_id": "27123743",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7599
+    },
+    {
+     "doc_id": "16322674",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.7514
+    },
+    {
+     "doc_id": "13765757",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.7504
+    },
+    {
+     "doc_id": "22007333",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.7502
+    },
+    {
+     "doc_id": "16098747",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.7456
+    },
+    {
+     "doc_id": "13831842",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.736
+    },
+    {
+     "doc_id": "25973484",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.7343
+    }
+   ]
+  },
+  {
+   "claim_id": "36",
+   "claim": "A deficiency of vitamin B12 increases blood levels of homocysteine.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "5152028",
+     "relevant": true,
+     "retrieval_rank": 12,
+     "cosine": 0.6573
+    },
+    {
+     "doc_id": "11705328",
+     "relevant": true,
+     "retrieval_rank": 3,
+     "cosine": 0.6994
+    },
+    {
+     "doc_id": "37424881",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7004
+    },
+    {
+     "doc_id": "18557974",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6995
+    },
+    {
+     "doc_id": "21636085",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6904
+    },
+    {
+     "doc_id": "3215494",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6896
+    },
+    {
+     "doc_id": "33409100",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6874
+    },
+    {
+     "doc_id": "13801259",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.687
+    },
+    {
+     "doc_id": "9813098",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6798
+    },
+    {
+     "doc_id": "10557471",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6787
+    }
+   ]
+  },
+  {
+   "claim_id": "517",
+   "claim": "High levels of copeptin decrease risk of diabetes.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "15663829",
+     "relevant": true,
+     "retrieval_rank": 37,
+     "cosine": 0.6185
+    },
+    {
+     "doc_id": "19658917",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.6841
+    },
+    {
+     "doc_id": "33960383",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6544
+    },
+    {
+     "doc_id": "597790",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6529
+    },
+    {
+     "doc_id": "24704139",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6516
+    },
+    {
+     "doc_id": "34025053",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6514
+    },
+    {
+     "doc_id": "6327940",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6464
+    },
+    {
+     "doc_id": "27166444",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6428
+    },
+    {
+     "doc_id": "29387024",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6425
+    },
+    {
+     "doc_id": "24872571",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.639
+    }
+   ]
+  },
+  {
+   "claim_id": "475",
+   "claim": "Glycolysis is one of the primary glycometabolic pathways in cells.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "18678095",
+     "relevant": true,
+     "retrieval_rank": 11,
+     "cosine": 0.6606
+    },
+    {
+     "doc_id": "195689757",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7042
+    },
+    {
+     "doc_id": "8724666",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6927
+    },
+    {
+     "doc_id": "3468459",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6796
+    },
+    {
+     "doc_id": "6061927",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6796
+    },
+    {
+     "doc_id": "23576165",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6753
+    },
+    {
+     "doc_id": "21626639",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6706
+    },
+    {
+     "doc_id": "23887844",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6698
+    },
+    {
+     "doc_id": "8477699",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6696
+    },
+    {
+     "doc_id": "20672596",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.663
+    }
+   ]
+  },
+  {
+   "claim_id": "975",
+   "claim": "Primary pro-inflammatory cytokines induce secondary pro- and anti-inflammatory mediators.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "5304891",
+     "relevant": true,
+     "retrieval_rank": 79,
+     "cosine": 0.6004
+    },
+    {
+     "doc_id": "4429118",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.6813
+    },
+    {
+     "doc_id": "2844490",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6749
+    },
+    {
+     "doc_id": "44935041",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6696
+    },
+    {
+     "doc_id": "9159125",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6545
+    },
+    {
+     "doc_id": "83308790",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6539
+    },
+    {
+     "doc_id": "25315295",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6458
+    },
+    {
+     "doc_id": "3083927",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6422
+    },
+    {
+     "doc_id": "32665136",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6419
+    },
+    {
+     "doc_id": "34469966",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.639
+    }
+   ]
+  },
+  {
+   "claim_id": "148",
+   "claim": "Autophagy declines in aged organisms.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "1084345",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7394
+    },
+    {
+     "doc_id": "15728433",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6785
+    },
+    {
+     "doc_id": "52887689",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6736
+    },
+    {
+     "doc_id": "13072113",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6716
+    },
+    {
+     "doc_id": "10012166",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6622
+    },
+    {
+     "doc_id": "56528795",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.658
+    },
+    {
+     "doc_id": "4452659",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6552
+    },
+    {
+     "doc_id": "9159495",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6542
+    },
+    {
+     "doc_id": "24347647",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6502
+    },
+    {
+     "doc_id": "3202143",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6492
+    }
+   ]
+  },
+  {
+   "claim_id": "770",
+   "claim": "Metastatic colorectal cancer treated with a single agent fluoropyrimidines resulted in reduced efficacy and lower quality of life when compared with oxaliplatin-based chemotherapy in elderly patients.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "15476777",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8057
+    },
+    {
+     "doc_id": "2492146",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6958
+    },
+    {
+     "doc_id": "195680777",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6898
+    },
+    {
+     "doc_id": "25589047",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6815
+    },
+    {
+     "doc_id": "10958594",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6739
+    },
+    {
+     "doc_id": "15648443",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6616
+    },
+    {
+     "doc_id": "24634621",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6601
+    },
+    {
+     "doc_id": "14626540",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6571
+    },
+    {
+     "doc_id": "21009874",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6518
+    },
+    {
+     "doc_id": "13256155",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6511
+    }
+   ]
+  },
+  {
+   "claim_id": "728",
+   "claim": "Ly6C hi monocytes have a lower inflammatory capacity than Ly6C lo monocytes.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "7521113",
+     "relevant": true,
+     "retrieval_rank": 6,
+     "cosine": 0.66
+    },
+    {
+     "doc_id": "36444198",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7333
+    },
+    {
+     "doc_id": "22406695",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6784
+    },
+    {
+     "doc_id": "623486",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6713
+    },
+    {
+     "doc_id": "22621251",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6647
+    },
+    {
+     "doc_id": "8317408",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6633
+    },
+    {
+     "doc_id": "3616843",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6561
+    },
+    {
+     "doc_id": "14492339",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6495
+    },
+    {
+     "doc_id": "5372773",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6362
+    },
+    {
+     "doc_id": "21626639",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6333
+    }
+   ]
+  },
+  {
+   "claim_id": "128",
+   "claim": "Arterioles have a larger lumen diameter than venules.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "8290953",
+     "relevant": true,
+     "retrieval_rank": 559,
+     "cosine": 0.5102
+    },
+    {
+     "doc_id": "12549585",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.6226
+    },
+    {
+     "doc_id": "79447",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6075
+    },
+    {
+     "doc_id": "2260571",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6064
+    },
+    {
+     "doc_id": "12513972",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.5994
+    },
+    {
+     "doc_id": "23513718",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5969
+    },
+    {
+     "doc_id": "25300664",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5964
+    },
+    {
+     "doc_id": "19854543",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5947
+    },
+    {
+     "doc_id": "33569870",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.594
+    },
+    {
+     "doc_id": "25175997",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5908
+    }
+   ]
+  },
+  {
+   "claim_id": "230",
+   "claim": "Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "3067015",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.67
+    },
+    {
+     "doc_id": "71625969",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6093
+    },
+    {
+     "doc_id": "38028419",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6019
+    },
+    {
+     "doc_id": "5939172",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.5979
+    },
+    {
+     "doc_id": "6947286",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5902
+    },
+    {
+     "doc_id": "32481310",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5854
+    },
+    {
+     "doc_id": "849771",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5844
+    },
+    {
+     "doc_id": "27408104",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5755
+    },
+    {
+     "doc_id": "14663842",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5747
+    },
+    {
+     "doc_id": "33911859",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5701
+    }
+   ]
+  },
+  {
+   "claim_id": "870",
+   "claim": "Obesity decreases life quality.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "195689316",
+     "relevant": true,
+     "retrieval_rank": 18,
+     "cosine": 0.6209
+    },
+    {
+     "doc_id": "43220289",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.6849
+    },
+    {
+     "doc_id": "35495268",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6722
+    },
+    {
+     "doc_id": "18872233",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6523
+    },
+    {
+     "doc_id": "5824985",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6489
+    },
+    {
+     "doc_id": "4345757",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6489
+    },
+    {
+     "doc_id": "12672066",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6482
+    },
+    {
+     "doc_id": "40666943",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6404
+    },
+    {
+     "doc_id": "7552215",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6341
+    },
+    {
+     "doc_id": "10463997",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6339
+    }
+   ]
+  },
+  {
+   "claim_id": "238",
+   "claim": "Cells undergoing methionine restriction may activate miRNAs.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "2251426",
+     "relevant": true,
+     "retrieval_rank": 7,
+     "cosine": 0.6986
+    },
+    {
+     "doc_id": "18421962",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7259
+    },
+    {
+     "doc_id": "4463811",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.71
+    },
+    {
+     "doc_id": "1748921",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7069
+    },
+    {
+     "doc_id": "8006440",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7041
+    },
+    {
+     "doc_id": "2000038",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.7034
+    },
+    {
+     "doc_id": "28704738",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.7003
+    },
+    {
+     "doc_id": "23017040",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6917
+    },
+    {
+     "doc_id": "24713020",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6854
+    },
+    {
+     "doc_id": "4418112",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6832
+    }
+   ]
+  },
+  {
+   "claim_id": "1202",
+   "claim": "The center of the granuloma in an immune cell induces a pro-inflammatory immune response.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "3475317",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.745
+    },
+    {
+     "doc_id": "34615397",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7044
+    },
+    {
+     "doc_id": "16066726",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6702
+    },
+    {
+     "doc_id": "24707550",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6658
+    },
+    {
+     "doc_id": "19005293",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6638
+    },
+    {
+     "doc_id": "9977329",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6595
+    },
+    {
+     "doc_id": "21498497",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6474
+    },
+    {
+     "doc_id": "9225850",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6362
+    },
+    {
+     "doc_id": "4391121",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6357
+    },
+    {
+     "doc_id": "5377059",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6356
+    }
+   ]
+  },
+  {
+   "claim_id": "715",
+   "claim": "Low expression of miR7a does represses target genes and exerts a biological function in ovaries.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "18421962",
+     "relevant": true,
+     "retrieval_rank": 6,
+     "cosine": 0.6469
+    },
+    {
+     "doc_id": "13290521",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7044
+    },
+    {
+     "doc_id": "2000038",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6832
+    },
+    {
+     "doc_id": "19047331",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6618
+    },
+    {
+     "doc_id": "86602746",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6533
+    },
+    {
+     "doc_id": "9159495",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6495
+    },
+    {
+     "doc_id": "17544977",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6441
+    },
+    {
+     "doc_id": "19358586",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6434
+    },
+    {
+     "doc_id": "12652963",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6419
+    },
+    {
+     "doc_id": "12440953",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.636
+    }
+   ]
+  },
+  {
+   "claim_id": "218",
+   "claim": "CX3CR1 on the Th2 cells promotes airway inflammation.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "21366394",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8142
+    },
+    {
+     "doc_id": "883747",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6914
+    },
+    {
+     "doc_id": "26068103",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.688
+    },
+    {
+     "doc_id": "696006",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6818
+    },
+    {
+     "doc_id": "20311968",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6725
+    },
+    {
+     "doc_id": "1800734",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6609
+    },
+    {
+     "doc_id": "56486733",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6495
+    },
+    {
+     "doc_id": "1855679",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6462
+    },
+    {
+     "doc_id": "7281161",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6423
+    },
+    {
+     "doc_id": "40312663",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6391
+    }
+   ]
+  },
+  {
+   "claim_id": "179",
+   "claim": "Birth-weight is positively associated with breast cancer.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "16322674",
+     "relevant": true,
+     "retrieval_rank": 2,
+     "cosine": 0.7819
+    },
+    {
+     "doc_id": "27123743",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8154
+    },
+    {
+     "doc_id": "23557241",
+     "relevant": true,
+     "retrieval_rank": 5,
+     "cosine": 0.7351
+    },
+    {
+     "doc_id": "17450673",
+     "relevant": true,
+     "retrieval_rank": 3,
+     "cosine": 0.7647
+    },
+    {
+     "doc_id": "5487448",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.759
+    },
+    {
+     "doc_id": "13765757",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.7288
+    },
+    {
+     "doc_id": "37480103",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.726
+    },
+    {
+     "doc_id": "13831842",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.7228
+    },
+    {
+     "doc_id": "25973484",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6924
+    },
+    {
+     "doc_id": "16098747",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6915
+    }
+   ]
+  },
+  {
+   "claim_id": "50",
+   "claim": "AIRE is expressed in some skin tumors.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "12580014",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7279
+    },
+    {
+     "doc_id": "25738896",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6779
+    },
+    {
+     "doc_id": "18488986",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6671
+    },
+    {
+     "doc_id": "39559521",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6543
+    },
+    {
+     "doc_id": "13989491",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.646
+    },
+    {
+     "doc_id": "15405204",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6256
+    },
+    {
+     "doc_id": "36950726",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6252
+    },
+    {
+     "doc_id": "4561402",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6205
+    },
+    {
+     "doc_id": "29785642",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6202
+    },
+    {
+     "doc_id": "9095394",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6133
+    }
+   ]
+  },
+  {
+   "claim_id": "628",
+   "claim": "Infection of human T-cell lymphotropic virus type 1 is most frequent in individuals of African origin.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "24512064",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7754
+    },
+    {
+     "doc_id": "29134911",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7255
+    },
+    {
+     "doc_id": "28738741",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7024
+    },
+    {
+     "doc_id": "21216726",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6884
+    },
+    {
+     "doc_id": "19327364",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.682
+    },
+    {
+     "doc_id": "21274496",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.677
+    },
+    {
+     "doc_id": "5735492",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6705
+    },
+    {
+     "doc_id": "601033",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6649
+    },
+    {
+     "doc_id": "798152",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6644
+    },
+    {
+     "doc_id": "20754359",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6615
+    }
+   ]
+  },
+  {
+   "claim_id": "380",
+   "claim": "Enhanced early production of inflammatory chemokines improves viral control in the lung.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "19005293",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.732
+    },
+    {
+     "doc_id": "26068103",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7224
+    },
+    {
+     "doc_id": "12100963",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6773
+    },
+    {
+     "doc_id": "195683603",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6689
+    },
+    {
+     "doc_id": "2248870",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6687
+    },
+    {
+     "doc_id": "23509113",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6639
+    },
+    {
+     "doc_id": "2947124",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.654
+    },
+    {
+     "doc_id": "3835423",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.654
+    },
+    {
+     "doc_id": "219475",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6539
+    },
+    {
+     "doc_id": "31313782",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6538
+    }
+   ]
+  },
+  {
+   "claim_id": "1200",
+   "claim": "The binding orientation of the ML-SA1 activator at hTRPML2 is different from the binding orientation of the ML-SA1 activator at hTRPML1.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "3441524",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.6428
+    },
+    {
+     "doc_id": "21114100",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6376
+    },
+    {
+     "doc_id": "19708993",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6331
+    },
+    {
+     "doc_id": "28243325",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6177
+    },
+    {
+     "doc_id": "12871281",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.615
+    },
+    {
+     "doc_id": "6609935",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6106
+    },
+    {
+     "doc_id": "2119889",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6073
+    },
+    {
+     "doc_id": "18042803",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6067
+    },
+    {
+     "doc_id": "42009630",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6066
+    },
+    {
+     "doc_id": "6969753",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6055
+    }
+   ]
+  },
+  {
+   "claim_id": "1130",
+   "claim": "T regulatory cells (tTregs) lacking \u03b1v\u03b28 are more adept at suppressing pathogenic T-cell responses during active inflammation.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "17997584",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7646
+    },
+    {
+     "doc_id": "18488986",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7054
+    },
+    {
+     "doc_id": "38830961",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7034
+    },
+    {
+     "doc_id": "14644164",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7015
+    },
+    {
+     "doc_id": "266641",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.696
+    },
+    {
+     "doc_id": "41877386",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6943
+    },
+    {
+     "doc_id": "25738896",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6912
+    },
+    {
+     "doc_id": "23912923",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6856
+    },
+    {
+     "doc_id": "9500590",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6851
+    },
+    {
+     "doc_id": "36216395",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6839
+    }
+   ]
+  },
+  {
+   "claim_id": "533",
+   "claim": "Hyperfibrinogenemia increases rates of femoropopliteal bypass thrombosis.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "12991445",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7032
+    },
+    {
+     "doc_id": "21372171",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6273
+    },
+    {
+     "doc_id": "72933407",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.623
+    },
+    {
+     "doc_id": "1387104",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6222
+    },
+    {
+     "doc_id": "29981186",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6209
+    },
+    {
+     "doc_id": "5152028",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6132
+    },
+    {
+     "doc_id": "36288526",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6123
+    },
+    {
+     "doc_id": "23195674",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6089
+    },
+    {
+     "doc_id": "79231308",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6088
+    },
+    {
+     "doc_id": "21301090",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6035
+    }
+   ]
+  },
+  {
+   "claim_id": "198",
+   "claim": "CCL19 is absent within dLNs.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "2177022",
+     "relevant": true,
+     "retrieval_rank": 3,
+     "cosine": 0.5464
+    },
+    {
+     "doc_id": "13778710",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.5579
+    },
+    {
+     "doc_id": "22198971",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.5527
+    },
+    {
+     "doc_id": "28015516",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.542
+    },
+    {
+     "doc_id": "24384587",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5373
+    },
+    {
+     "doc_id": "17934603",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5363
+    },
+    {
+     "doc_id": "4391121",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5356
+    },
+    {
+     "doc_id": "1800734",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5309
+    },
+    {
+     "doc_id": "21366394",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5301
+    },
+    {
+     "doc_id": "29366489",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5301
+    }
+   ]
+  },
+  {
+   "claim_id": "723",
+   "claim": "Ly49Q directs the organization of neutrophil migration to inflammation sites by regulating membrane raft functions.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "5531479",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8431
+    },
+    {
+     "doc_id": "20608982",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6734
+    },
+    {
+     "doc_id": "9225850",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6588
+    },
+    {
+     "doc_id": "1871230",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6494
+    },
+    {
+     "doc_id": "3495456",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6439
+    },
+    {
+     "doc_id": "878526",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6433
+    },
+    {
+     "doc_id": "5484763",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6361
+    },
+    {
+     "doc_id": "195683603",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6346
+    },
+    {
+     "doc_id": "33920995",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6344
+    },
+    {
+     "doc_id": "17017465",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6336
+    }
+   ]
+  },
+  {
+   "claim_id": "1107",
+   "claim": "Subcutaneous fat depots undergo extensive browning processes after cold exposure.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "20532591",
+     "relevant": true,
+     "retrieval_rank": 3,
+     "cosine": 0.673
+    },
+    {
+     "doc_id": "29381091",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7013
+    },
+    {
+     "doc_id": "14865329",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6869
+    },
+    {
+     "doc_id": "970012",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6586
+    },
+    {
+     "doc_id": "26902591",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6544
+    },
+    {
+     "doc_id": "79447",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6359
+    },
+    {
+     "doc_id": "13000926",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6346
+    },
+    {
+     "doc_id": "32955023",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6281
+    },
+    {
+     "doc_id": "39187170",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.628
+    },
+    {
+     "doc_id": "27686445",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6246
+    }
+   ]
+  },
+  {
+   "claim_id": "660",
+   "claim": "Ivermectin is used to treat onchocerciasis.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "1215116",
+     "relevant": true,
+     "retrieval_rank": 4,
+     "cosine": 0.5772
+    },
+    {
+     "doc_id": "18025240",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.5884
+    },
+    {
+     "doc_id": "4999387",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.58
+    },
+    {
+     "doc_id": "12409683",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.579
+    },
+    {
+     "doc_id": "1805641",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5707
+    },
+    {
+     "doc_id": "9110810",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5622
+    },
+    {
+     "doc_id": "8447873",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5577
+    },
+    {
+     "doc_id": "10617916",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5537
+    },
+    {
+     "doc_id": "13624704",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5506
+    },
+    {
+     "doc_id": "3929361",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5505
+    }
+   ]
+  },
+  {
+   "claim_id": "51",
+   "claim": "ALDH1 expression is associated with better breast cancer outcomes.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "45638119",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7888
+    },
+    {
+     "doc_id": "24349992",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6587
+    },
+    {
+     "doc_id": "9239963",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6455
+    },
+    {
+     "doc_id": "32001951",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6425
+    },
+    {
+     "doc_id": "31311495",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6388
+    },
+    {
+     "doc_id": "1866911",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6373
+    },
+    {
+     "doc_id": "17648235",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6371
+    },
+    {
+     "doc_id": "1554348",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6363
+    },
+    {
+     "doc_id": "3067015",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6319
+    },
+    {
+     "doc_id": "43385013",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6304
+    }
+   ]
+  },
+  {
+   "claim_id": "443",
+   "claim": "GATA-3 is important for hematopoietic stem cell (HSC) function.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "10165258",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7623
+    },
+    {
+     "doc_id": "9911547",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6746
+    },
+    {
+     "doc_id": "1145473",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6463
+    },
+    {
+     "doc_id": "13509809",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6431
+    },
+    {
+     "doc_id": "23727313",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6384
+    },
+    {
+     "doc_id": "11951999",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6345
+    },
+    {
+     "doc_id": "24612804",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6335
+    },
+    {
+     "doc_id": "5415832",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6281
+    },
+    {
+     "doc_id": "19583924",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6265
+    },
+    {
+     "doc_id": "30933307",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6239
+    }
+   ]
+  },
+  {
+   "claim_id": "219",
+   "claim": "CX3CR1 on the Th2 cells suppresses airway inflammation.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "21366394",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.798
+    },
+    {
+     "doc_id": "20311968",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6836
+    },
+    {
+     "doc_id": "883747",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6795
+    },
+    {
+     "doc_id": "26068103",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6703
+    },
+    {
+     "doc_id": "696006",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.658
+    },
+    {
+     "doc_id": "1800734",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6442
+    },
+    {
+     "doc_id": "56486733",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.637
+    },
+    {
+     "doc_id": "2042250",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6358
+    },
+    {
+     "doc_id": "7281161",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6346
+    },
+    {
+     "doc_id": "44935041",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6342
+    }
+   ]
+  },
+  {
+   "claim_id": "1024",
+   "claim": "Recurrent mutations occur frequently within CTCF anchor sites adjacent to oncogenes.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "5373138",
+     "relevant": true,
+     "retrieval_rank": 41,
+     "cosine": 0.5853
+    },
+    {
+     "doc_id": "26672703",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.665
+    },
+    {
+     "doc_id": "42520882",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6613
+    },
+    {
+     "doc_id": "8494570",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6362
+    },
+    {
+     "doc_id": "36082224",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6224
+    },
+    {
+     "doc_id": "140874",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6155
+    },
+    {
+     "doc_id": "29185044",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6145
+    },
+    {
+     "doc_id": "36713289",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.614
+    },
+    {
+     "doc_id": "17911973",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6112
+    },
+    {
+     "doc_id": "24995939",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6089
+    }
+   ]
+  },
+  {
+   "claim_id": "659",
+   "claim": "Ivermectin is used to treat lymphatic filariasis.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "1215116",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.5903
+    },
+    {
+     "doc_id": "18025240",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.5842
+    },
+    {
+     "doc_id": "4999387",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.5799
+    },
+    {
+     "doc_id": "12409683",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.5683
+    },
+    {
+     "doc_id": "21258863",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5578
+    },
+    {
+     "doc_id": "15237660",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5576
+    },
+    {
+     "doc_id": "10617916",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5574
+    },
+    {
+     "doc_id": "9110810",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5572
+    },
+    {
+     "doc_id": "3929361",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5562
+    },
+    {
+     "doc_id": "1805641",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.556
+    }
+   ]
+  },
+  {
+   "claim_id": "644",
+   "claim": "Insulin increases risk of severe kidney failure.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "13619127",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.6989
+    },
+    {
+     "doc_id": "23377475",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6609
+    },
+    {
+     "doc_id": "25837950",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6603
+    },
+    {
+     "doc_id": "31890716",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6579
+    },
+    {
+     "doc_id": "356218",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6513
+    },
+    {
+     "doc_id": "11481946",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6449
+    },
+    {
+     "doc_id": "13282296",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6433
+    },
+    {
+     "doc_id": "3825750",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6408
+    },
+    {
+     "doc_id": "3355397",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6399
+    },
+    {
+     "doc_id": "6673421",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6342
+    }
+   ]
+  },
+  {
+   "claim_id": "501",
+   "claim": "Headaches are not correlated with cognitive impairment.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "17930286",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.6641
+    },
+    {
+     "doc_id": "24865781",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6416
+    },
+    {
+     "doc_id": "42095718",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6395
+    },
+    {
+     "doc_id": "6191684",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6265
+    },
+    {
+     "doc_id": "44830890",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6207
+    },
+    {
+     "doc_id": "27076725",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6206
+    },
+    {
+     "doc_id": "24510595",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6174
+    },
+    {
+     "doc_id": "15984735",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6126
+    },
+    {
+     "doc_id": "28419824",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.612
+    },
+    {
+     "doc_id": "14606752",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6109
+    }
+   ]
+  },
+  {
+   "claim_id": "549",
+   "claim": "IRG1 has antiviral effects against neurotropic viruses.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "9433958",
+     "relevant": true,
+     "retrieval_rank": 2,
+     "cosine": 0.6631
+    },
+    {
+     "doc_id": "39545358",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.6665
+    },
+    {
+     "doc_id": "14308244",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6623
+    },
+    {
+     "doc_id": "4345605",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6454
+    },
+    {
+     "doc_id": "22178316",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.645
+    },
+    {
+     "doc_id": "13189693",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6397
+    },
+    {
+     "doc_id": "17123316",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6233
+    },
+    {
+     "doc_id": "2274272",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6146
+    },
+    {
+     "doc_id": "26688294",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6133
+    },
+    {
+     "doc_id": "30437264",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6067
+    }
+   ]
+  },
+  {
+   "claim_id": "1241",
+   "claim": "The myocardial lineage develops from cardiac progenitors of mesodermal origin.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "4427392",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7396
+    },
+    {
+     "doc_id": "12411274",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7063
+    },
+    {
+     "doc_id": "5085118",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7021
+    },
+    {
+     "doc_id": "4932668",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6788
+    },
+    {
+     "doc_id": "3619372",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.678
+    },
+    {
+     "doc_id": "25858295",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6775
+    },
+    {
+     "doc_id": "2828460",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.677
+    },
+    {
+     "doc_id": "14060030",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6748
+    },
+    {
+     "doc_id": "20186814",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6705
+    },
+    {
+     "doc_id": "21387297",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6698
+    }
+   ]
+  },
+  {
+   "claim_id": "1041",
+   "claim": "Replacement of histone H2A with H2A.Z slows gene activation in yeasts by stabilizing +1 nucleosomes.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "25254425",
+     "relevant": true,
+     "retrieval_rank": 7,
+     "cosine": 0.7456
+    },
+    {
+     "doc_id": "16626264",
+     "relevant": true,
+     "retrieval_rank": 10,
+     "cosine": 0.7404
+    },
+    {
+     "doc_id": "15778034",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.8083
+    },
+    {
+     "doc_id": "9451052",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7954
+    },
+    {
+     "doc_id": "2817000",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7713
+    },
+    {
+     "doc_id": "18694784",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7662
+    },
+    {
+     "doc_id": "18038955",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.7599
+    },
+    {
+     "doc_id": "5966635",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.7556
+    },
+    {
+     "doc_id": "11844791",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.7432
+    },
+    {
+     "doc_id": "17518195",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.7416
+    }
+   ]
+  },
+  {
+   "claim_id": "768",
+   "claim": "Mercaptopurine is anabolized into the inactive methylmercaptopurine by thiopurine methyltrasnferase (TPMT).",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "6421792",
+     "relevant": true,
+     "retrieval_rank": 10,
+     "cosine": 0.6146
+    },
+    {
+     "doc_id": "19497526",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7224
+    },
+    {
+     "doc_id": "1373287",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.699
+    },
+    {
+     "doc_id": "30543439",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6427
+    },
+    {
+     "doc_id": "7116734",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6353
+    },
+    {
+     "doc_id": "24049225",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6318
+    },
+    {
+     "doc_id": "11289247",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6312
+    },
+    {
+     "doc_id": "13801259",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6259
+    },
+    {
+     "doc_id": "10162553",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6257
+    },
+    {
+     "doc_id": "12622860",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6151
+    }
+   ]
+  },
+  {
+   "claim_id": "478",
+   "claim": "Golli-deficient T-cells prefer to differentiate into an anergic phenotype in the adaptive immune response when there are increased levels of Ca2+ in the cytosol.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "14767844",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7666
+    },
+    {
+     "doc_id": "25738896",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6793
+    },
+    {
+     "doc_id": "18488986",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6672
+    },
+    {
+     "doc_id": "34854444",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6646
+    },
+    {
+     "doc_id": "7386360",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6607
+    },
+    {
+     "doc_id": "4561402",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6579
+    },
+    {
+     "doc_id": "1605392",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6565
+    },
+    {
+     "doc_id": "32906513",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6561
+    },
+    {
+     "doc_id": "13989491",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6553
+    },
+    {
+     "doc_id": "39539647",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6524
+    }
+   ]
+  },
+  {
+   "claim_id": "956",
+   "claim": "Pleiotropic coupling of GLP-1R to intracellular effectors promotes distinct profiles of cellular signaling.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "12956194",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.74
+    },
+    {
+     "doc_id": "3127341",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7034
+    },
+    {
+     "doc_id": "6061927",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6952
+    },
+    {
+     "doc_id": "21754541",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6863
+    },
+    {
+     "doc_id": "3610282",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6788
+    },
+    {
+     "doc_id": "31107919",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6567
+    },
+    {
+     "doc_id": "11090688",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6548
+    },
+    {
+     "doc_id": "52893592",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6478
+    },
+    {
+     "doc_id": "16389141",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6452
+    },
+    {
+     "doc_id": "20829129",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6363
+    }
+   ]
+  },
+  {
+   "claim_id": "759",
+   "claim": "Mathematical models predict that using Artemisinin-based combination therapy over nongametocytocidal drugs have a dramatic impact in reducing malaria transmission.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "1805641",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8057
+    },
+    {
+     "doc_id": "12409683",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7573
+    },
+    {
+     "doc_id": "10617916",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7523
+    },
+    {
+     "doc_id": "18074797",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7194
+    },
+    {
+     "doc_id": "3929361",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.7077
+    },
+    {
+     "doc_id": "14337960",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6731
+    },
+    {
+     "doc_id": "4999387",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6659
+    },
+    {
+     "doc_id": "13899137",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6655
+    },
+    {
+     "doc_id": "5289038",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6606
+    },
+    {
+     "doc_id": "6503185",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6588
+    }
+   ]
+  },
+  {
+   "claim_id": "821",
+   "claim": "N-terminal cleavage reduces success identifying transcription start sites.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "8646760",
+     "relevant": true,
+     "retrieval_rank": 12,
+     "cosine": 0.6373
+    },
+    {
+     "doc_id": "35448676",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.658
+    },
+    {
+     "doc_id": "36540079",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6548
+    },
+    {
+     "doc_id": "25799020",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6516
+    },
+    {
+     "doc_id": "4162857",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6516
+    },
+    {
+     "doc_id": "18467982",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.649
+    },
+    {
+     "doc_id": "9169645",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.648
+    },
+    {
+     "doc_id": "778436",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6465
+    },
+    {
+     "doc_id": "17539488",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6438
+    },
+    {
+     "doc_id": "365896",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6437
+    }
+   ]
+  },
+  {
+   "claim_id": "528",
+   "claim": "Human T-lymphotropic virus type-I-associated myelopathy / tropical spastic paraparesis (HAM/TSP) patients produce Immunoglobulin G (IgG) antibodies which cross-react with an immunodominant epitope in Tax.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "5476778",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.728
+    },
+    {
+     "doc_id": "24512064",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6807
+    },
+    {
+     "doc_id": "23326722",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6672
+    },
+    {
+     "doc_id": "19327364",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6612
+    },
+    {
+     "doc_id": "601033",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6595
+    },
+    {
+     "doc_id": "20754359",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6585
+    },
+    {
+     "doc_id": "28738741",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6577
+    },
+    {
+     "doc_id": "39443128",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6535
+    },
+    {
+     "doc_id": "29134911",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6478
+    },
+    {
+     "doc_id": "22937651",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6458
+    }
+   ]
+  },
+  {
+   "claim_id": "53",
+   "claim": "ALDH1 expression is associated with poorer prognosis in breast cancer.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "45638119",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7869
+    },
+    {
+     "doc_id": "24349992",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6599
+    },
+    {
+     "doc_id": "17648235",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6538
+    },
+    {
+     "doc_id": "21181273",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6523
+    },
+    {
+     "doc_id": "15113221",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6492
+    },
+    {
+     "doc_id": "32001951",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6486
+    },
+    {
+     "doc_id": "31311495",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6475
+    },
+    {
+     "doc_id": "8963413",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6441
+    },
+    {
+     "doc_id": "9239963",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6439
+    },
+    {
+     "doc_id": "12762485",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6411
+    }
+   ]
+  },
+  {
+   "claim_id": "674",
+   "claim": "LDL cholesterol has no involvement in the development of cardiovascular disease.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "2095573",
+     "relevant": true,
+     "retrieval_rank": 16,
+     "cosine": 0.6172
+    },
+    {
+     "doc_id": "5698494",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.6883
+    },
+    {
+     "doc_id": "9814332",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6813
+    },
+    {
+     "doc_id": "43629704",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6744
+    },
+    {
+     "doc_id": "7662206",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6554
+    },
+    {
+     "doc_id": "15360986",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6519
+    },
+    {
+     "doc_id": "30981192",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6513
+    },
+    {
+     "doc_id": "9617381",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6507
+    },
+    {
+     "doc_id": "13933299",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6342
+    },
+    {
+     "doc_id": "7757997",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6317
+    }
+   ]
+  },
+  {
+   "claim_id": "1216",
+   "claim": "The extracellular domain of TMEM27 is cleaved in human beta cells.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "24142891",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8141
+    },
+    {
+     "doc_id": "4361990",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6582
+    },
+    {
+     "doc_id": "10207180",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6452
+    },
+    {
+     "doc_id": "19756935",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.636
+    },
+    {
+     "doc_id": "28468276",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6356
+    },
+    {
+     "doc_id": "2194320",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6328
+    },
+    {
+     "doc_id": "36180468",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6254
+    },
+    {
+     "doc_id": "14706752",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6221
+    },
+    {
+     "doc_id": "17695748",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6206
+    },
+    {
+     "doc_id": "31107919",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6194
+    }
+   ]
+  },
+  {
+   "claim_id": "805",
+   "claim": "Monoclonal antibody targeting of N-cadherin inhibits metastasis.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "22180793",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8185
+    },
+    {
+     "doc_id": "17188921",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7098
+    },
+    {
+     "doc_id": "14149065",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6726
+    },
+    {
+     "doc_id": "3727986",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6694
+    },
+    {
+     "doc_id": "2593298",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6574
+    },
+    {
+     "doc_id": "23160444",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.655
+    },
+    {
+     "doc_id": "7986878",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.653
+    },
+    {
+     "doc_id": "3825472",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6511
+    },
+    {
+     "doc_id": "13952658",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6511
+    },
+    {
+     "doc_id": "19485649",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6498
+    }
+   ]
+  },
+  {
+   "claim_id": "532",
+   "claim": "Hyperfibrinogenemia decreases rates of femoropopliteal bypass thrombosis.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "12991445",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.6961
+    },
+    {
+     "doc_id": "5152028",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6362
+    },
+    {
+     "doc_id": "36288526",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6249
+    },
+    {
+     "doc_id": "23195674",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6232
+    },
+    {
+     "doc_id": "2391552",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6162
+    },
+    {
+     "doc_id": "29981186",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6162
+    },
+    {
+     "doc_id": "11718220",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.614
+    },
+    {
+     "doc_id": "13514898",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6124
+    },
+    {
+     "doc_id": "6212802",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6092
+    },
+    {
+     "doc_id": "21372171",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6087
+    }
+   ]
+  },
+  {
+   "claim_id": "1019",
+   "claim": "Rapid phosphotransfer rates govern fidelity in two component systems",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "11603066",
+     "relevant": true,
+     "retrieval_rank": 2,
+     "cosine": 0.6596
+    },
+    {
+     "doc_id": "1225513",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.6766
+    },
+    {
+     "doc_id": "31844040",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.659
+    },
+    {
+     "doc_id": "196664003",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6565
+    },
+    {
+     "doc_id": "21578627",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6446
+    },
+    {
+     "doc_id": "24896957",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6234
+    },
+    {
+     "doc_id": "1769799",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6219
+    },
+    {
+     "doc_id": "9696379",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6209
+    },
+    {
+     "doc_id": "44172171",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6193
+    },
+    {
+     "doc_id": "13072112",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6183
+    }
+   ]
+  },
+  {
+   "claim_id": "1144",
+   "claim": "Taxation of sugar-sweetened beverages had no effect on the incidence rate of type II diabetes in India.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "10071552",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7926
+    },
+    {
+     "doc_id": "9822397",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6886
+    },
+    {
+     "doc_id": "6207111",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6564
+    },
+    {
+     "doc_id": "32534305",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.626
+    },
+    {
+     "doc_id": "1974176",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6235
+    },
+    {
+     "doc_id": "35495268",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6169
+    },
+    {
+     "doc_id": "3770750",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6149
+    },
+    {
+     "doc_id": "11201004",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6135
+    },
+    {
+     "doc_id": "12224536",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6128
+    },
+    {
+     "doc_id": "8708082",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6123
+    }
+   ]
+  },
+  {
+   "claim_id": "837",
+   "claim": "NR5A2 is important in development of endometrial tissues.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "15928989",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.6983
+    },
+    {
+     "doc_id": "1780819",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6669
+    },
+    {
+     "doc_id": "4409524",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6543
+    },
+    {
+     "doc_id": "9239963",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6487
+    },
+    {
+     "doc_id": "6121668",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6302
+    },
+    {
+     "doc_id": "2316374",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.627
+    },
+    {
+     "doc_id": "31851367",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6269
+    },
+    {
+     "doc_id": "5860364",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.626
+    },
+    {
+     "doc_id": "3210545",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6143
+    },
+    {
+     "doc_id": "16346504",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6141
+    }
+   ]
+  },
+  {
+   "claim_id": "911",
+   "claim": "PKG-la plays an essential role in expression of pain hypersensitivity in PGK-la knockout mice.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "11254556",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7166
+    },
+    {
+     "doc_id": "17755060",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6514
+    },
+    {
+     "doc_id": "4447055",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6354
+    },
+    {
+     "doc_id": "10889845",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6336
+    },
+    {
+     "doc_id": "14188138",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.628
+    },
+    {
+     "doc_id": "3085264",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6267
+    },
+    {
+     "doc_id": "16208091",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6212
+    },
+    {
+     "doc_id": "36464673",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6192
+    },
+    {
+     "doc_id": "5389095",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6191
+    },
+    {
+     "doc_id": "597790",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6183
+    }
+   ]
+  },
+  {
+   "claim_id": "577",
+   "claim": "In mice, P. chabaudi parasites are able to proliferate faster early in infection when inoculated at lower numbers than when inoculated at high numbers.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "5289038",
+     "relevant": true,
+     "retrieval_rank": 3,
+     "cosine": 0.6983
+    },
+    {
+     "doc_id": "8133050",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7151
+    },
+    {
+     "doc_id": "21392703",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7083
+    },
+    {
+     "doc_id": "26474812",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6879
+    },
+    {
+     "doc_id": "42065070",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6662
+    },
+    {
+     "doc_id": "40900567",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6613
+    },
+    {
+     "doc_id": "16066726",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6557
+    },
+    {
+     "doc_id": "3001685",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6549
+    },
+    {
+     "doc_id": "49208216",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6513
+    },
+    {
+     "doc_id": "7433668",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.649
+    }
+   ]
+  },
+  {
+   "claim_id": "700",
+   "claim": "Localization of PIN1 in the Arabidopsis embryo does not require VPS9a",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "4350400",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7435
+    },
+    {
+     "doc_id": "16557565",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7096
+    },
+    {
+     "doc_id": "1669173",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6836
+    },
+    {
+     "doc_id": "435529",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6712
+    },
+    {
+     "doc_id": "14926162",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6554
+    },
+    {
+     "doc_id": "12871002",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6493
+    },
+    {
+     "doc_id": "6333347",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6456
+    },
+    {
+     "doc_id": "86231298",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6452
+    },
+    {
+     "doc_id": "600437",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6445
+    },
+    {
+     "doc_id": "21373240",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6426
+    }
+   ]
+  },
+  {
+   "claim_id": "637",
+   "claim": "Input from  mental and physical health care professionals is effective at decreasing homelessness.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "25649714",
+     "relevant": true,
+     "retrieval_rank": 6,
+     "cosine": 0.5958
+    },
+    {
+     "doc_id": "6129301",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.646
+    },
+    {
+     "doc_id": "31612088",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6387
+    },
+    {
+     "doc_id": "4695046",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.613
+    },
+    {
+     "doc_id": "24318630",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.5985
+    },
+    {
+     "doc_id": "13097856",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5972
+    },
+    {
+     "doc_id": "154243324",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5925
+    },
+    {
+     "doc_id": "29845974",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5863
+    },
+    {
+     "doc_id": "7074001",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5863
+    },
+    {
+     "doc_id": "485020",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.584
+    }
+   ]
+  },
+  {
+   "claim_id": "237",
+   "claim": "Cells lacking clpC have a defect in sporulation efficiency in Bacillus subtilis.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "4942718",
+     "relevant": true,
+     "retrieval_rank": 2,
+     "cosine": 0.7076
+    },
+    {
+     "doc_id": "12881593",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7316
+    },
+    {
+     "doc_id": "34386619",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6876
+    },
+    {
+     "doc_id": "1281769",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6207
+    },
+    {
+     "doc_id": "30468386",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.616
+    },
+    {
+     "doc_id": "21943141",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6149
+    },
+    {
+     "doc_id": "36345185",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6126
+    },
+    {
+     "doc_id": "9604301",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6123
+    },
+    {
+     "doc_id": "22153455",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6121
+    },
+    {
+     "doc_id": "31844040",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6102
+    }
+   ]
+  },
+  {
+   "claim_id": "982",
+   "claim": "Proteins synthesized at the growth cone are ubiquitinated at a higher rate than proteins from the cell body.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "2988714",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7748
+    },
+    {
+     "doc_id": "38477436",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6788
+    },
+    {
+     "doc_id": "6422576",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6758
+    },
+    {
+     "doc_id": "33912020",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6616
+    },
+    {
+     "doc_id": "18987782",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6603
+    },
+    {
+     "doc_id": "8460275",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6536
+    },
+    {
+     "doc_id": "8570478",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6524
+    },
+    {
+     "doc_id": "7042304",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6444
+    },
+    {
+     "doc_id": "24737389",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6434
+    },
+    {
+     "doc_id": "44947611",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6398
+    }
+   ]
+  },
+  {
+   "claim_id": "1150",
+   "claim": "Tetraspanin-3 is a causative factor in the development of acute myelogenous leukemia",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "11369420",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8001
+    },
+    {
+     "doc_id": "25832301",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6871
+    },
+    {
+     "doc_id": "10795340",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6761
+    },
+    {
+     "doc_id": "9478135",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6746
+    },
+    {
+     "doc_id": "5836",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6629
+    },
+    {
+     "doc_id": "9460704",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6482
+    },
+    {
+     "doc_id": "19510470",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.647
+    },
+    {
+     "doc_id": "33677323",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6437
+    },
+    {
+     "doc_id": "6374918",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6435
+    },
+    {
+     "doc_id": "11951999",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6416
+    }
+   ]
+  },
+  {
+   "claim_id": "859",
+   "claim": "Normal expression of RUNX1 has tumor-promoting effects.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "1982286",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.649
+    },
+    {
+     "doc_id": "8385277",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6313
+    },
+    {
+     "doc_id": "22049489",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6292
+    },
+    {
+     "doc_id": "24624992",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6247
+    },
+    {
+     "doc_id": "4429932",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6211
+    },
+    {
+     "doc_id": "12315072",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6139
+    },
+    {
+     "doc_id": "33370",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6109
+    },
+    {
+     "doc_id": "45638119",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6107
+    },
+    {
+     "doc_id": "825728",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6098
+    },
+    {
+     "doc_id": "23269537",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6094
+    }
+   ]
+  },
+  {
+   "claim_id": "575",
+   "claim": "In domesticated populations of Saccharomyces cerevisiae, whole chromosome aneuploidy is very uncommon.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "10300888",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7079
+    },
+    {
+     "doc_id": "4421746",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6843
+    },
+    {
+     "doc_id": "9548440",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6756
+    },
+    {
+     "doc_id": "7211056",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.668
+    },
+    {
+     "doc_id": "14717213",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6532
+    },
+    {
+     "doc_id": "4391817",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6531
+    },
+    {
+     "doc_id": "39758684",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6501
+    },
+    {
+     "doc_id": "4364884",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6464
+    },
+    {
+     "doc_id": "21479575",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6459
+    },
+    {
+     "doc_id": "86704258",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6452
+    }
+   ]
+  },
+  {
+   "claim_id": "439",
+   "claim": "Fz/PCP-dependent Pk localizes to the anterior membrane of neuroectoderm cells during zebrafish neuralation",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "4423559",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7218
+    },
+    {
+     "doc_id": "18575183",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6959
+    },
+    {
+     "doc_id": "4932668",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6886
+    },
+    {
+     "doc_id": "17049436",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.674
+    },
+    {
+     "doc_id": "6729465",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6718
+    },
+    {
+     "doc_id": "9629682",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6714
+    },
+    {
+     "doc_id": "30675656",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6703
+    },
+    {
+     "doc_id": "6076903",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6702
+    },
+    {
+     "doc_id": "5944514",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6658
+    },
+    {
+     "doc_id": "22178316",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6614
+    }
+   ]
+  },
+  {
+   "claim_id": "1110",
+   "claim": "Suboptimal nutrition is not predictive of chronic disease",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "13770184",
+     "relevant": true,
+     "retrieval_rank": 69,
+     "cosine": 0.5952
+    },
+    {
+     "doc_id": "8529693",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.6545
+    },
+    {
+     "doc_id": "24273592",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6535
+    },
+    {
+     "doc_id": "3828508",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6427
+    },
+    {
+     "doc_id": "49429882",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6414
+    },
+    {
+     "doc_id": "71341302",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6338
+    },
+    {
+     "doc_id": "31562330",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6329
+    },
+    {
+     "doc_id": "35495268",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6318
+    },
+    {
+     "doc_id": "28806780",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6305
+    },
+    {
+     "doc_id": "30786800",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6286
+    }
+   ]
+  },
+  {
+   "claim_id": "1270",
+   "claim": "The risk of male prisoners harming themselves is ten times that of female prisoners.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "13900610",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.6885
+    },
+    {
+     "doc_id": "1102268",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.588
+    },
+    {
+     "doc_id": "34227917",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.5755
+    },
+    {
+     "doc_id": "14843502",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.5605
+    },
+    {
+     "doc_id": "9976969",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5518
+    },
+    {
+     "doc_id": "26673492",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5477
+    },
+    {
+     "doc_id": "20491205",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5248
+    },
+    {
+     "doc_id": "42185082",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5184
+    },
+    {
+     "doc_id": "17124832",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5172
+    },
+    {
+     "doc_id": "980196",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5149
+    }
+   ]
+  },
+  {
+   "claim_id": "421",
+   "claim": "Flexible molecules experience greater steric hindrance in the tumor microenviroment than rigid molecules.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "11172205",
+     "relevant": true,
+     "retrieval_rank": 40,
+     "cosine": 0.5718
+    },
+    {
+     "doc_id": "1065627",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.6677
+    },
+    {
+     "doc_id": "6944800",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6204
+    },
+    {
+     "doc_id": "25435456",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6152
+    },
+    {
+     "doc_id": "17388232",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6108
+    },
+    {
+     "doc_id": "12866641",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6068
+    },
+    {
+     "doc_id": "26231129",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6022
+    },
+    {
+     "doc_id": "10607877",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6002
+    },
+    {
+     "doc_id": "4346436",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5963
+    },
+    {
+     "doc_id": "13889430",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5949
+    }
+   ]
+  },
+  {
+   "claim_id": "800",
+   "claim": "Modifying the epigenome in the brain affects the normal human aging process by affecting certain genes related to neurogenesis.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "22543403",
+     "relevant": true,
+     "retrieval_rank": 5,
+     "cosine": 0.7316
+    },
+    {
+     "doc_id": "4679264",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7572
+    },
+    {
+     "doc_id": "9291668",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7523
+    },
+    {
+     "doc_id": "22551259",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7455
+    },
+    {
+     "doc_id": "22264117",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7362
+    },
+    {
+     "doc_id": "1848452",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.726
+    },
+    {
+     "doc_id": "4434951",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.7057
+    },
+    {
+     "doc_id": "26230669",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.7052
+    },
+    {
+     "doc_id": "6040392",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6998
+    },
+    {
+     "doc_id": "14475235",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6998
+    }
+   ]
+  },
+  {
+   "claim_id": "569",
+   "claim": "In adult tissue, most T cells are memory T cells.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "23460562",
+     "relevant": true,
+     "retrieval_rank": 3,
+     "cosine": 0.7204
+    },
+    {
+     "doc_id": "37311371",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7409
+    },
+    {
+     "doc_id": "3155731",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7326
+    },
+    {
+     "doc_id": "10765888",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7082
+    },
+    {
+     "doc_id": "21320417",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.7074
+    },
+    {
+     "doc_id": "12966719",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6944
+    },
+    {
+     "doc_id": "4380287",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6941
+    },
+    {
+     "doc_id": "11666252",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6923
+    },
+    {
+     "doc_id": "17463549",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.682
+    },
+    {
+     "doc_id": "3835423",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6817
+    }
+   ]
+  },
+  {
+   "claim_id": "513",
+   "claim": "High cardiopulmonary fitness causes increased mortality rate.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "13230773",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7098
+    },
+    {
+     "doc_id": "12770738",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6954
+    },
+    {
+     "doc_id": "4463588",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6479
+    },
+    {
+     "doc_id": "6647414",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6461
+    },
+    {
+     "doc_id": "40817021",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6381
+    },
+    {
+     "doc_id": "31889025",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6188
+    },
+    {
+     "doc_id": "52175065",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6186
+    },
+    {
+     "doc_id": "25451374",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6153
+    },
+    {
+     "doc_id": "2032877",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6153
+    },
+    {
+     "doc_id": "1456068",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6151
+    }
+   ]
+  },
+  {
+   "claim_id": "641",
+   "claim": "Insomnia can be effectively treated with cognitive behavioral therapy.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "5912283",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7375
+    },
+    {
+     "doc_id": "31554917",
+     "relevant": true,
+     "retrieval_rank": 12,
+     "cosine": 0.5994
+    },
+    {
+     "doc_id": "17973630",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6749
+    },
+    {
+     "doc_id": "24346598",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6661
+    },
+    {
+     "doc_id": "26150367",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6634
+    },
+    {
+     "doc_id": "24865781",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.635
+    },
+    {
+     "doc_id": "12672066",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6319
+    },
+    {
+     "doc_id": "7627167",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6288
+    },
+    {
+     "doc_id": "24159217",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6143
+    },
+    {
+     "doc_id": "6191684",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6141
+    }
+   ]
+  },
+  {
+   "claim_id": "1104",
+   "claim": "Stroke patients with prior use of direct oral anticoagulants have a lower risk of in-hospital mortality than stroke patients with prior use of warfarin.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "3898784",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8008
+    },
+    {
+     "doc_id": "4910408",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7231
+    },
+    {
+     "doc_id": "29981186",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7012
+    },
+    {
+     "doc_id": "14973286",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6972
+    },
+    {
+     "doc_id": "16760369",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6832
+    },
+    {
+     "doc_id": "34338075",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6781
+    },
+    {
+     "doc_id": "44384384",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6761
+    },
+    {
+     "doc_id": "1387104",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6751
+    },
+    {
+     "doc_id": "9813098",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6736
+    },
+    {
+     "doc_id": "16180601",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6705
+    }
+   ]
+  },
+  {
+   "claim_id": "921",
+   "claim": "Participating in six months of physical activity improves cognitive functioning.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "1642727",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7412
+    },
+    {
+     "doc_id": "50670403",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6466
+    },
+    {
+     "doc_id": "17691617",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6394
+    },
+    {
+     "doc_id": "2028532",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6321
+    },
+    {
+     "doc_id": "2424794",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6199
+    },
+    {
+     "doc_id": "40817021",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.612
+    },
+    {
+     "doc_id": "12205576",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6095
+    },
+    {
+     "doc_id": "6647414",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6092
+    },
+    {
+     "doc_id": "24285403",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6037
+    },
+    {
+     "doc_id": "21274919",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5927
+    }
+   ]
+  },
+  {
+   "claim_id": "54",
+   "claim": "AMP-activated protein kinase (AMPK) activation increases inflammation-related fibrosis in the lungs.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "49556906",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8203
+    },
+    {
+     "doc_id": "3973445",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7584
+    },
+    {
+     "doc_id": "3419709",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7567
+    },
+    {
+     "doc_id": "9899292",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7476
+    },
+    {
+     "doc_id": "1590744",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.739
+    },
+    {
+     "doc_id": "24721866",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.7371
+    },
+    {
+     "doc_id": "26025820",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.7331
+    },
+    {
+     "doc_id": "7005276",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.7287
+    },
+    {
+     "doc_id": "32408470",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.7282
+    },
+    {
+     "doc_id": "23974474",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.7234
+    }
+   ]
+  },
+  {
+   "claim_id": "823",
+   "claim": "N348I mutations cause resistance to zidovudine (AZT).",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "15319019",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7778
+    },
+    {
+     "doc_id": "2319305",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7167
+    },
+    {
+     "doc_id": "25014337",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6861
+    },
+    {
+     "doc_id": "6426919",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6841
+    },
+    {
+     "doc_id": "39443128",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6102
+    },
+    {
+     "doc_id": "9505402",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6099
+    },
+    {
+     "doc_id": "4336849",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6021
+    },
+    {
+     "doc_id": "26124606",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5956
+    },
+    {
+     "doc_id": "21274496",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5955
+    },
+    {
+     "doc_id": "2638387",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5893
+    }
+   ]
+  },
+  {
+   "claim_id": "1062",
+   "claim": "S-nitrosylated GAPDH physiologically transnitrosylates histone deacetylases.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "20381484",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7642
+    },
+    {
+     "doc_id": "25748308",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6586
+    },
+    {
+     "doc_id": "32985041",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6561
+    },
+    {
+     "doc_id": "22995164",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6371
+    },
+    {
+     "doc_id": "2139357",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6292
+    },
+    {
+     "doc_id": "14171859",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6114
+    },
+    {
+     "doc_id": "22968257",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6077
+    },
+    {
+     "doc_id": "3113630",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5992
+    },
+    {
+     "doc_id": "2831620",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5982
+    },
+    {
+     "doc_id": "43048059",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5937
+    }
+   ]
+  },
+  {
+   "claim_id": "57",
+   "claim": "APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation, delaying GABA neuron degeneration.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "4709641",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8135
+    },
+    {
+     "doc_id": "4459491",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6966
+    },
+    {
+     "doc_id": "30351165",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6933
+    },
+    {
+     "doc_id": "10795063",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6911
+    },
+    {
+     "doc_id": "13814480",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6874
+    },
+    {
+     "doc_id": "13293033",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6651
+    },
+    {
+     "doc_id": "11659421",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6651
+    },
+    {
+     "doc_id": "1964163",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6649
+    },
+    {
+     "doc_id": "36637129",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6615
+    },
+    {
+     "doc_id": "3113630",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6592
+    }
+   ]
+  },
+  {
+   "claim_id": "354",
+   "claim": "Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "8774475",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8181
+    },
+    {
+     "doc_id": "1241113",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7276
+    },
+    {
+     "doc_id": "2014909",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6555
+    },
+    {
+     "doc_id": "18987782",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6411
+    },
+    {
+     "doc_id": "16086778",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.637
+    },
+    {
+     "doc_id": "17648235",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6303
+    },
+    {
+     "doc_id": "34103335",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6302
+    },
+    {
+     "doc_id": "5321708",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6202
+    },
+    {
+     "doc_id": "33076846",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6151
+    },
+    {
+     "doc_id": "7898952",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6135
+    }
+   ]
+  },
+  {
+   "claim_id": "113",
+   "claim": "Angiotensin converting enzyme inhibitors are associated with increased risk for functional renal insufficiency.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "6157837",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7748
+    },
+    {
+     "doc_id": "25816994",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.7542
+    },
+    {
+     "doc_id": "1759213",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.7084
+    },
+    {
+     "doc_id": "44030361",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.7078
+    },
+    {
+     "doc_id": "3825750",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.7067
+    },
+    {
+     "doc_id": "4678846",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.7052
+    },
+    {
+     "doc_id": "14584755",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6947
+    },
+    {
+     "doc_id": "40790033",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6888
+    },
+    {
+     "doc_id": "140098548",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6886
+    },
+    {
+     "doc_id": "26199970",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.682
+    }
+   ]
+  },
+  {
+   "claim_id": "1137",
+   "claim": "TNFAIP3 is a tumor suppressor in glioblastoma.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "33370",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.7491
+    },
+    {
+     "doc_id": "5123516",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6867
+    },
+    {
+     "doc_id": "6363093",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6823
+    },
+    {
+     "doc_id": "38355793",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6675
+    },
+    {
+     "doc_id": "12685434",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.661
+    },
+    {
+     "doc_id": "470625",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.66
+    },
+    {
+     "doc_id": "22901758",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6557
+    },
+    {
+     "doc_id": "41293601",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6508
+    },
+    {
+     "doc_id": "7898952",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6503
+    },
+    {
+     "doc_id": "40710501",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6475
+    }
+   ]
+  },
+  {
+   "claim_id": "729",
+   "claim": "Lymphadenopathy is observed in knockin mouse lacking the SHP-2 MAPK pathway.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "26851674",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.6965
+    },
+    {
+     "doc_id": "18038250",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6582
+    },
+    {
+     "doc_id": "12670680",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6517
+    },
+    {
+     "doc_id": "10574949",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6484
+    },
+    {
+     "doc_id": "317204",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6457
+    },
+    {
+     "doc_id": "4391121",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6451
+    },
+    {
+     "doc_id": "22972632",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6428
+    },
+    {
+     "doc_id": "22241778",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6418
+    },
+    {
+     "doc_id": "13923140",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6397
+    },
+    {
+     "doc_id": "26059876",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6386
+    }
+   ]
+  },
+  {
+   "claim_id": "268",
+   "claim": "Cold exposure increases BAT recruitment.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "970012",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.6328
+    },
+    {
+     "doc_id": "34121231",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6312
+    },
+    {
+     "doc_id": "4319174",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6156
+    },
+    {
+     "doc_id": "4340358",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6065
+    },
+    {
+     "doc_id": "4810810",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6031
+    },
+    {
+     "doc_id": "29381091",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6023
+    },
+    {
+     "doc_id": "38882175",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6005
+    },
+    {
+     "doc_id": "34582256",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5953
+    },
+    {
+     "doc_id": "25308734",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5939
+    },
+    {
+     "doc_id": "519974",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5859
+    }
+   ]
+  },
+  {
+   "claim_id": "1191",
+   "claim": "The amount of publicly available DNA data doubles every 10 years.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "30655442",
+     "relevant": true,
+     "retrieval_rank": 5,
+     "cosine": 0.5068
+    },
+    {
+     "doc_id": "7211056",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.5488
+    },
+    {
+     "doc_id": "27768226",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.5128
+    },
+    {
+     "doc_id": "32177659",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.5103
+    },
+    {
+     "doc_id": "14019636",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.5075
+    },
+    {
+     "doc_id": "38076716",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5041
+    },
+    {
+     "doc_id": "13857083",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5014
+    },
+    {
+     "doc_id": "26672703",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5009
+    },
+    {
+     "doc_id": "6561200",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.4979
+    },
+    {
+     "doc_id": "9291668",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.4969
+    }
+   ]
+  },
+  {
+   "claim_id": "834",
+   "claim": "NOX2-independent pathways can generate peroxynitrite by reacting with nitrogen intermediates.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "5483793",
+     "relevant": true,
+     "retrieval_rank": 154,
+     "cosine": 0.5477
+    },
+    {
+     "doc_id": "23100962",
+     "relevant": false,
+     "retrieval_rank": 1,
+     "cosine": 0.7364
+    },
+    {
+     "doc_id": "23122306",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6791
+    },
+    {
+     "doc_id": "13823200",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6518
+    },
+    {
+     "doc_id": "17097974",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6375
+    },
+    {
+     "doc_id": "22995164",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6362
+    },
+    {
+     "doc_id": "1800734",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.6294
+    },
+    {
+     "doc_id": "7230315",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.629
+    },
+    {
+     "doc_id": "21297708",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6286
+    },
+    {
+     "doc_id": "32322418",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6286
+    }
+   ]
+  },
+  {
+   "claim_id": "56",
+   "claim": "APOE4 expression in iPSC-derived neurons increases AlphaBeta production and tau phosphorylation causing GABA neuron degeneration.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "4709641",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.8123
+    },
+    {
+     "doc_id": "4459491",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.702
+    },
+    {
+     "doc_id": "13814480",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6937
+    },
+    {
+     "doc_id": "10795063",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6929
+    },
+    {
+     "doc_id": "30351165",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.6873
+    },
+    {
+     "doc_id": "13293033",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.668
+    },
+    {
+     "doc_id": "11659421",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.6671
+    },
+    {
+     "doc_id": "24725136",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.6649
+    },
+    {
+     "doc_id": "31347396",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.6641
+    },
+    {
+     "doc_id": "9194077",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.6625
+    }
+   ]
+  },
+  {
+   "claim_id": "327",
+   "claim": "Deletion of \u03b1v\u03b28 does not result in a spontaneous inflammatory phenotype.",
+   "split": "main",
+   "pool": [
+    {
+     "doc_id": "17997584",
+     "relevant": true,
+     "retrieval_rank": 1,
+     "cosine": 0.657
+    },
+    {
+     "doc_id": "22972632",
+     "relevant": false,
+     "retrieval_rank": 2,
+     "cosine": 0.6183
+    },
+    {
+     "doc_id": "23912923",
+     "relevant": false,
+     "retrieval_rank": 3,
+     "cosine": 0.6165
+    },
+    {
+     "doc_id": "34469966",
+     "relevant": false,
+     "retrieval_rank": 4,
+     "cosine": 0.6046
+    },
+    {
+     "doc_id": "5922085",
+     "relevant": false,
+     "retrieval_rank": 5,
+     "cosine": 0.5945
+    },
+    {
+     "doc_id": "21164071",
+     "relevant": false,
+     "retrieval_rank": 6,
+     "cosine": 0.5933
+    },
+    {
+     "doc_id": "5484763",
+     "relevant": false,
+     "retrieval_rank": 7,
+     "cosine": 0.5902
+    },
+    {
+     "doc_id": "15405204",
+     "relevant": false,
+     "retrieval_rank": 8,
+     "cosine": 0.5864
+    },
+    {
+     "doc_id": "3083927",
+     "relevant": false,
+     "retrieval_rank": 9,
+     "cosine": 0.5846
+    },
+    {
+     "doc_id": "9159125",
+     "relevant": false,
+     "retrieval_rank": 10,
+     "cosine": 0.5841
+    }
+   ]
+  }
+ ]
+}

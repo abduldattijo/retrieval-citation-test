@@ -1,0 +1,6 @@
+data/corpus.jsonl
+data/queries.jsonl
+data/qrels_test.tsv
+data/*.npy
+.venv/
+__pycache__/

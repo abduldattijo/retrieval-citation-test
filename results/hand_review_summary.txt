@@ -1,0 +1,40 @@
+46 rows in sheet, 46 valid labels, 0 invalid []
+
+== Type R: n=28 exact agreement 71.4 percent, Cohen kappa 0.60
+  rows = human, columns = judge: ['CONTRADICTS', 'RELATED NOT EVIDENCE', 'SUPPORTS', 'UNRELATED']
+   CONTRADICTS            [4, 0, 0, 0]
+   RELATED NOT EVIDENCE   [0, 6, 0, 6]
+   SUPPORTS               [0, 2, 9, 0]
+   UNRELATED              [0, 0, 0, 1]
+  collapsed to evidence yes or no: agreement 92.9 percent; human says evidence 15, judge says evidence 13 of 28
+  group relevant               n=10 agree 8  human labels {'CONTRADICTS': 2, 'SUPPORTS': 6, 'RELATED NOT EVIDENCE': 2}
+  group unlabeled_high         n=14 agree 11  human labels {'SUPPORTS': 5, 'RELATED NOT EVIDENCE': 7, 'CONTRADICTS': 2}
+  group unlabeled_low_sample   n= 4 agree 1  human labels {'UNRELATED': 1, 'RELATED NOT EVIDENCE': 3}
+
+== Type C: n=18 exact agreement 66.7 percent, Cohen kappa 0.34
+  rows = human, columns = judge: ['DOES NOT SUPPORT', 'PARTLY', 'SUPPORTS']
+   DOES NOT SUPPORT       [0, 0, 0]
+   PARTLY                 [1, 8, 1]
+   SUPPORTS               [0, 4, 4]
+  collapsed to clean support yes or no: agreement 72.2 percent; human clean support 8, judge 5 of 18
+  group relevant               n= 6 agree 3  human labels {'SUPPORTS': 4, 'PARTLY': 2}
+  group unlabeled_high         n= 6 agree 5  human labels {'SUPPORTS': 3, 'PARTLY': 3}
+  group unlabeled_low          n= 6 agree 4  human labels {'PARTLY': 5, 'SUPPORTS': 1}
+
+rows where human and judge differ:
+  #1 R unlabeled_high: human SUPPORTS | judge RELATED NOT EVIDENCE | note: Supports cold-induced thermogenic activation and thermogenic gene expression in BAT; it does not measure BAT mass recruitment.
+  #8 C relevant: human SUPPORTS | judge PARTLY | note: 
+  #19 R unlabeled_low_sample: human RELATED NOT EVIDENCE | judge UNRELATED | note: Concerns hematopoietic progenitors and miRNA regulation, but does not establish a role for GATA-3.
+  #26 C unlabeled_low: human PARTLY | judge SUPPORTS | note: Supports the head-injury/dementia clause; it does not support the separate headache and white-matter clause.
+  #32 C relevant: human PARTLY | judge DOES NOT SUPPORT | note: Describes CK-2017357 as a fast-skeletal-troponin activator, but does not name tirasemtiv or establish what the other passages cover.
+  #34 R relevant: human SUPPORTS | judge RELATED NOT EVIDENCE | note: Supports cold-induced UCP1-dependent lipolysis involving BAT thermogenesis; it does not directly measure BAT recruitment.
+  #36 C unlabeled_low: human SUPPORTS | judge PARTLY | note: 
+  #37 R unlabeled_low_sample: human RELATED NOT EVIDENCE | judge UNRELATED | note: Discusses Arabidopsis vesicle-trafficking proteins, but not PIN1 localization or VPS9a.
+  #39 C unlabeled_high: human SUPPORTS | judge PARTLY | note: 
+  #41 R unlabeled_high: human RELATED NOT EVIDENCE | judge UNRELATED | note: Shows AMPK activation reducing kidney fibrosis; it does not address inflammation-related lung fibrosis.
+  #42 C relevant: human SUPPORTS | judge PARTLY | note: 
+  #43 R unlabeled_low_sample: human RELATED NOT EVIDENCE | judge UNRELATED | note: Concerns lactate in shock, but not Gabonese children with SFM.
+  #44 R unlabeled_high: human RELATED NOT EVIDENCE | judge UNRELATED | note: Concerns IRGM and mycobacterial autophagy, not IRG1 antiviral effects against neurotropic viruses.
+  #45 R relevant: human RELATED NOT EVIDENCE | judge UNRELATED | note: Studies NT-pro-BNP, not copeptin; it does not establish the copeptin–diabetes relationship.
+
+notes written: 30 of 46
